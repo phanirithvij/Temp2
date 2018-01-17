@@ -9,3 +9,5 @@ Enjoy
 You like this anime?
 Me too!!
 gintama
+download.sh
+list.txt
