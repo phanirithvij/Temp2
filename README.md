@@ -1,1 +1,6 @@
-# Temp2
+cd ..
+./startp.sh gintama
+cd Anime
+ls
+cd gintama
+ls
