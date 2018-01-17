@@ -4,3 +4,4 @@ cd Anime
 ls
 cd gintama
 ls
+#HMMMMM
