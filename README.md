@@ -7,3 +7,4 @@ cd Anime
 ls
 cd onepiece
 ls
+#IMASUGUNIMOTTOHANDSUP
