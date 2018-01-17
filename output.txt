@@ -1,0 +1,12 @@
+Creating gintama
+making it https://twist.moe/a/gintama/1
+Fetching info...
+Fetching succesful by CURL
+Creating gintama/list.txt
+copying download.sh to gintama
+Done
+Check the Anime folder
+Enjoy
+gintama Added to animelist.txt
+gintama
+gintama
