@@ -17,7 +17,7 @@ if [ ! -f Rhtold.md ]
 then
 if [ ! -f README.md ]
 then
-	wget -q https://github.com/phanirithvij/temp/blob/master/README.md
+	wget -q https://github.com/phanirithvij/Temp2/blob/master/README.md
 fi
 mv README.md Rhtold.md
 fi
@@ -30,7 +30,7 @@ do
     then
     rm README.md
     fi
-	wget -q https://github.com/phanirithvij/temp/blob/master/README.md
+	wget -q https://github.com/phanirithvij/Temp2/blob/master/README.md
     if [ -f README.md ]
     then
 	mv README.md Rhtnew.md
