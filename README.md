@@ -1,8 +1,10 @@
+#REMEMBER PWD IS 
+#twist.moe/ Temp2/
+#Anime is ../Anime
 cd ..
-./startp.sh gintama
+./startp.sh onepiece
 cd Anime
 ls
-cd gintama
+cd onepiece
 ls
 #HMMMMM
-#Trial3
