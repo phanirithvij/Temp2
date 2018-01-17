@@ -1,13 +1,12 @@
-making it https://twist.moe/a/gintama/1
+Creating onepiece
+making it https://twist.moe/a/onepiece/1
 Fetching info...
 Fetching succesful by CURL
-Creating gintama/list.txt
-copying download.sh to gintama
+Creating onepiece/list.txt
+copying download.sh to onepiece
 Done
 Check the Anime folder
 Enjoy
-You like this anime?
-Me too!!
+onepiece Added to animelist.txt
 gintama
-download.sh
-list.txt
+onepiece
