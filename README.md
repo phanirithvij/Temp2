@@ -1,7 +1,3 @@
 pwd
-cd ../Anime/hunter-x*
+cd ~/anm
 ls
-cat list.txt
-./download.sh 1 1
-echo change
-#comment
