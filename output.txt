@@ -1,4 +1,8 @@
 #start
-     
+    echo Test
+Test
+ 
+echo Test
+Test
  
 #Git sucessful
