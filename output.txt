@@ -1,5 +1,8 @@
 #start
 
 /home/rohan/gtemp/Temp2
+Downloader.sh
+Downloader.sh~
+list.txt
 opeope
 #Git sucessful
