@@ -1,7 +1,7 @@
 ls
  
-total 400
-drwxr-xr-x. 42 phani.rithvij 201783  4096 Jan 17 00:04 .
+total 404
+drwxr-xr-x. 42 phani.rithvij 201783  4096 Jan 18 13:38 .
 drwxr-xr-x. 13 root          201783  4096 Oct 14 20:49 ..
 drwxr-xr-x.  2 phani.rithvij 201783  4096 Nov 10 11:35 1.cfiles
 drwxr-xr-x.  2 phani.rithvij 201783  4096 Nov 10 11:36 1.txtfiles
@@ -46,6 +46,7 @@ drwx------.  5 phani.rithvij 201783  4096 Nov 24 12:24 .local
 drwx------.  5 phani.rithvij 201783  4096 Sep  6 10:53 .mozilla
 drwxr-xr-x.  2 phani.rithvij 201783  4096 Sep  6 10:13 Music
 -rw-r--r--.  1 phani.rithvij 201783  4434 Sep 12 19:17 MyLogs.log
+-rw-r--r--.  1 phani.rithvij 201783    64 Jan 18 13:38 .netrc
 drwxr-xr-x.  6 phani.rithvij 201783  4096 Oct 23 16:09 Onepiece
 drwxr-xr-x.  2 phani.rithvij 201783  4096 Jan  4 18:14 .oracle_jre_usage
 -rwxr-----.  1 phani.rithvij 201783  1452 Oct 11 17:12 paddle.html
@@ -69,6 +70,6 @@ drwxr-xr-x.  3 phani.rithvij 201783  4096 Jan  4 18:32 Things for Workspace
 -rw-r--r--.  1 phani.rithvij 201783 30293 Nov 30 18:23 Turingff.pdf
 drwxr-xr-x.  2 phani.rithvij 201783  4096 Nov 11 07:45 Videos
 drwxr-xr-x.  2 phani.rithvij 201783  4096 Jan 16 17:41 .vim
--rw-------.  1 phani.rithvij 201783 18699 Jan 17 00:04 .viminfo
+-rw-------.  1 phani.rithvij 201783 18760 Jan 18 13:38 .viminfo
 -rw-r--r--.  1 phani.rithvij 201783   589 Jan  8 15:54 wcdih
 -rw-r--r--.  1 phani.rithvij 201783   288 Jan 16 20:08 .wget-hsts
