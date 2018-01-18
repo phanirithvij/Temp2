@@ -1,15 +1,13 @@
-YO MY FIREND IS IT WORKING?
-ls
-ex2.sh
-ex.sh
-f.sh
-gitauto.sh
-output.txt
-pid
-procstart.sh
-Rhtnew.md
-Rhtold.md
-ls
+making it https://twist.moe/a/onepiece/1
+Fetching info...
+Fetching succesful by CURL
+Creating onepiece/list.txt
+copying download.sh to onepiece
+Done
+Check the Anime folder
+Enjoy
+You like this anime?
+Me too!!
 angel-beats
 another
 Code Geass 2
@@ -25,4 +23,5 @@ onepiece
 one-piece
 psycho-pass-2
 shinseiki-evangelion
-suckses
+download.sh
+list.txt
