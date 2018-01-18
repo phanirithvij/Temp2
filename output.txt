@@ -1,11 +1,12 @@
 #start
-    echo Test
-Test
- 
-echo Test
-Test
- 
-echo Test
-Test
+    ls
+ex2.sh
+ex.sh
+f.sh
+gitauto.sh
+output.txt
+procstart.sh
+Rhtnew.md
+Rhtold.md
  
 #Git sucessful
