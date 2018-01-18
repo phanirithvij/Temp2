@@ -5,7 +5,7 @@ cd ~
 #./startp.sh onepiece
 echo ls
 echo ' '
-ls -la
+ls | grep '.sh'
 #cd Anime
 #ls
 #cd onepiece
