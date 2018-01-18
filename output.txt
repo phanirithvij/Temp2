@@ -15,6 +15,7 @@ f.sh
 gitauto.sh
 output.txt
 procstart.sh
+README.md.1
 Rhtnew.md
 Rhtold.md
  
@@ -30,6 +31,7 @@ f.sh
 gitauto.sh
 output.txt
 procstart.sh
+README.md.1
 Rhtnew.md
 Rhtold.md
  
