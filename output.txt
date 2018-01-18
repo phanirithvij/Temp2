@@ -1,6 +1,0 @@
-ls
- 
-2_2.sh
-bctestester.sh
-q3.sh
-tableinput.sh
