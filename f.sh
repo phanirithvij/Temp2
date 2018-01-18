@@ -1,16 +1,24 @@
 echo new process
 if [ ! -f ex.sh ]
 then
-echo '
-cat .tmp.txt > ex2.sh
-chmod 777 ex2.sh
-./ex2.sh > output.txt
+echo 'IFS=$\"n"
+echo "#start" > output.txt
+for i in $(cat .tmp.txt)
+do
+echo $i > ex2.sh
+chmod +x ex2.sh
+echo $i >> output.txt
+./ex2.sh >> output.txt
+echo " " >> output.txt
+done
 if [ -f gitauto.sh  ]
 then
-	chmod 777 gitauto.sh
-	./gitauto.sh
-fi' > ex.sh
-echmod +x ex.sh
+echo "#Git sucessful" >> output.txt
+chmod 777 gitauto.sh
+./gitauto.sh
+fi
+' > ex.sh
+chmod +x ex.sh
 fi
 g=0
 if [ ! -f Rhtold.md ]
