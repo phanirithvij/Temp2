@@ -1,5 +1,7 @@
 cd ..
-cd Anime 
+pwd
+cd Anime
+pwd
 cd gintama
 ls
 ./downlad.sh 151 151
