@@ -1,3 +1,3 @@
-cd ..
+cd ../Anime/gintama
 pwd
 
