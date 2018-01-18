@@ -52,7 +52,7 @@ do
 	#	if [[ "$op" == "n" ]]
 	#	then
 	cp Rhtnew.md Rhtold.md
-    cp /tmp/latest.txt /tmp/old.txt
+   	cp /tmp/latest.txt /tmp/old.txt
 	#fir=$(cat /tmp/latest.txt | grep '<artic' | cut -d ">" -f3)
 	#las=$(cat /tmp/latest.txt | grep '</p>' | cut -d "<" -f1)
 	#echo $fir > .tmp.txt
