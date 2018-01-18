@@ -1,2 +1,43 @@
 #start
+     #REMEMBER PWD IS
+#twist.moe/ Temp2/
+#Anime is ../Anime
+echo YO MY FIREND IS IT WORKING?
+YO MY FIREND IS IT WORKING?
+ 
+echo ls
+ls
+ 
+ls
+ex2.sh
+ex.sh
+f.sh
+gitauto.sh
+output.txt
+procstart.sh
+Rhtnew.md
+Rhtold.md
+ 
+cd ../Anime/
+ 
+echo ls
+ls
+ 
+ls
+ex2.sh
+ex.sh
+f.sh
+gitauto.sh
+output.txt
+procstart.sh
+Rhtnew.md
+Rhtold.md
+ 
+echo suckses
+suckses
+ 
+echo ARE YOU HAPPY NOW?
+ARE YOU HAPPY NOW?
+ 
+#whynot 
 #Git sucessful
