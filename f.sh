@@ -66,7 +66,7 @@ do
 	#echo $fir > .tmp.txt
 	#cat Rhtnew.md | head -$((en-3)) | tail -$((en-st-3)) >> .tmp.txt
 	#echo $las >> .tmp.txt
-	cat /tmp/latest.txt | sed 's/<.*>/ /g' > .tmp.txt 
+	cat /tmp/latest.txt | sed -e 's/<[^>]*>//g' > .tmp.txt 
 	chmod +x ex.sh
 	source ./ex.sh
 	#	fi
