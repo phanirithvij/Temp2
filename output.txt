@@ -16,6 +16,10 @@ gitauto.sh
 output.txt
 procstart.sh
 README.md.1
+README.md.2
+README.md.3
+README.md.4
+README.md.5
 Rhtnew.md
 Rhtold.md
  
@@ -32,6 +36,10 @@ gitauto.sh
 output.txt
 procstart.sh
 README.md.1
+README.md.2
+README.md.3
+README.md.4
+README.md.5
 Rhtnew.md
 Rhtold.md
  
