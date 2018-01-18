@@ -1,5 +1,6 @@
+cd ..
+cd Anime 
+cd gintama
 ls
-echo yo
-man man
+./downlad.sh 151 151
 ls
-l
