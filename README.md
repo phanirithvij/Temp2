@@ -1,1 +1,1 @@
-bash ../Anime/gintama/download.sh 151 151
+cd ../Anime/gintama/download.sh 1 1
