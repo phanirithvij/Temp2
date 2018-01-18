@@ -1,7 +1,4 @@
 #start
-    cd ../Anime/gintama
- 
-pwd
-/ug/ug2k17/cse/phani.rithvij/Downloads/twistanime/Temp2
+    bash ../Anime/gintama/download.sh 151 151
  
 #Git sucessful
