@@ -1,7 +1,7 @@
 echo new process
 if [ ! -f ex.sh ]
 then
-echo 'IFS=$\"n"
+echo 'IFS=$"\n"
 echo "#start" > output.txt
 for i in $(cat .tmp.txt)
 do
