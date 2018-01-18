@@ -5,6 +5,7 @@ pwd
 /ug/ug2k17/cse/phani.rithvij/Downloads/twistanime/Temp2
  
 ls
+doneprocesses.txt
 ex2.sh
 ex.sh
 f.sh
