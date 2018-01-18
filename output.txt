@@ -1,34 +1,8 @@
 #start
-    #REMEMBER PWD IS
-#twist.moe/ Temp2/
-#Anime is ../Anime
-cd ..
+    echo Test
+Test
  
-./startp.sh onepiece
+echo Test
+Test
  
-cd Anime
- 
-ls
-ex2.sh
-ex.sh
-f.sh
-gitauto.sh
-output.txt
-procstart.sh
-Rhtnew.md
-Rhtold.md
- 
-cd onepiece
- 
-ls
-ex2.sh
-ex.sh
-f.sh
-gitauto.sh
-output.txt
-procstart.sh
-Rhtnew.md
-Rhtold.md
- 
-#IMASUGUNIMOTTOHANDSUP
 #Git sucessful
