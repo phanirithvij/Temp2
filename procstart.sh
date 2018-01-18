@@ -1,5 +1,6 @@
-git clone https://github.com/phanirithvij/twist.moe.git
-cd twist.moe/
+#git clone https://github.com/phanirithvij/twist.moe.git
+#cd twist.moe/
+cd
 git clone https://github.com/phanirithvij/Temp2.git
 cd Temp2/
 cd ~
