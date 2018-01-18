@@ -7,3 +7,4 @@ ls
 cd ../Anime/
 echo ls
 ls
+echo suckses
