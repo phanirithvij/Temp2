@@ -16,6 +16,13 @@ gitauto.sh
 output.txt
 pid
 procstart.sh
+README.md.1
+README.md.2
+README.md.3
+README.md.4
+README.md.5
+README.md.6
+README.md.7
 Rhtnew.md
 Rhtold.md
 temp
@@ -33,6 +40,13 @@ gitauto.sh
 output.txt
 pid
 procstart.sh
+README.md.1
+README.md.2
+README.md.3
+README.md.4
+README.md.5
+README.md.6
+README.md.7
 Rhtnew.md
 Rhtold.md
 temp
@@ -40,7 +54,8 @@ temp
 echo suckses
 suckses
  
-echo ARE YOU HAPPY NOW? 
+echo ARE YOU HAPPY NOW?
 ARE YOU HAPPY NOW?
  
+#why 
 #Git sucessful
