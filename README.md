@@ -1,2 +1,2 @@
 cd ../Anime/gintama/
-./download.sh 1 1
+./download.sh 149 149
