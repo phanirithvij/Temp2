@@ -1,3 +1,4 @@
+YO MY FIREND IS IT WORKING?
 ls
 ex2.sh
 ex.sh
