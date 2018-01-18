@@ -1,7 +1,13 @@
 #start
     cd ..
  
+pwd
+/ug/ug2k17/cse/phani.rithvij/Downloads/twistanime/Temp2
+ 
 cd Anime
+ 
+pwd
+/ug/ug2k17/cse/phani.rithvij/Downloads/twistanime/Temp2
  
 cd gintama
  
