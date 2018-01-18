@@ -9,4 +9,6 @@ output.txt
 procstart.sh
 Rhtnew.md
 Rhtold.md
+download.sh
+list.txt
 #Git sucessful
