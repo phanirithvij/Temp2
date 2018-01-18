@@ -1,14 +1,5 @@
 #start
 
 /home/rohan/gtemp/Temp2
-README.md~
-Rhtnew.md
-Rhtold.md
-ex.sh
-ex2.sh
-f.sh
-gitauto.sh
-output.txt
-procstart.sh
-change
+opeope
 #Git sucessful
