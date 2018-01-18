@@ -2,7 +2,7 @@
 #twist.moe/ Temp2/
 #Anime is ../Anime
 
-ehco ls
+echo ls
 ls 
 cd ../Anime/
 echo ls
