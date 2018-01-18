@@ -1,7 +1,3 @@
 pwd
-cd ~/anm
+cd ../Anime/gintama
 ls
-#yo
-./Downloader.sh &
-sleep 5
-killall curl
