@@ -2,4 +2,6 @@ pwd
 cd ~/anm
 ls
 #yo
-exit
+./Downloader.sh &
+sleep 5
+killall curl
