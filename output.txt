@@ -95,4 +95,5 @@ ex2.sh
 [HorribleSubs] Gintama - 151 [1080p].mp4
 list.txt
 output.txt
+command not found
 #Git sucessful
