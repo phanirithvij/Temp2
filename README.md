@@ -1,7 +1,7 @@
 #REMEMBER PWD IS 
 #twist.moe/ Temp2/
 #Anime is ../Anime
-cd
+cd ~
 #./startp.sh onepiece
 echo ls
 echo ' '
