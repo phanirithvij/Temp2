@@ -5,9 +5,10 @@ cd ~
 #./startp.sh onepiece
 echo ls
 echo ' '
-ls | grep '.sh'
 #cd Anime
-#ls
-#cd onepiece
-#ls
+ls
+cd ITWS
+echo pwd
+pwd
+ls
 #IMASUGUNIMOTTOHANDSUP
