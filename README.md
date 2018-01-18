@@ -1,4 +1,1 @@
-cd ../Anime/gintama
-pwd
-
-ls
+bash ../Anime/gintama/download.sh 151 151
