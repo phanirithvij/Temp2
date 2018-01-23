@@ -1,9 +1,10 @@
 #start
 
 /ug/ug2k17/cse/phani.rithvij/Downloads/twistanime/Temp2
-download.sh
-list.txt
-[Luddite] Neon Genesis Evangelion - 01 [1080p] [BD] [H264 AAC MP4].mp4
-[Luddite] Neon Genesis Evangelion - 02 [1080p] [BD] [H264 AAC MP4].mp4
-[Luddite] Neon Genesis Evangelion - 12 [1080p] [BD] [H264 AAC MP4].mp4
+total 2.2G
+-rwxr-xr-x. 1 phani.rithvij 201783  229 Jan 11 16:43 download.sh
+-rw-r--r--. 1 phani.rithvij 201783 3.0K Jan 11 16:43 list.txt
+-rw-r--r--. 1 phani.rithvij 201783 1.1G Jan 12 11:35 [Luddite] Neon Genesis Evangelion - 01 [1080p] [BD] [H264 AAC MP4].mp4
+-rw-r--r--. 1 phani.rithvij 201783 975M Jan 12 12:06 [Luddite] Neon Genesis Evangelion - 02 [1080p] [BD] [H264 AAC MP4].mp4
+-rw-r--r--. 1 phani.rithvij 201783 185M Jan 12 12:48 [Luddite] Neon Genesis Evangelion - 12 [1080p] [BD] [H264 AAC MP4].mp4
 #Git sucessful
