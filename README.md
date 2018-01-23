@@ -1,5 +1,5 @@
 pwd
 cd ../Anime
 cd shin*
-ls
+ls -lh
 #whta
