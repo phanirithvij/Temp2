@@ -2,6 +2,7 @@ pwd
 cd ../Anime
 ls
 #whta
-cd hunter-x-hunter-*
+cd angel*
 #./download.s14 14
+ls
 echo SUCKSESS
