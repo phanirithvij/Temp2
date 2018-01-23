@@ -3,4 +3,5 @@ cd ../Anime
 ls
 #whta
 cd hunter-x-hunter-*
-./download.sh 14 14
+#./download.s14 14
+echo SUCKSESS
