@@ -1,21 +1,4 @@
 #start
 
-ex2.sh
-ex.sh
-f.sh
-gitauto.sh
-output.txt
-procstart.sh
-Rhtnew.md
-Rhtold.md
 ls
-Anime
-animelist.txt
-download.sh
-list.sh
-OLD
-README.md
-size.txt
-startp.sh
-Temp2
 #Git sucessful
