@@ -14,5 +14,5 @@ download.sh
 list.txt
 https://twist.moe/public/img/404-umaru.mp4
 There should be something
-SUCKSESS
+Somethings wrong
 #Git sucessful
