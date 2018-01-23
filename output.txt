@@ -9,4 +9,13 @@ procstart.sh
 Rhtnew.md
 Rhtold.md
 ls
+Anime
+animelist.txt
+download.sh
+list.sh
+OLD
+README.md
+size.txt
+startp.sh
+Temp2
 #Git sucessful
