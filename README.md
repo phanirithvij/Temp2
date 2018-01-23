@@ -1,8 +1,10 @@
 pwd
-cd ../Anime
+cd ../
 ls
 #whta
-cd angel*
-#./download.s14 14
+./startp.sh test
+cd Anime/test/
 ls
+echo There should be something
+#./download.s14 14
 echo SUCKSESS
