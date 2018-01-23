@@ -8,4 +8,5 @@ output.txt
 procstart.sh
 Rhtnew.md
 Rhtold.md
+ls
 #Git sucessful
