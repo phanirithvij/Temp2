@@ -3,4 +3,4 @@ cd ../Anime
 ls
 #whta
 cd hunter-x-hunter-*
-ls -lh
+./download.sh 1 14
