@@ -1,5 +1,3 @@
 pwd
-cd ../Anime/gintama
+cd ../Anime
 ls
-ls
-#LONG TIME NO SEE
