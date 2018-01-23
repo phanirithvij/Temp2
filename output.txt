@@ -10,9 +10,24 @@ README.md
 size.txt
 startp.sh
 Temp2
+Anime
+animelist.txt
 download.sh
-list.txt
-https://twist.moe/public/img/404-umaru.mp4
+list.sh
+OLD
+README.md
+size.txt
+startp.sh
+Temp2
 There should be something
 Somethings wrong
+Anime
+animelist.txt
+download.sh
+list.sh
+OLD
+README.md
+size.txt
+startp.sh
+Temp2
 #Git sucessful
