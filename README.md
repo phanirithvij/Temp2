@@ -1,6 +1,4 @@
-ls
-echo Sup
-cd ..
-echo ls
-pwd
-ls
+for i in `ls`
+do
+echo $i
+done
