@@ -1,23 +1,4 @@
 #start
 
-ex2.sh
-ex.sh
-f.sh
-gitauto.sh
-output.txt
-procstart.sh
-Rhtnew.md
-Rhtold.md
-Sup
 ls
-/ug/ug2k17/cse/phani.rithvij/Downloads/twistanime
-Anime
-animelist.txt
-download.sh
-list.sh
-OLD
-README.md
-size.txt
-startp.sh
-Temp2
 #Git sucessful
