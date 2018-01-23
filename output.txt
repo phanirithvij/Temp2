@@ -10,19 +10,9 @@ README.md
 size.txt
 startp.sh
 Temp2
-URL: https://twist.moe/a/test
-Creating test
-making it https://twist.moe/a/test/1
-Fetching info...
-Fetching succesful by CURL
-Creating test/list.txt
-copying download.sh to test
-Done
-Check the Anime folder
-Enjoy
-test Added to animelist.txt
 download.sh
 list.txt
+https://twist.moe/public/img/404-umaru.mp4
 There should be something
 SUCKSESS
 #Git sucessful
