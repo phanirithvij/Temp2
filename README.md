@@ -1,2 +1,6 @@
 ls
-exit
+echo Sup
+cd ..
+echo ls
+pwd
+ls
