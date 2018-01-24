@@ -2,5 +2,5 @@
 echo " "
 echo hmmm
 cd ../Anime/hunter*
-ls -lh
+./download.sh 31 31
 #whats wrong
