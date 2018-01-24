@@ -13,4 +13,248 @@ noragami-aragoto
 one-piece
 psycho-pass-2
 shinseiki-evangelion
+angel-beats:
+total 4397188
+-rw-r--r--. 1 phani.rithvij 201783 351192306 Jan 10 17:52 [DeadFish] Angel Beats! - 01 [720p] [H264 AAC MP4].mp4
+-rw-r--r--. 1 phani.rithvij 201783 333350696 Jan 10 18:18 [DeadFish] Angel Beats! - 02 [720p] [H264 AAC MP4].mp4
+-rw-r--r--. 1 phani.rithvij 201783 331774440 Jan 10 18:39 [DeadFish] Angel Beats! - 03 [720p] [H264 AAC MP4].mp4
+-rw-r--r--. 1 phani.rithvij 201783 333579284 Jan 10 18:59 [DeadFish] Angel Beats! - 04 [720p] [H264 AAC MP4].mp4
+-rw-r--r--. 1 phani.rithvij 201783 339340356 Jan 10 19:20 [DeadFish] Angel Beats! - 05 [720p] [H264 AAC MP4].mp4
+-rw-r--r--. 1 phani.rithvij 201783 333411991 Jan 10 19:42 [DeadFish] Angel Beats! - 06 [720p] [H264 AAC MP4].mp4
+-rw-r--r--. 1 phani.rithvij 201783 351759487 Jan 10 19:53 [DeadFish] Angel Beats! - 07 [720p] [H264 AAC MP4].mp4
+-rw-r--r--. 1 phani.rithvij 201783 333428769 Jan 10 20:03 [DeadFish] Angel Beats! - 08 [720p] [H264 AAC MP4].mp4
+-rw-r--r--. 1 phani.rithvij 201783 351241240 Jan 10 20:14 [DeadFish] Angel Beats! - 09 [720p] [H264 AAC MP4].mp4
+-rw-r--r--. 1 phani.rithvij 201783 367489873 Jan 10 20:26 [DeadFish] Angel Beats! - 10 [720p] [H264 AAC MP4].mp4
+-rw-r--r--. 1 phani.rithvij 201783 351567626 Jan 10 20:54 [DeadFish] Angel Beats! - 11 [720p] [H264 AAC MP4].mp4
+-rw-r--r--. 1 phani.rithvij 201783 366801288 Jan 11 14:09 [DeadFish] Angel Beats! - 12 [720p] [H264 AAC MP4].mp4
+-rw-r--r--. 1 phani.rithvij 201783 357692370 Jan 11 14:38 [DeadFish] Angel Beats! - 13 [720p] [H264 AAC MP4].mp4
+-rwxr-xr-x. 1 phani.rithvij 201783       404 Jan 16 09:39 download.sh
+-rw-r--r--. 1 phani.rithvij 201783      1170 Jan  9 18:17 list.txt
+
+another:
+total 3439504
+-rw-r--r--. 1 phani.rithvij 201783 255070135 Jan 11 15:18 [Coalgirls]_Another_01_(1920x1080_Blu-Ray_FLAC)_[BB945F6C].mp4
+-rw-r--r--. 1 phani.rithvij 201783 244994534 Jan 11 15:25 [Coalgirls]_Another_02_(1920x1080_Blu-Ray_FLAC)_[1BA346EC].mp4
+-rw-r--r--. 1 phani.rithvij 201783 298982432 Jan 11 15:35 [Coalgirls]_Another_03_(1920x1080_Blu-Ray_FLAC)_[F4310B6E].mp4
+-rw-r--r--. 1 phani.rithvij 201783 266995544 Jan 11 15:51 [Coalgirls]_Another_04_(1920x1080_Blu-Ray_FLAC)_[EB036255].mp4
+-rw-r--r--. 1 phani.rithvij 201783 192023377 Jan 11 15:57 [Coalgirls]_Another_05_(1920x1080_Blu-Ray_FLAC)_[FFEA9F00].mp4
+-rw-r--r--. 1 phani.rithvij 201783 258111747 Jan 11 16:13 [Coalgirls]_Another_06_(1920x1080_Blu-Ray_FLAC)_[C1A05DF2].mp4
+-rw-r--r--. 1 phani.rithvij 201783 262101815 Jan 11 16:30 [Coalgirls]_Another_07_(1920x1080_Blu-Ray_FLAC)_[425C03E9].mp4
+-rw-r--r--. 1 phani.rithvij 201783 384744250 Jan 11 16:42 [Coalgirls]_Another_08_(1920x1080_Blu-Ray_FLAC)_[27C371E1].mp4
+-rw-r--r--. 1 phani.rithvij 201783 319047679 Jan 11 16:52 [Coalgirls]_Another_09_(1920x1080_Blu-Ray_FLAC)_[569D9AB1].mp4
+-rw-r--r--. 1 phani.rithvij 201783 290062721 Jan 11 17:14 [Coalgirls]_Another_10_(1920x1080_Blu-Ray_FLAC)_[92B54BE5].mp4
+-rw-r--r--. 1 phani.rithvij 201783 250956651 Jan 11 17:37 [Coalgirls]_Another_11_(1920x1080_Blu-Ray_FLAC)_[3B22446A].mp4
+-rw-r--r--. 1 phani.rithvij 201783 498880674 Jan 11 17:55 [Coalgirls]_Another_12_(1920x1080_Blu-Ray_FLAC)_[4FA6427F].mp4
+-rwxr-xr-x. 1 phani.rithvij 201783       229 Jan 11 16:40 download.sh
+-rw-r--r--. 1 phani.rithvij 201783      1140 Jan 11 16:40 list.txt
+
+FINISHED:
+total 48
+drwxr-xr-x. 2 phani.rithvij 201783 4096 Jan 10 01:08 ao-no-exorcist
+drwxr-xr-x. 2 phani.rithvij 201783 4096 Jan 10 01:30 ao-no-exorcist-kyoto-fujouou-hen
+drwxr-xr-x. 2 phani.rithvij 201783 4096 Jan 16 07:07 Code Geass 2
+drwxr-xr-x. 2 phani.rithvij 201783 4096 Jan 22 22:07 code-geass-hangyaku-no-lelouch
+drwxr-xr-x. 2 phani.rithvij 201783 4096 Jan 13 18:26 code-geass-hangyaku-no-lelouch-r2
+drwxr-xr-x. 2 phani.rithvij 201783 4096 Jan  9 19:25 corpse-party
+drwxr-xr-x. 2 phani.rithvij 201783 4096 Jan  9 20:58 kiseijuu-sei-no-kakuritsu
+drwxr-xr-x. 2 phani.rithvij 201783 4096 Jan 10 01:58 made-in-abyss
+drwxr-xr-x. 2 phani.rithvij 201783 4096 Jan  9 17:03 monster-monsume
+drwxr-xr-x. 2 phani.rithvij 201783 4096 Jan  8 17:41 overlord
+drwxr-xr-x. 2 phani.rithvij 201783 4096 Jan 23 18:09 tokyo-ghoul
+drwxr-xr-x. 2 phani.rithvij 201783 4096 Jan 23 18:12 tokyo-ghoul-a
+
+fullmetal-alchemist-brotherhood:
+total 12
+-rwxr-xr-x. 1 phani.rithvij 201783  404 Jan 13 12:26 download.sh
+-rw-r--r--. 1 phani.rithvij 201783 4608 Jan 13 12:26 list.txt
+
+gintama:
+total 14952216
+-rw-r--r--. 1 phani.rithvij 201783        16 Jan 18 19:37 doneprocesses.txt
+-rwxr-xr-x. 1 phani.rithvij 201783       463 Jan 23 16:11 download.sh
+-rwxr-xr-x. 1 phani.rithvij 201783        14 Jan 18 19:37 ex2.sh
+-rw-r--r--. 1 phani.rithvij 201783 132150032 Jan 16 10:00 [HorribleSubs] Gintama - 070 [480p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 120398371 Jan 16 10:02 [HorribleSubs] Gintama - 071 [480p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 127784372 Jan 16 10:04 [HorribleSubs] Gintama - 072 [480p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 115476115 Jan 16 10:07 [HorribleSubs] Gintama - 073 [480p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 128754729 Jan 16 10:09 [HorribleSubs] Gintama - 074 [480p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 139719952 Jan 16 10:13 [HorribleSubs] Gintama - 075 [480p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 123823160 Jan 16 10:15 [HorribleSubs] Gintama - 076 [480p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 109400929 Jan 16 10:18 [HorribleSubs] Gintama - 077 [480p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 103626194 Jan 16 10:20 [HorribleSubs] Gintama - 078 [480p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 103837787 Jan 16 10:22 [HorribleSubs] Gintama - 079 [480p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 114228639 Jan 16 10:24 [HorribleSubs] Gintama - 080 [480p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 139598718 Jan 16 10:26 [HorribleSubs] Gintama - 081 [480p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 133425186 Jan 16 10:28 [HorribleSubs] Gintama - 082 [480p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 142153356 Jan 16 10:31 [HorribleSubs] Gintama - 083 [480p].mp4
+-rw-r--r--. 1 phani.rithvij 201783  89125430 Jan 16 10:32 [HorribleSubs] Gintama - 084 [480p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 116449099 Jan 16 10:34 [HorribleSubs] Gintama - 085 [480p].mp4
+-rw-r--r--. 1 phani.rithvij 201783  94735180 Jan 16 10:36 [HorribleSubs] Gintama - 086 [480p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 107166954 Jan 16 10:37 [HorribleSubs] Gintama - 087 [480p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 134803089 Jan 16 10:39 [HorribleSubs] Gintama - 088 [480p].mp4
+-rw-r--r--. 1 phani.rithvij 201783  89430880 Jan 16 10:41 [HorribleSubs] Gintama - 089 [480p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 122207320 Jan 16 10:43 [HorribleSubs] Gintama - 090 [480p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 109911888 Jan 16 10:46 [HorribleSubs] Gintama - 091 [480p].mp4
+-rw-r--r--. 1 phani.rithvij 201783  98280924 Jan 16 10:48 [HorribleSubs] Gintama - 092 [480p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 116003482 Jan 16 10:50 [HorribleSubs] Gintama - 093 [480p].mp4
+-rw-r--r--. 1 phani.rithvij 201783  94009277 Jan 16 10:51 [HorribleSubs] Gintama - 094 [480p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 105564932 Jan 16 10:55 [HorribleSubs] Gintama - 095 [480p].mp4
+-rw-r--r--. 1 phani.rithvij 201783  89505167 Jan 16 10:57 [HorribleSubs] Gintama - 096 [480p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 120858086 Jan 16 11:00 [HorribleSubs] Gintama - 097 [480p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 103147694 Jan 16 11:03 [HorribleSubs] Gintama - 098 [480p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 117148288 Jan 16 11:07 [HorribleSubs] Gintama - 099 [480p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 115467227 Jan 16 11:11 [HorribleSubs] Gintama - 100 [480p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 109432390 Jan 17 00:10 [HorribleSubs] Gintama - 101 [480p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 108256236 Jan 17 00:14 [HorribleSubs] Gintama - 102 [480p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 107171247 Jan 17 00:18 [HorribleSubs] Gintama - 103 [480p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 106959257 Jan 17 00:22 [HorribleSubs] Gintama - 104 [480p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 123340813 Jan 17 00:27 [HorribleSubs] Gintama - 105 [480p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 145945343 Jan 17 00:31 [HorribleSubs] Gintama - 106 [480p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 109950579 Jan 17 00:35 [HorribleSubs] Gintama - 107 [480p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 106377299 Jan 17 00:38 [HorribleSubs] Gintama - 108 [480p].mp4
+-rw-r--r--. 1 phani.rithvij 201783  97113508 Jan 17 00:42 [HorribleSubs] Gintama - 109 [480p].mp4
+-rw-r--r--. 1 phani.rithvij 201783  94557824 Jan 17 00:46 [HorribleSubs] Gintama - 110 [480p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 127413926 Jan 17 00:50 [HorribleSubs] Gintama - 111 [480p].mp4
+-rw-r--r--. 1 phani.rithvij 201783  98912249 Jan 17 00:54 [HorribleSubs] Gintama - 112 [480p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 125549745 Jan 17 00:59 [HorribleSubs] Gintama - 113 [480p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 106306926 Jan 17 01:04 [HorribleSubs] Gintama - 114 [480p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 120560575 Jan 17 01:09 [HorribleSubs] Gintama - 115 [480p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 109315667 Jan 17 01:13 [HorribleSubs] Gintama - 116 [480p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 122401741 Jan 17 01:18 [HorribleSubs] Gintama - 117 [480p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 136895991 Jan 17 01:21 [HorribleSubs] Gintama - 118 [480p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 109109892 Jan 17 01:24 [HorribleSubs] Gintama - 119 [480p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 106959864 Jan 17 01:28 [HorribleSubs] Gintama - 120 [480p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 112985973 Jan 17 01:34 [HorribleSubs] Gintama - 121 [480p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 108424927 Jan 17 01:40 [HorribleSubs] Gintama - 122 [480p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 122377596 Jan 17 01:46 [HorribleSubs] Gintama - 123 [480p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 121540080 Jan 17 01:54 [HorribleSubs] Gintama - 124 [480p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 119439060 Jan 17 02:00 [HorribleSubs] Gintama - 125 [480p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 117089162 Jan 17 02:05 [HorribleSubs] Gintama - 126 [480p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 399839202 Jan 17 02:22 [HorribleSubs] Gintama - 127 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 380523198 Jan 17 02:36 [HorribleSubs] Gintama - 128 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 380508853 Jan 17 02:47 [HorribleSubs] Gintama - 129 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 395108921 Jan 17 03:09 [HorribleSubs] Gintama - 130 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 355988552 Jan 17 03:31 [HorribleSubs] Gintama - 131 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 343169585 Jan 17 03:50 [HorribleSubs] Gintama - 132 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 361818978 Jan 17 04:07 [HorribleSubs] Gintama - 133 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 454418942 Jan 17 04:28 [HorribleSubs] Gintama - 134 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 373311114 Jan 17 04:41 [HorribleSubs] Gintama - 135 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 324160079 Jan 17 04:57 [HorribleSubs] Gintama - 136 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 329508940 Jan 17 05:15 [HorribleSubs] Gintama - 137 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 310296638 Jan 17 05:28 [HorribleSubs] Gintama - 138 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 375935803 Jan 17 05:45 [HorribleSubs] Gintama - 139 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 359848165 Jan 17 06:02 [HorribleSubs] Gintama - 140 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 405026142 Jan 17 06:23 [HorribleSubs] Gintama - 141 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 396063103 Jan 17 06:33 [HorribleSubs] Gintama - 142 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 400750005 Jan 17 06:42 [HorribleSubs] Gintama - 143 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 395227546 Jan 17 06:57 [HorribleSubs] Gintama - 144 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 378731631 Jan 17 07:09 [HorribleSubs] Gintama - 145 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 364553966 Jan 17 07:22 [HorribleSubs] Gintama - 146 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 362749593 Jan 17 07:40 [HorribleSubs] Gintama - 147 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 265437163 Jan 17 07:54 [HorribleSubs] Gintama - 148 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 287759184 Jan 17 08:09 [HorribleSubs] Gintama - 149 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 377526455 Jan 17 08:27 [HorribleSubs] Gintama - 150 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783     24913 Jan 16 23:46 list.txt
+-rw-r--r--. 1 phani.rithvij 201783     13540 Jan 18 19:37 output.txt
+
+hunter-x-hunter-2011:
+total 12126560
+-rwxr-xr-x. 1 phani.rithvij 201783       463 Jan 24 19:16 download.sh
+-rw-r--r--. 1 phani.rithvij 201783 452345435 Jan 23 10:28 [HorribleSubs] Hunter x Hunter - 001 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 371220706 Jan 23 10:55 [HorribleSubs] Hunter x Hunter - 002 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 428251891 Jan 23 11:24 [HorribleSubs] Hunter x Hunter - 003 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 563857031 Jan 23 12:02 [HorribleSubs] Hunter x Hunter - 004 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 478335666 Jan 23 12:34 [HorribleSubs] Hunter x Hunter - 005 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 453418548 Jan 23 13:03 [HorribleSubs] Hunter x Hunter - 006 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 407211077 Jan 23 13:31 [HorribleSubs] Hunter x Hunter - 007 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 388333737 Jan 23 13:53 [HorribleSubs] Hunter x Hunter - 008 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 379947665 Jan 23 14:13 [HorribleSubs] Hunter x Hunter - 009 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 413631130 Jan 23 14:38 [HorribleSubs] Hunter x Hunter - 010 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 381459667 Jan 23 15:01 [HorribleSubs] Hunter x Hunter - 011 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 370263634 Jan 23 15:20 [HorribleSubs] Hunter x Hunter - 012 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 472352597 Jan 23 15:44 [HorribleSubs] Hunter x Hunter - 013 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 439051887 Jan 23 21:02 [HorribleSubs] Hunter x Hunter - 014 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 442335404 Jan 23 21:25 [HorribleSubs] Hunter x Hunter - 015 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 447301679 Jan 23 21:39 [HorribleSubs] Hunter x Hunter - 016 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 388179022 Jan 23 21:51 [HorribleSubs] Hunter x Hunter - 017 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 429964161 Jan 23 22:04 [HorribleSubs] Hunter x Hunter - 018 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 353859748 Jan 23 22:15 [HorribleSubs] Hunter x Hunter - 019 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 352884650 Jan 23 22:26 [HorribleSubs] Hunter x Hunter - 020 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 369866141 Jan 23 22:38 [HorribleSubs] Hunter x Hunter - 021 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 367580253 Jan 23 22:51 [HorribleSubs] Hunter x Hunter - 022 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 358825658 Jan 23 23:02 [HorribleSubs] Hunter x Hunter - 023 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 393469677 Jan 23 23:15 [HorribleSubs] Hunter x Hunter - 024 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 368385559 Jan 23 23:26 [HorribleSubs] Hunter x Hunter - 025 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 413627158 Jan 23 23:39 [HorribleSubs] Hunter x Hunter - 026 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 391987101 Jan 23 23:52 [HorribleSubs] Hunter x Hunter - 027 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 409183109 Jan 24 00:04 [HorribleSubs] Hunter x Hunter - 028 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 427910834 Jan 24 00:17 [HorribleSubs] Hunter x Hunter - 029 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 439218307 Jan 24 00:31 [HorribleSubs] Hunter x Hunter - 030 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783  63209221 Jan 24 19:20 [HorribleSubs] Hunter x Hunter - 031 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783     13468 Jan  9 17:00 list.txt
+
+noragami:
+total 3977436
+-rwxr-xr-x. 1 phani.rithvij 201783       404 Jan 16 09:36 download.sh
+-rw-r--r--. 1 phani.rithvij 201783       600 Jan  9 17:09 list.txt
+-rw-r--r--. 1 phani.rithvij 201783 338639714 Jan 10 18:07 noragami-001.mp4
+-rw-r--r--. 1 phani.rithvij 201783 336141220 Jan 10 18:23 noragami-002.mp4
+-rw-r--r--. 1 phani.rithvij 201783 360776976 Jan 10 18:45 noragami-003.mp4
+-rw-r--r--. 1 phani.rithvij 201783 373806150 Jan 10 19:07 noragami-004.mp4
+-rw-r--r--. 1 phani.rithvij 201783 310617736 Jan 10 19:23 noragami-005.mp4
+-rw-r--r--. 1 phani.rithvij 201783 367229898 Jan 10 19:34 noragami-006.mp4
+-rw-r--r--. 1 phani.rithvij 201783 309665520 Jan 10 19:58 noragami-007.mp4
+-rw-r--r--. 1 phani.rithvij 201783 307290460 Jan 10 20:15 noragami-008.mp4
+-rw-r--r--. 1 phani.rithvij 201783 357773094 Jan 10 20:39 noragami-009.mp4
+-rw-r--r--. 1 phani.rithvij 201783 320101874 Jan 11 14:05 noragami-010.mp4
+-rw-r--r--. 1 phani.rithvij 201783 320408336 Jan 11 14:16 noragami-011.mp4
+-rw-r--r--. 1 phani.rithvij 201783 370366606 Jan 11 14:46 noragami-012.mp4
+
+noragami-aragoto:
+total 8596168
+-rwxr-xr-x. 1 phani.rithvij 201783       404 Jan 16 09:40 download.sh
+-rw-r--r--. 1 phani.rithvij 201783       832 Jan  9 17:09 list.txt
+-rw-r--r--. 1 phani.rithvij 201783 759065019 Jan 10 18:24 noragamiaragoto-001.mp4
+-rw-r--r--. 1 phani.rithvij 201783 599811451 Jan 10 18:42 noragamiaragoto-002.mp4
+-rw-r--r--. 1 phani.rithvij 201783 673268649 Jan 10 19:02 noragamiaragoto-003.mp4
+-rw-r--r--. 1 phani.rithvij 201783 666112113 Jan 10 19:25 noragamiaragoto-004.mp4
+-rw-r--r--. 1 phani.rithvij 201783 764688259 Jan 10 20:13 noragamiaragoto-005.mp4
+-rw-r--r--. 1 phani.rithvij 201783 643117597 Jan 10 20:47 noragamiaragoto-006.mp4
+-rw-r--r--. 1 phani.rithvij 201783 633414109 Jan 11 14:24 noragamiaragoto-007.mp4
+-rw-r--r--. 1 phani.rithvij 201783 623422429 Jan 11 14:55 noragamiaragoto-008.mp4
+-rw-r--r--. 1 phani.rithvij 201783 654862021 Jan 11 15:22 noragamiaragoto-009.mp4
+-rw-r--r--. 1 phani.rithvij 201783 666891421 Jan 11 15:51 noragamiaragoto-010.mp4
+-rw-r--r--. 1 phani.rithvij 201783 778847957 Jan 11 16:31 noragamiaragoto-011.mp4
+-rw-r--r--. 1 phani.rithvij 201783 717152637 Jan 11 17:03 noragamiaragoto-012.mp4
+-rw-r--r--. 1 phani.rithvij 201783 621724177 Jan 11 17:36 noragamiaragoto-013.mp4
+
+one-piece:
+total 504604
+-rwxr-xr-x. 1 phani.rithvij 201783       463 Jan 24 16:24 download.sh
+-rw-r--r--. 1 phani.rithvij 201783 516638823 Jan 23 21:19 [HorribleSubs] One Piece - 822 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783     62472 Jan 24 16:24 list.txt
+
+psycho-pass-2:
+total 6838532
+-rwxr-xr-x. 1 phani.rithvij 201783       404 Jan 12 11:19 download.sh
+-rw-r--r--. 1 phani.rithvij 201783       616 Jan 11 16:52 list.txt
+-rw-r--r--. 1 phani.rithvij 201783 327610314 Jan 11 17:16 psychopass2-001.mp4
+-rw-r--r--. 1 phani.rithvij 201783 686151502 Jan 11 17:51 psychopass2-002.mp4
+-rw-r--r--. 1 phani.rithvij 201783 725952688 Jan 11 18:15 psychopass2-003.mp4
+-rw-r--r--. 1 phani.rithvij 201783 830427922 Jan 12 10:45 psychopass2-004.mp4
+-rw-r--r--. 1 phani.rithvij 201783 777361406 Jan 12 10:49 psychopass2-005.mp4
+-rw-r--r--. 1 phani.rithvij 201783 463544893 Jan 12 10:51 psychopass2-006.mp4
+-rw-r--r--. 1 phani.rithvij 201783 382978845 Jan 12 10:53 psychopass2-007.mp4
+-rw-r--r--. 1 phani.rithvij 201783 379454683 Jan 12 11:05 psychopass2-008.mp4
+-rw-r--r--. 1 phani.rithvij 201783 808119831 Jan 12 11:33 psychopass2-009.mp4
+-rw-r--r--. 1 phani.rithvij 201783 783140301 Jan 12 12:02 psychopass2-010.mp4
+-rw-r--r--. 1 phani.rithvij 201783 837846463 Jan 13 11:59 psychopass2-011.mp4
+
+shinseiki-evangelion:
+total 2304432
+-rwxr-xr-x. 1 phani.rithvij 201783        229 Jan 11 16:43 download.sh
+-rw-r--r--. 1 phani.rithvij 201783       3042 Jan 11 16:43 list.txt
+-rw-r--r--. 1 phani.rithvij 201783 1145257376 Jan 12 11:35 [Luddite] Neon Genesis Evangelion - 01 [1080p] [BD] [H264 AAC MP4].mp4
+-rw-r--r--. 1 phani.rithvij 201783 1021427460 Jan 12 12:06 [Luddite] Neon Genesis Evangelion - 02 [1080p] [BD] [H264 AAC MP4].mp4
+-rw-r--r--. 1 phani.rithvij 201783  193036036 Jan 12 12:48 [Luddite] Neon Genesis Evangelion - 12 [1080p] [BD] [H264 AAC MP4].mp4
 #Git sucessful
