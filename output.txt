@@ -1,38 +1,38 @@
 #start
 
 ls
-
-download.sh404
-[HorribleSubs]HunterxHunter-001432M
-[HorribleSubs]HunterxHunter-002355M
-[HorribleSubs]HunterxHunter-003409M
-[HorribleSubs]HunterxHunter-004538M
-[HorribleSubs]HunterxHunter-005457M
-[HorribleSubs]HunterxHunter-006433M
-[HorribleSubs]HunterxHunter-007389M
-[HorribleSubs]HunterxHunter-008371M
-[HorribleSubs]HunterxHunter-009363M
-[HorribleSubs]HunterxHunter-010395M
-[HorribleSubs]HunterxHunter-011364M
-[HorribleSubs]HunterxHunter-012354M
-[HorribleSubs]HunterxHunter-013451M
-[HorribleSubs]HunterxHunter-014419M
-[HorribleSubs]HunterxHunter-015422M
-[HorribleSubs]HunterxHunter-016427M
-[HorribleSubs]HunterxHunter-017371M
-[HorribleSubs]HunterxHunter-018411M
-[HorribleSubs]HunterxHunter-019338M
-[HorribleSubs]HunterxHunter-020337M
-[HorribleSubs]HunterxHunter-021353M
-[HorribleSubs]HunterxHunter-022351M
-[HorribleSubs]HunterxHunter-023343M
-[HorribleSubs]HunterxHunter-024376M
-[HorribleSubs]HunterxHunter-025352M
-[HorribleSubs]HunterxHunter-026395M
-[HorribleSubs]HunterxHunter-027374M
-[HorribleSubs]HunterxHunter-028391M
-[HorribleSubs]HunterxHunter-029409M
-[HorribleSubs]HunterxHunter-030419M
-list.txt14K
+       
+download.sh       404
+[HorribleSubs] Hunter x Hunter - 001 [1080p].mp4 432M
+[HorribleSubs] Hunter x Hunter - 002 [1080p].mp4 355M
+[HorribleSubs] Hunter x Hunter - 003 [1080p].mp4 409M
+[HorribleSubs] Hunter x Hunter - 004 [1080p].mp4 538M
+[HorribleSubs] Hunter x Hunter - 005 [1080p].mp4 457M
+[HorribleSubs] Hunter x Hunter - 006 [1080p].mp4 433M
+[HorribleSubs] Hunter x Hunter - 007 [1080p].mp4 389M
+[HorribleSubs] Hunter x Hunter - 008 [1080p].mp4 371M
+[HorribleSubs] Hunter x Hunter - 009 [1080p].mp4 363M
+[HorribleSubs] Hunter x Hunter - 010 [1080p].mp4 395M
+[HorribleSubs] Hunter x Hunter - 011 [1080p].mp4 364M
+[HorribleSubs] Hunter x Hunter - 012 [1080p].mp4 354M
+[HorribleSubs] Hunter x Hunter - 013 [1080p].mp4 451M
+[HorribleSubs] Hunter x Hunter - 014 [1080p].mp4 419M
+[HorribleSubs] Hunter x Hunter - 015 [1080p].mp4 422M
+[HorribleSubs] Hunter x Hunter - 016 [1080p].mp4 427M
+[HorribleSubs] Hunter x Hunter - 017 [1080p].mp4 371M
+[HorribleSubs] Hunter x Hunter - 018 [1080p].mp4 411M
+[HorribleSubs] Hunter x Hunter - 019 [1080p].mp4 338M
+[HorribleSubs] Hunter x Hunter - 020 [1080p].mp4 337M
+[HorribleSubs] Hunter x Hunter - 021 [1080p].mp4 353M
+[HorribleSubs] Hunter x Hunter - 022 [1080p].mp4 351M
+[HorribleSubs] Hunter x Hunter - 023 [1080p].mp4 343M
+[HorribleSubs] Hunter x Hunter - 024 [1080p].mp4 376M
+[HorribleSubs] Hunter x Hunter - 025 [1080p].mp4 352M
+[HorribleSubs] Hunter x Hunter - 026 [1080p].mp4 395M
+[HorribleSubs] Hunter x Hunter - 027 [1080p].mp4 374M
+[HorribleSubs] Hunter x Hunter - 028 [1080p].mp4 391M
+[HorribleSubs] Hunter x Hunter - 029 [1080p].mp4 409M
+[HorribleSubs] Hunter x Hunter - 030 [1080p].mp4 419M
+list.txt       14K
 /ug/ug2k17/cse/phani.rithvij/Downloads/twistanime/Anime/hunter-x-hunter-2011
 #Git sucessful
