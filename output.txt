@@ -1,15 +1,14 @@
 #start
 
 ls
-URL: https://twist.moe/a/one-piece
-making it https://twist.moe/a/one-piece/1
-Fetching info...
-Fetching succesful by CURL
-Creating one-piece/list.txt
-copying download.sh to one-piece
-Done
-Check the Anime folder
-Enjoy
-You like this anime?
-Me too!!
+Anime
+animelist.txt
+download.sh
+list.sh
+OLD
+README.md
+size.txt
+startp.sh
+Temp2
+/ug/ug2k17/cse/phani.rithvij/Downloads/twistanime/Temp2
 #Git sucessful
