@@ -1,5 +1,5 @@
 
 echo ls
 cd ../Anime/hunter*
-ls -lh | awk '{print $9 $5}'
+ls -lh | tr -s " " | tr " " "," | awk -F, '{print $9 $5}' | tr "," " "
 pwd
