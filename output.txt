@@ -35,4 +35,5 @@ download.sh404
 [HorribleSubs]419M
 list.txt14K
 /ug/ug2k17/cse/phani.rithvij/Downloads/twistanime/Anime/hunter-x-hunter-2011
+WASTE
 #Git sucessful
