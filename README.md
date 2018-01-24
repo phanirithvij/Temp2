@@ -1,7 +1,8 @@
 #fresh
 echo " "
 echo hmmm
-cd ../Anime/hunter*
-./download.sh 31 31
-#whats wrong
-#why the fuuuuuuu
+cd ../Anime
+ls 
+#./download.sh 31 31
+#@#€£¥¢
+#Temp2
