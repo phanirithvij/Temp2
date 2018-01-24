@@ -2,4 +2,37 @@
 
  
 hmmm
+total 12G
+-rwxr-xr-x. 1 phani.rithvij 201783  404 Jan 16 09:43 download.sh
+-rw-r--r--. 1 phani.rithvij 201783 432M Jan 23 10:28 [HorribleSubs] Hunter x Hunter - 001 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 355M Jan 23 10:55 [HorribleSubs] Hunter x Hunter - 002 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 409M Jan 23 11:24 [HorribleSubs] Hunter x Hunter - 003 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 538M Jan 23 12:02 [HorribleSubs] Hunter x Hunter - 004 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 457M Jan 23 12:34 [HorribleSubs] Hunter x Hunter - 005 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 433M Jan 23 13:03 [HorribleSubs] Hunter x Hunter - 006 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 389M Jan 23 13:31 [HorribleSubs] Hunter x Hunter - 007 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 371M Jan 23 13:53 [HorribleSubs] Hunter x Hunter - 008 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 363M Jan 23 14:13 [HorribleSubs] Hunter x Hunter - 009 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 395M Jan 23 14:38 [HorribleSubs] Hunter x Hunter - 010 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 364M Jan 23 15:01 [HorribleSubs] Hunter x Hunter - 011 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 354M Jan 23 15:20 [HorribleSubs] Hunter x Hunter - 012 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 451M Jan 23 15:44 [HorribleSubs] Hunter x Hunter - 013 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 419M Jan 23 21:02 [HorribleSubs] Hunter x Hunter - 014 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 422M Jan 23 21:25 [HorribleSubs] Hunter x Hunter - 015 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 427M Jan 23 21:39 [HorribleSubs] Hunter x Hunter - 016 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 371M Jan 23 21:51 [HorribleSubs] Hunter x Hunter - 017 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 411M Jan 23 22:04 [HorribleSubs] Hunter x Hunter - 018 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 338M Jan 23 22:15 [HorribleSubs] Hunter x Hunter - 019 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 337M Jan 23 22:26 [HorribleSubs] Hunter x Hunter - 020 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 353M Jan 23 22:38 [HorribleSubs] Hunter x Hunter - 021 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 351M Jan 23 22:51 [HorribleSubs] Hunter x Hunter - 022 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 343M Jan 23 23:02 [HorribleSubs] Hunter x Hunter - 023 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 376M Jan 23 23:15 [HorribleSubs] Hunter x Hunter - 024 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 352M Jan 23 23:26 [HorribleSubs] Hunter x Hunter - 025 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 395M Jan 23 23:39 [HorribleSubs] Hunter x Hunter - 026 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 374M Jan 23 23:52 [HorribleSubs] Hunter x Hunter - 027 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 391M Jan 24 00:04 [HorribleSubs] Hunter x Hunter - 028 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 409M Jan 24 00:17 [HorribleSubs] Hunter x Hunter - 029 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 419M Jan 24 00:31 [HorribleSubs] Hunter x Hunter - 030 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783  14K Jan  9 17:00 list.txt
 #Git sucessful
