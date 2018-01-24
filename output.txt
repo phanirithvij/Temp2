@@ -1,14 +1,39 @@
 #start
 
 ls
-Anime
-animelist.txt
 download.sh
-list.sh
-OLD
-README.md
-size.txt
-startp.sh
-Temp2
+[HorribleSubs] Hunter x Hunter - 001 [1080p].mp4
+[HorribleSubs] Hunter x Hunter - 002 [1080p].mp4
+[HorribleSubs] Hunter x Hunter - 003 [1080p].mp4
+[HorribleSubs] Hunter x Hunter - 004 [1080p].mp4
+[HorribleSubs] Hunter x Hunter - 005 [1080p].mp4
+[HorribleSubs] Hunter x Hunter - 006 [1080p].mp4
+[HorribleSubs] Hunter x Hunter - 007 [1080p].mp4
+[HorribleSubs] Hunter x Hunter - 008 [1080p].mp4
+[HorribleSubs] Hunter x Hunter - 009 [1080p].mp4
+[HorribleSubs] Hunter x Hunter - 010 [1080p].mp4
+[HorribleSubs] Hunter x Hunter - 011 [1080p].mp4
+[HorribleSubs] Hunter x Hunter - 012 [1080p].mp4
+[HorribleSubs] Hunter x Hunter - 013 [1080p].mp4
+[HorribleSubs] Hunter x Hunter - 014 [1080p].mp4
+[HorribleSubs] Hunter x Hunter - 015 [1080p].mp4
+[HorribleSubs] Hunter x Hunter - 016 [1080p].mp4
+[HorribleSubs] Hunter x Hunter - 017 [1080p].mp4
+[HorribleSubs] Hunter x Hunter - 018 [1080p].mp4
+[HorribleSubs] Hunter x Hunter - 019 [1080p].mp4
+[HorribleSubs] Hunter x Hunter - 020 [1080p].mp4
+[HorribleSubs] Hunter x Hunter - 021 [1080p].mp4
+[HorribleSubs] Hunter x Hunter - 022 [1080p].mp4
+[HorribleSubs] Hunter x Hunter - 023 [1080p].mp4
+[HorribleSubs] Hunter x Hunter - 024 [1080p].mp4
+[HorribleSubs] Hunter x Hunter - 025 [1080p].mp4
+[HorribleSubs] Hunter x Hunter - 026 [1080p].mp4
+[HorribleSubs] Hunter x Hunter - 027 [1080p].mp4
+[HorribleSubs] Hunter x Hunter - 028 [1080p].mp4
+[HorribleSubs] Hunter x Hunter - 029 [1080p].mp4
+[HorribleSubs] Hunter x Hunter - 030 [1080p].mp4
+list.txt
+/ug/ug2k17/cse/phani.rithvij/Downloads/twistanime/Temp2
+/ug/ug2k17/cse/phani.rithvij/Downloads/twistanime/Anime/hunter-x-hunter-2011
 /ug/ug2k17/cse/phani.rithvij/Downloads/twistanime/Temp2
 #Git sucessful
