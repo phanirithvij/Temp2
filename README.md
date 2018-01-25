@@ -1,2 +1,4 @@
-cd ../Anime/hunter*
-ls -lh
+cd
+df 
+#du
+du -sh
