@@ -1,3 +1,3 @@
 cd ../Anime/hunter*
-./download.sh 51 70
+#./download.sh 51 70
 ls -lh
