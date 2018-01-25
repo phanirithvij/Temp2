@@ -5,3 +5,4 @@ cd Kiss*
 ls -lh
 
 
+ps -ef
