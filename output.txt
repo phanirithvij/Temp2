@@ -1,4 +1,48 @@
 #start
 
  
+total 11G
+-rwxrwxrwx. 1 phani.rithvij 201783  456 Jan  5 19:04 Downloader.sh
+-rw-r--r--. 1 phani.rithvij 201783 234M Jan 25 20:21 Hunter_x_Hunter_(2011)_(Sub)_Episode_012.mp4
+-rw-r--r--. 1 phani.rithvij 201783 285M Jan 25 20:31 Hunter_x_Hunter_(2011)_(Sub)_Episode_013.mp4
+-rw-r--r--. 1 phani.rithvij 201783 293M Jan 25 20:42 Hunter_x_Hunter_(2011)_(Sub)_Episode_015.mp4
+-rw-r--r--. 1 phani.rithvij 201783 299M Jan 25 21:26 Hunter_x_Hunter_(2011)_(Sub)_Episode_016.mp4
+-rw-r--r--. 1 phani.rithvij 201783 224M Jan 25 21:33 Hunter_x_Hunter_(2011)_(Sub)_Episode_017.mp4
+-rw-r--r--. 1 phani.rithvij 201783 221M Jan 25 21:40 Hunter_x_Hunter_(2011)_(Sub)_Episode_018.mp4
+-rw-r--r--. 1 phani.rithvij 201783 223M Jan 25 21:53 Hunter_x_Hunter_(2011)_(Sub)_Episode_019.mp4
+-rw-r--r--. 1 phani.rithvij 201783 303M Jan 25 22:04 Hunter_x_Hunter_(2011)_(Sub)_Episode_020.mp4
+-rw-r--r--. 1 phani.rithvij 201783 223M Jan 25 22:12 Hunter_x_Hunter_(2011)_(Sub)_Episode_021.mp4
+-rw-r--r--. 1 phani.rithvij 201783 223M Jan 25 22:44 Hunter_x_Hunter_(2011)_(Sub)_Episode_022.mp4
+-rw-r--r--. 1 phani.rithvij 201783 311M Jan 25 22:54 Hunter_x_Hunter_(2011)_(Sub)_Episode_023.mp4
+-rw-r--r--. 1 phani.rithvij 201783 223M Jan 25 23:02 Hunter_x_Hunter_(2011)_(Sub)_Episode_024.mp4
+-rw-r--r--. 1 phani.rithvij 201783 224M Jan 25 23:09 Hunter_x_Hunter_(2011)_(Sub)_Episode_025.mp4
+-rw-r--r--. 1 phani.rithvij 201783 301M Jan 25 23:19 Hunter_x_Hunter_(2011)_(Sub)_Episode_026.mp4
+-rw-r--r--. 1 phani.rithvij 201783 242M Jan 25 23:28 Hunter_x_Hunter_(2011)_(Sub)_Episode_027.mp4
+-rw-r--r--. 1 phani.rithvij 201783 314M Jan 25 23:38 Hunter_x_Hunter_(2011)_(Sub)_Episode_028.mp4
+-rw-r--r--. 1 phani.rithvij 201783 313M Jan 25 23:51 Hunter_x_Hunter_(2011)_(Sub)_Episode_029.mp4
+-rw-r--r--. 1 phani.rithvij 201783 306M Jan 26 00:02 Hunter_x_Hunter_(2011)_(Sub)_Episode_030.mp4
+-rw-r--r--. 1 phani.rithvij 201783 317M Jan 26 00:15 Hunter_x_Hunter_(2011)_(Sub)_Episode_031.mp4
+-rw-r--r--. 1 phani.rithvij 201783 305M Jan 26 00:24 Hunter_x_Hunter_(2011)_(Sub)_Episode_032.mp4
+-rw-r--r--. 1 phani.rithvij 201783 318M Jan 26 00:49 Hunter_x_Hunter_(2011)_(Sub)_Episode_033.mp4
+-rw-r--r--. 1 phani.rithvij 201783 314M Jan 26 00:59 Hunter_x_Hunter_(2011)_(Sub)_Episode_034.mp4
+-rw-r--r--. 1 phani.rithvij 201783 328M Jan 26 01:10 Hunter_x_Hunter_(2011)_(Sub)_Episode_035.mp4
+-rw-r--r--. 1 phani.rithvij 201783 306M Jan 26 01:19 Hunter_x_Hunter_(2011)_(Sub)_Episode_036.mp4
+-rw-r--r--. 1 phani.rithvij 201783 315M Jan 26 01:29 Hunter_x_Hunter_(2011)_(Sub)_Episode_037.mp4
+-rw-r--r--. 1 phani.rithvij 201783 239M Jan 26 01:36 Hunter_x_Hunter_(2011)_(Sub)_Episode_038.mp4
+-rw-r--r--. 1 phani.rithvij 201783 323M Jan 26 01:47 Hunter_x_Hunter_(2011)_(Sub)_Episode_039.mp4
+-rw-r--r--. 1 phani.rithvij 201783 235M Jan 26 01:53 Hunter_x_Hunter_(2011)_(Sub)_Episode_040.mp4
+-rw-r--r--. 1 phani.rithvij 201783 240M Jan 26 02:00 Hunter_x_Hunter_(2011)_(Sub)_Episode_041.mp4
+-rw-r--r--. 1 phani.rithvij 201783 239M Jan 26 02:07 Hunter_x_Hunter_(2011)_(Sub)_Episode_042.mp4
+-rw-r--r--. 1 phani.rithvij 201783 314M Jan 26 02:15 Hunter_x_Hunter_(2011)_(Sub)_Episode_043.mp4
+-rw-r--r--. 1 phani.rithvij 201783 309M Jan 26 02:24 Hunter_x_Hunter_(2011)_(Sub)_Episode_044.mp4
+-rw-r--r--. 1 phani.rithvij 201783 223M Jan 26 02:31 Hunter_x_Hunter_(2011)_(Sub)_Episode_045.mp4
+-rw-r--r--. 1 phani.rithvij 201783 224M Jan 26 02:39 Hunter_x_Hunter_(2011)_(Sub)_Episode_046.mp4
+-rw-r--r--. 1 phani.rithvij 201783 304M Jan 26 02:49 Hunter_x_Hunter_(2011)_(Sub)_Episode_047.mp4
+-rw-r--r--. 1 phani.rithvij 201783 321M Jan 26 02:59 Hunter_x_Hunter_(2011)_(Sub)_Episode_048.mp4
+-rw-r--r--. 1 phani.rithvij 201783 245M Jan 26 03:05 Hunter_x_Hunter_(2011)_(Sub)_Episode_049.mp4
+-rw-r--r--. 1 phani.rithvij 201783 223M Jan 26 03:11 Hunter_x_Hunter_(2011)_(Sub)_Episode_050.mp4
+-rw-r--r--. 1 phani.rithvij 201783 323M Jan 26 04:19 Hunter_x_Hunter_(2011)_(Sub)_Episode_051.mp4
+-rw-r--r--. 1 phani.rithvij 201783  20K Jan 25 20:13 list.txt
+-rw-r--r--. 1 phani.rithvij 201783 6.4K Jan  5 20:26 souleatersublist1.txt
+drwxr-xr-x. 2 phani.rithvij 201783 4.0K Jan  9 17:06 Windows
 #Git sucessful
