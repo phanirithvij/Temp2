@@ -1,2 +1,2 @@
-#free
-echo " 
+cd ../Anime/hunter*
+ls -lh
