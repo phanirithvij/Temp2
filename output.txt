@@ -1,12 +1,4 @@
 #start
 
-total 924M
--rwxrwxrwx. 1 phani.rithvij 201783  456 Jan  5 19:04 Downloader.sh
--rw-r--r--. 1 phani.rithvij 201783 234M Jan 25 20:21 Hunter_x_Hunter_(2011)_(Sub)_Episode_012.mp4
--rw-r--r--. 1 phani.rithvij 201783 285M Jan 25 20:31 Hunter_x_Hunter_(2011)_(Sub)_Episode_013.mp4
--rw-r--r--. 1 phani.rithvij 201783 293M Jan 25 20:42 Hunter_x_Hunter_(2011)_(Sub)_Episode_015.mp4
--rw-r--r--. 1 phani.rithvij 201783 113M Jan 25 20:54 Hunter_x_Hunter_(2011)_(Sub)_Episode_016.mp4
--rw-r--r--. 1 phani.rithvij 201783  20K Jan 25 20:13 list.txt
--rw-r--r--. 1 phani.rithvij 201783 6.4K Jan  5 20:26 souleatersublist1.txt
-drwxr-xr-x. 2 phani.rithvij 201783 4.0K Jan  9 17:06 Windows
+ 
 #Git sucessful
