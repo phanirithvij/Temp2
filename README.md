@@ -1,3 +1,7 @@
-cd ../Anime/hunter*
-./download.sh 71 80
+cd 
+cd Download*
+cd Kissa*
+cd Kiss*
 ls -lh
+
+
