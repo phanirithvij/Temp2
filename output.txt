@@ -1,10 +1,10 @@
 #start
 
-total 551M
+total 573M
 -rwxrwxrwx. 1 phani.rithvij 201783  456 Jan  5 19:04 Downloader.sh
 -rw-r--r--. 1 phani.rithvij 201783 234M Jan 25 20:21 Hunter_x_Hunter_(2011)_(Sub)_Episode_012.mp4
 -rw-r--r--. 1 phani.rithvij 201783 285M Jan 25 20:31 Hunter_x_Hunter_(2011)_(Sub)_Episode_013.mp4
--rw-r--r--. 1 phani.rithvij 201783  32M Jan 25 20:33 Hunter_x_Hunter_(2011)_(Sub)_Episode_015.mp4
+-rw-r--r--. 1 phani.rithvij 201783  55M Jan 25 20:34 Hunter_x_Hunter_(2011)_(Sub)_Episode_015.mp4
 -rw-r--r--. 1 phani.rithvij 201783  20K Jan 25 20:13 list.txt
 -rw-r--r--. 1 phani.rithvij 201783 6.4K Jan  5 20:26 souleatersublist1.txt
 drwxr-xr-x. 2 phani.rithvij 201783 4.0K Jan  9 17:06 Windows
@@ -184,7 +184,7 @@ phani.r+  1804  1410  0 19:42 tty2     00:00:00 /usr/bin/seapplet
 root      1833     1  0 19:42 ?        00:00:00 /usr/sbin/abrt-dbus -t133
 phani.r+  1852  1759  0 19:42 ?        00:00:00 /usr/libexec/evolution-addressbook-factory-subprocess --factory local --bus-name org.gnome.evolution.dataserver.Subprocess.Backend.AddressBookx1759x2 --own-path /org/gnome/evolution/dataserver/Subprocess/Backend/AddressBook/1759/2
 root      1892     1  0 19:42 ?        00:00:00 /usr/libexec/fwupd/fwupd
-phani.r+  1908  1383  0 19:42 ?        00:00:09 /usr/libexec/gnome-terminal-server
+phani.r+  1908  1383  0 19:42 ?        00:00:10 /usr/libexec/gnome-terminal-server
 phani.r+  1914  1908  0 19:42 pts/0    00:00:00 bash
 root      1970   744  0 19:42 ?        00:00:00 /sbin/dhclient -d -q -sf /usr/libexec/nm-dhcp-helper -pf /var/run/dhclient-enp2s0.pid -lf /var/lib/NetworkManager/dhclient-f30f0a3a-e848-3557-9f78-c4a356a05a4b-enp2s0.lease -cf /var/lib/NetworkManager/dhclient-enp2s0.conf enp2s0
 phani.r+  2166  1383  0 19:42 ?        00:00:00 /usr/libexec/gvfsd-metadata
@@ -192,10 +192,10 @@ phani.r+  2631  1383  0 19:45 ?        00:00:00 /usr/libexec/gvfsd-trash --spawn
 root      2679     2  0 19:46 ?        00:00:00 [kworker/1:0]
 phani.r+  2907  1908  0 19:49 pts/1    00:00:00 bash
 phani.r+  2960  2907  0 19:49 pts/1    00:00:04 bash
-phani.r+  3250 25235  2 20:32 pts/0    00:00:01 curl -L -k -e auto; -b cookies.txt -c cookies.txt -A Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36 -o .//Hunter_x_Hunter_(2011)_(Sub)_Episode_015.mp4 {https://www945.playercdn.net/87/3/kmS0B2heKQoThOSsOEggXg/1517063551/171029/656FKZI1AL3OKPRXBULUW.mp4}
+phani.r+  3250 25235  2 20:32 pts/0    00:00:02 curl -L -k -e auto; -b cookies.txt -c cookies.txt -A Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36 -o .//Hunter_x_Hunter_(2011)_(Sub)_Episode_015.mp4 {https://www945.playercdn.net/87/3/kmS0B2heKQoThOSsOEggXg/1517063551/171029/656FKZI1AL3OKPRXBULUW.mp4}
 root      3252     2  0 20:32 ?        00:00:00 [kworker/u4:0]
-phani.r+  3655  2960  0 20:33 pts/1    00:00:00 bash
-phani.r+  3657  3655  0 20:33 pts/1    00:00:00 ps -ef
+phani.r+  4007  2960  0 20:34 pts/1    00:00:00 bash
+phani.r+  4009  4007  0 20:34 pts/1    00:00:00 ps -ef
 root     14899     2  0 20:04 ?        00:00:00 [kworker/0:1]
 phani.r+ 14960  1383  0 20:04 ?        00:00:00 /usr/libexec/gvfsd-network --spawner :1.18 /org/gtk/gvfs/exec_spaw/2
 phani.r+ 15105  1383  0 20:05 ?        00:00:00 /usr/libexec/gvfsd-dnssd --spawner :1.18 /org/gtk/gvfs/exec_spaw/4
