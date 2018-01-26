@@ -9,4 +9,4 @@ ls -lh
 #SIZE
 du
 du -h
-ps -ef
+ps -aux
