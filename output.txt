@@ -1,7 +1,7 @@
 #start
 
  
-total 11G
+total 24G
 -rwxrwxrwx. 1 phani.rithvij 201783  456 Jan  5 19:04 Downloader.sh
 -rw-r--r--. 1 phani.rithvij 201783 234M Jan 25 20:21 Hunter_x_Hunter_(2011)_(Sub)_Episode_012.mp4
 -rw-r--r--. 1 phani.rithvij 201783 285M Jan 25 20:31 Hunter_x_Hunter_(2011)_(Sub)_Episode_013.mp4
@@ -41,7 +41,55 @@ total 11G
 -rw-r--r--. 1 phani.rithvij 201783 321M Jan 26 02:59 Hunter_x_Hunter_(2011)_(Sub)_Episode_048.mp4
 -rw-r--r--. 1 phani.rithvij 201783 245M Jan 26 03:05 Hunter_x_Hunter_(2011)_(Sub)_Episode_049.mp4
 -rw-r--r--. 1 phani.rithvij 201783 223M Jan 26 03:11 Hunter_x_Hunter_(2011)_(Sub)_Episode_050.mp4
--rw-r--r--. 1 phani.rithvij 201783 323M Jan 26 04:19 Hunter_x_Hunter_(2011)_(Sub)_Episode_051.mp4
+-rw-r--r--. 1 phani.rithvij 201783 328M Jan 26 04:20 Hunter_x_Hunter_(2011)_(Sub)_Episode_051.mp4
+-rw-r--r--. 1 phani.rithvij 201783 334M Jan 26 04:28 Hunter_x_Hunter_(2011)_(Sub)_Episode_052.mp4
+-rw-r--r--. 1 phani.rithvij 201783 234M Jan 26 04:36 Hunter_x_Hunter_(2011)_(Sub)_Episode_053.mp4
+-rw-r--r--. 1 phani.rithvij 201783 319M Jan 26 05:34 Hunter_x_Hunter_(2011)_(Sub)_Episode_054.mp4
+-rw-r--r--. 1 phani.rithvij 201783 328M Jan 26 05:45 Hunter_x_Hunter_(2011)_(Sub)_Episode_055.mp4
+-rw-r--r--. 1 phani.rithvij 201783 324M Jan 26 05:53 Hunter_x_Hunter_(2011)_(Sub)_Episode_056.mp4
+-rw-r--r--. 1 phani.rithvij 201783 313M Jan 26 06:01 Hunter_x_Hunter_(2011)_(Sub)_Episode_057.mp4
+-rw-r--r--. 1 phani.rithvij 201783 223M Jan 26 06:08 Hunter_x_Hunter_(2011)_(Sub)_Episode_058.mp4
+-rw-r--r--. 1 phani.rithvij 201783 299M Jan 26 06:17 Hunter_x_Hunter_(2011)_(Sub)_Episode_059.mp4
+-rw-r--r--. 1 phani.rithvij 201783 303M Jan 26 06:27 Hunter_x_Hunter_(2011)_(Sub)_Episode_060.mp4
+-rw-r--r--. 1 phani.rithvij 201783 295M Jan 26 06:36 Hunter_x_Hunter_(2011)_(Sub)_Episode_061.mp4
+-rw-r--r--. 1 phani.rithvij 201783 304M Jan 26 06:44 Hunter_x_Hunter_(2011)_(Sub)_Episode_062.mp4
+-rw-r--r--. 1 phani.rithvij 201783 308M Jan 26 06:54 Hunter_x_Hunter_(2011)_(Sub)_Episode_063.mp4
+-rw-r--r--. 1 phani.rithvij 201783 217M Jan 26 07:01 Hunter_x_Hunter_(2011)_(Sub)_Episode_064.mp4
+-rw-r--r--. 1 phani.rithvij 201783 302M Jan 26 07:11 Hunter_x_Hunter_(2011)_(Sub)_Episode_065.mp4
+-rw-r--r--. 1 phani.rithvij 201783 297M Jan 26 07:20 Hunter_x_Hunter_(2011)_(Sub)_Episode_066.mp4
+-rw-r--r--. 1 phani.rithvij 201783 289M Jan 26 07:28 Hunter_x_Hunter_(2011)_(Sub)_Episode_067.mp4
+-rw-r--r--. 1 phani.rithvij 201783 227M Jan 26 07:35 Hunter_x_Hunter_(2011)_(Sub)_Episode_068.mp4
+-rw-r--r--. 1 phani.rithvij 201783 230M Jan 26 07:41 Hunter_x_Hunter_(2011)_(Sub)_Episode_069.mp4
+-rw-r--r--. 1 phani.rithvij 201783 288M Jan 26 08:36 Hunter_x_Hunter_(2011)_(Sub)_Episode_070.mp4
+-rw-r--r--. 1 phani.rithvij 201783 287M Jan 26 08:44 Hunter_x_Hunter_(2011)_(Sub)_Episode_071.mp4
+-rw-r--r--. 1 phani.rithvij 201783 225M Jan 26 08:52 Hunter_x_Hunter_(2011)_(Sub)_Episode_072.mp4
+-rw-r--r--. 1 phani.rithvij 201783 311M Jan 26 09:02 Hunter_x_Hunter_(2011)_(Sub)_Episode_073.mp4
+-rw-r--r--. 1 phani.rithvij 201783 288M Jan 26 09:11 Hunter_x_Hunter_(2011)_(Sub)_Episode_074.mp4
+-rw-r--r--. 1 phani.rithvij 201783 223M Jan 26 09:18 Hunter_x_Hunter_(2011)_(Sub)_Episode_075.mp4
+-rw-r--r--. 1 phani.rithvij 201783 220M Jan 26 09:24 Hunter_x_Hunter_(2011)_(Sub)_Episode_076.mp4
+-rw-r--r--. 1 phani.rithvij 201783 298M Jan 26 09:32 Hunter_x_Hunter_(2011)_(Sub)_Episode_077.mp4
+-rw-r--r--. 1 phani.rithvij 201783 290M Jan 26 09:41 Hunter_x_Hunter_(2011)_(Sub)_Episode_078.mp4
+-rw-r--r--. 1 phani.rithvij 201783 292M Jan 26 09:49 Hunter_x_Hunter_(2011)_(Sub)_Episode_079.mp4
+-rw-r--r--. 1 phani.rithvij 201783 213M Jan 26 09:54 Hunter_x_Hunter_(2011)_(Sub)_Episode_080.mp4
+-rw-r--r--. 1 phani.rithvij 201783 292M Jan 26 10:03 Hunter_x_Hunter_(2011)_(Sub)_Episode_081.mp4
+-rw-r--r--. 1 phani.rithvij 201783 296M Jan 26 10:12 Hunter_x_Hunter_(2011)_(Sub)_Episode_082.mp4
+-rw-r--r--. 1 phani.rithvij 201783 294M Jan 26 10:21 Hunter_x_Hunter_(2011)_(Sub)_Episode_083.mp4
+-rw-r--r--. 1 phani.rithvij 201783 282M Jan 26 10:29 Hunter_x_Hunter_(2011)_(Sub)_Episode_084.mp4
+-rw-r--r--. 1 phani.rithvij 201783 291M Jan 26 10:37 Hunter_x_Hunter_(2011)_(Sub)_Episode_085.mp4
+-rw-r--r--. 1 phani.rithvij 201783 295M Jan 26 10:47 Hunter_x_Hunter_(2011)_(Sub)_Episode_086.mp4
+-rw-r--r--. 1 phani.rithvij 201783 222M Jan 26 10:53 Hunter_x_Hunter_(2011)_(Sub)_Episode_087.mp4
+-rw-r--r--. 1 phani.rithvij 201783 289M Jan 26 11:01 Hunter_x_Hunter_(2011)_(Sub)_Episode_088.mp4
+-rw-r--r--. 1 phani.rithvij 201783 223M Jan 26 11:08 Hunter_x_Hunter_(2011)_(Sub)_Episode_089.mp4
+-rw-r--r--. 1 phani.rithvij 201783 294M Jan 26 11:18 Hunter_x_Hunter_(2011)_(Sub)_Episode_090.mp4
+-rw-r--r--. 1 phani.rithvij 201783 290M Jan 26 11:27 Hunter_x_Hunter_(2011)_(Sub)_Episode_091.mp4
+-rw-r--r--. 1 phani.rithvij 201783 305M Jan 26 11:37 Hunter_x_Hunter_(2011)_(Sub)_Episode_092.mp4
+-rw-r--r--. 1 phani.rithvij 201783 298M Jan 26 11:47 Hunter_x_Hunter_(2011)_(Sub)_Episode_093.mp4
+-rw-r--r--. 1 phani.rithvij 201783 292M Jan 26 11:57 Hunter_x_Hunter_(2011)_(Sub)_Episode_094.mp4
+-rw-r--r--. 1 phani.rithvij 201783 223M Jan 26 12:04 Hunter_x_Hunter_(2011)_(Sub)_Episode_095.mp4
+-rw-r--r--. 1 phani.rithvij 201783 303M Jan 26 12:14 Hunter_x_Hunter_(2011)_(Sub)_Episode_096.mp4
+-rw-r--r--. 1 phani.rithvij 201783 285M Jan 26 12:23 Hunter_x_Hunter_(2011)_(Sub)_Episode_097.mp4
+-rw-r--r--. 1 phani.rithvij 201783 225M Jan 26 12:30 Hunter_x_Hunter_(2011)_(Sub)_Episode_098.mp4
+-rw-r--r--. 1 phani.rithvij 201783  70M Jan 26 12:32 Hunter_x_Hunter_(2011)_(Sub)_Episode_099.mp4
 -rw-r--r--. 1 phani.rithvij 201783  20K Jan 25 20:13 list.txt
 -rw-r--r--. 1 phani.rithvij 201783 6.4K Jan  5 20:26 souleatersublist1.txt
 drwxr-xr-x. 2 phani.rithvij 201783 4.0K Jan  9 17:06 Windows
