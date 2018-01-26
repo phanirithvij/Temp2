@@ -6,3 +6,6 @@ cd Kissa*
 cd Kiss*
 ls -lh
 #do it again
+#SIZE
+du
+du -h
