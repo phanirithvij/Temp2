@@ -1,7 +1,7 @@
 #start
 
  
-total 24G
+total 35G
 -rwxrwxrwx. 1 phani.rithvij 201783  456 Jan  5 19:04 Downloader.sh
 -rw-r--r--. 1 phani.rithvij 201783 234M Jan 25 20:21 Hunter_x_Hunter_(2011)_(Sub)_Episode_012.mp4
 -rw-r--r--. 1 phani.rithvij 201783 285M Jan 25 20:31 Hunter_x_Hunter_(2011)_(Sub)_Episode_013.mp4
@@ -90,206 +90,188 @@ total 24G
 -rw-r--r--. 1 phani.rithvij 201783 285M Jan 26 12:23 Hunter_x_Hunter_(2011)_(Sub)_Episode_097.mp4
 -rw-r--r--. 1 phani.rithvij 201783 225M Jan 26 12:30 Hunter_x_Hunter_(2011)_(Sub)_Episode_098.mp4
 -rw-r--r--. 1 phani.rithvij 201783 287M Jan 26 12:39 Hunter_x_Hunter_(2011)_(Sub)_Episode_099.mp4
--rw-r--r--. 1 phani.rithvij 201783 101M Jan 26 12:43 Hunter_x_Hunter_(2011)_(Sub)_Episode_100.mp4
+-rw-r--r--. 1 phani.rithvij 201783 299M Jan 26 12:49 Hunter_x_Hunter_(2011)_(Sub)_Episode_100.mp4
+-rw-r--r--. 1 phani.rithvij 201783 299M Jan 26 12:59 Hunter_x_Hunter_(2011)_(Sub)_Episode_101.mp4
+-rw-r--r--. 1 phani.rithvij 201783 309M Jan 26 13:10 Hunter_x_Hunter_(2011)_(Sub)_Episode_102.mp4
+-rw-r--r--. 1 phani.rithvij 201783 232M Jan 26 13:17 Hunter_x_Hunter_(2011)_(Sub)_Episode_103.mp4
+-rw-r--r--. 1 phani.rithvij 201783 316M Jan 26 13:28 Hunter_x_Hunter_(2011)_(Sub)_Episode_104.mp4
+-rw-r--r--. 1 phani.rithvij 201783 314M Jan 26 13:38 Hunter_x_Hunter_(2011)_(Sub)_Episode_105.mp4
+-rw-r--r--. 1 phani.rithvij 201783 295M Jan 26 13:47 Hunter_x_Hunter_(2011)_(Sub)_Episode_106.mp4
+-rw-r--r--. 1 phani.rithvij 201783 211M Jan 26 13:54 Hunter_x_Hunter_(2011)_(Sub)_Episode_107.mp4
+-rw-r--r--. 1 phani.rithvij 201783 302M Jan 26 14:04 Hunter_x_Hunter_(2011)_(Sub)_Episode_108.mp4
+-rw-r--r--. 1 phani.rithvij 201783 234M Jan 26 14:12 Hunter_x_Hunter_(2011)_(Sub)_Episode_109.mp4
+-rw-r--r--. 1 phani.rithvij 201783 307M Jan 26 14:22 Hunter_x_Hunter_(2011)_(Sub)_Episode_110.mp4
+-rw-r--r--. 1 phani.rithvij 201783 306M Jan 26 14:32 Hunter_x_Hunter_(2011)_(Sub)_Episode_111.mp4
+-rw-r--r--. 1 phani.rithvij 201783 290M Jan 26 14:41 Hunter_x_Hunter_(2011)_(Sub)_Episode_112.mp4
+-rw-r--r--. 1 phani.rithvij 201783 286M Jan 26 14:50 Hunter_x_Hunter_(2011)_(Sub)_Episode_113.mp4
+-rw-r--r--. 1 phani.rithvij 201783 306M Jan 26 15:00 Hunter_x_Hunter_(2011)_(Sub)_Episode_114.mp4
+-rw-r--r--. 1 phani.rithvij 201783 304M Jan 26 15:10 Hunter_x_Hunter_(2011)_(Sub)_Episode_115.mp4
+-rw-r--r--. 1 phani.rithvij 201783 299M Jan 26 15:20 Hunter_x_Hunter_(2011)_(Sub)_Episode_116.mp4
+-rw-r--r--. 1 phani.rithvij 201783 311M Jan 26 15:32 Hunter_x_Hunter_(2011)_(Sub)_Episode_117.mp4
+-rw-r--r--. 1 phani.rithvij 201783 320M Jan 26 15:43 Hunter_x_Hunter_(2011)_(Sub)_Episode_118.mp4
+-rw-r--r--. 1 phani.rithvij 201783 285M Jan 26 15:52 Hunter_x_Hunter_(2011)_(Sub)_Episode_119.mp4
+-rw-r--r--. 1 phani.rithvij 201783 306M Jan 26 16:02 Hunter_x_Hunter_(2011)_(Sub)_Episode_120.mp4
+-rw-r--r--. 1 phani.rithvij 201783 293M Jan 26 16:12 Hunter_x_Hunter_(2011)_(Sub)_Episode_121.mp4
+-rw-r--r--. 1 phani.rithvij 201783 303M Jan 26 16:21 Hunter_x_Hunter_(2011)_(Sub)_Episode_122.mp4
+-rw-r--r--. 1 phani.rithvij 201783 303M Jan 26 16:31 Hunter_x_Hunter_(2011)_(Sub)_Episode_123.mp4
+-rw-r--r--. 1 phani.rithvij 201783 306M Jan 26 16:42 Hunter_x_Hunter_(2011)_(Sub)_Episode_124.mp4
+-rw-r--r--. 1 phani.rithvij 201783 242M Jan 26 16:50 Hunter_x_Hunter_(2011)_(Sub)_Episode_125.mp4
+-rw-r--r--. 1 phani.rithvij 201783 298M Jan 26 17:00 Hunter_x_Hunter_(2011)_(Sub)_Episode_126.mp4
+-rw-r--r--. 1 phani.rithvij 201783 285M Jan 26 17:10 Hunter_x_Hunter_(2011)_(Sub)_Episode_127.mp4
+-rw-r--r--. 1 phani.rithvij 201783 294M Jan 26 17:20 Hunter_x_Hunter_(2011)_(Sub)_Episode_128.mp4
+-rw-r--r--. 1 phani.rithvij 201783 297M Jan 26 17:30 Hunter_x_Hunter_(2011)_(Sub)_Episode_129.mp4
+-rw-r--r--. 1 phani.rithvij 201783 303M Jan 26 17:40 Hunter_x_Hunter_(2011)_(Sub)_Episode_130.mp4
+-rw-r--r--. 1 phani.rithvij 201783 312M Jan 26 17:50 Hunter_x_Hunter_(2011)_(Sub)_Episode_131.mp4
+-rw-r--r--. 1 phani.rithvij 201783 301M Jan 26 18:00 Hunter_x_Hunter_(2011)_(Sub)_Episode_132.mp4
+-rw-r--r--. 1 phani.rithvij 201783 289M Jan 26 18:10 Hunter_x_Hunter_(2011)_(Sub)_Episode_133.mp4
+-rw-r--r--. 1 phani.rithvij 201783 291M Jan 26 18:19 Hunter_x_Hunter_(2011)_(Sub)_Episode_134.mp4
+-rw-r--r--. 1 phani.rithvij 201783 299M Jan 26 18:30 Hunter_x_Hunter_(2011)_(Sub)_Episode_135.mp4
+-rw-r--r--. 1 phani.rithvij 201783 227M Jan 26 18:37 Hunter_x_Hunter_(2011)_(Sub)_Episode_136.mp4
+-rw-r--r--. 1 phani.rithvij 201783 296M Jan 26 18:47 Hunter_x_Hunter_(2011)_(Sub)_Episode_137.mp4
+-rw-r--r--. 1 phani.rithvij 201783 223M Jan 26 18:54 Hunter_x_Hunter_(2011)_(Sub)_Episode_138.mp4
+-rw-r--r--. 1 phani.rithvij 201783 300M Jan 26 19:05 Hunter_x_Hunter_(2011)_(Sub)_Episode_139.mp4
+-rw-r--r--. 1 phani.rithvij 201783  94M Jan 26 19:08 Hunter_x_Hunter_(2011)_(Sub)_Episode_140.mp4
+-rw-r--r--. 1 phani.rithvij 201783  52M Jan 26 16:35 [joseole99][Tormaid] Angel Beats! - 01 (1280x720 h264 AC3 AC3) [F8774E1B]_00.mp4
 -rw-r--r--. 1 phani.rithvij 201783  20K Jan 25 20:13 list.txt
 -rw-r--r--. 1 phani.rithvij 201783 6.4K Jan  5 20:26 souleatersublist1.txt
+-rw-r--r--. 1 phani.rithvij 201783 9.0M Jan 26 16:42 videoder_v14.1.apk
 drwxr-xr-x. 2 phani.rithvij 201783 4.0K Jan  9 17:06 Windows
 1668	./Windows
-24735012	.
+36640952	.
 1.7M	./Windows
-24G	.
-USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
-root         1  0.0  0.2 149428  5256 ?        Ss   Jan25   0:01 /usr/lib/systemd/systemd --switched-root --system --deserialize 23
-root         2  0.0  0.0      0     0 ?        S    Jan25   0:00 [kthreadd]
-root         4  0.0  0.0      0     0 ?        S<   Jan25   0:00 [kworker/0:0H]
-root         6  0.0  0.0      0     0 ?        S<   Jan25   0:00 [mm_percpu_wq]
-root         7  0.0  0.0      0     0 ?        S    Jan25   0:00 [ksoftirqd/0]
-root         8  0.0  0.0      0     0 ?        S    Jan25   0:17 [rcu_sched]
-root         9  0.0  0.0      0     0 ?        S    Jan25   0:00 [rcu_bh]
-root        10  0.0  0.0      0     0 ?        S    Jan25   0:23 [rcuos/0]
-root        11  0.0  0.0      0     0 ?        S    Jan25   0:00 [rcuob/0]
-root        12  0.0  0.0      0     0 ?        S    Jan25   0:00 [migration/0]
-root        13  0.0  0.0      0     0 ?        S    Jan25   0:00 [watchdog/0]
-root        14  0.0  0.0      0     0 ?        S    Jan25   0:00 [cpuhp/0]
-root        15  0.0  0.0      0     0 ?        S    Jan25   0:00 [cpuhp/1]
-root        16  0.0  0.0      0     0 ?        S    Jan25   0:00 [watchdog/1]
-root        17  0.0  0.0      0     0 ?        S    Jan25   0:00 [migration/1]
-root        18  0.0  0.0      0     0 ?        S    Jan25   0:00 [ksoftirqd/1]
-root        20  0.0  0.0      0     0 ?        S<   Jan25   0:00 [kworker/1:0H]
-root        21  0.0  0.0      0     0 ?        S    Jan25   0:19 [rcuos/1]
-root        22  0.0  0.0      0     0 ?        S    Jan25   0:00 [rcuob/1]
-root        23  0.0  0.0      0     0 ?        S    Jan25   0:00 [kdevtmpfs]
-root        24  0.0  0.0      0     0 ?        S<   Jan25   0:00 [netns]
-root        27  0.0  0.0      0     0 ?        S    Jan25   0:00 [oom_reaper]
-root        28  0.0  0.0      0     0 ?        S<   Jan25   0:00 [writeback]
-root        29  0.0  0.0      0     0 ?        S    Jan25   0:00 [kcompactd0]
-root        30  0.0  0.0      0     0 ?        SN   Jan25   0:00 [ksmd]
-root        31  0.0  0.0      0     0 ?        SN   Jan25   0:00 [khugepaged]
-root        32  0.0  0.0      0     0 ?        S<   Jan25   0:00 [crypto]
-root        33  0.0  0.0      0     0 ?        S<   Jan25   0:00 [kintegrityd]
-root        34  0.0  0.0      0     0 ?        S<   Jan25   0:00 [bioset]
-root        35  0.0  0.0      0     0 ?        S<   Jan25   0:00 [kblockd]
-root        36  0.0  0.0      0     0 ?        S<   Jan25   0:00 [ata_sff]
-root        37  0.0  0.0      0     0 ?        S<   Jan25   0:00 [md]
-root        38  0.0  0.0      0     0 ?        S<   Jan25   0:00 [devfreq_wq]
-root        39  0.0  0.0      0     0 ?        S<   Jan25   0:00 [watchdogd]
-root        41  0.0  0.0      0     0 ?        S    Jan25   0:00 [kauditd]
-root        42  0.0  0.0      0     0 ?        S    Jan25   0:09 [kswapd0]
-root        43  0.0  0.0      0     0 ?        S<   Jan25   0:00 [bioset]
-root        90  0.0  0.0      0     0 ?        S<   Jan25   0:00 [kthrotld]
-root        91  0.0  0.0      0     0 ?        S<   Jan25   0:00 [acpi_thermal_pm]
-root        92  0.0  0.0      0     0 ?        S    Jan25   0:00 [scsi_eh_0]
-root        93  0.0  0.0      0     0 ?        S<   Jan25   0:00 [scsi_tmf_0]
-root        94  0.0  0.0      0     0 ?        S    Jan25   0:00 [scsi_eh_1]
-root        95  0.0  0.0      0     0 ?        S<   Jan25   0:00 [scsi_tmf_1]
-root        97  0.0  0.0      0     0 ?        S    Jan25   0:00 [scsi_eh_2]
-root        98  0.0  0.0      0     0 ?        S<   Jan25   0:00 [scsi_tmf_2]
-root        99  0.0  0.0      0     0 ?        S    Jan25   0:00 [scsi_eh_3]
-root       100  0.0  0.0      0     0 ?        S<   Jan25   0:00 [scsi_tmf_3]
-root       103  0.0  0.0      0     0 ?        S<   Jan25   0:00 [dm_bufio_cache]
-root       104  0.0  0.0      0     0 ?        S<   Jan25   0:00 [ipv6_addrconf]
-root       124  0.0  0.0      0     0 ?        S<   Jan25   0:00 [bioset]
-root       302  0.0  0.0      0     0 ?        S<   Jan25   0:00 [kworker/0:1H]
-root       310  0.0  0.0      0     0 ?        S<   Jan25   0:00 [kworker/1:1H]
-root       313  0.0  0.0      0     0 ?        S    Jan25   0:00 [i915/signal:0]
-root       314  0.0  0.0      0     0 ?        S    Jan25   0:00 [i915/signal:1]
-root       315  0.0  0.0      0     0 ?        S    Jan25   0:00 [i915/signal:2]
-root       332  0.0  0.0      0     0 ?        S    Jan25   0:02 [jbd2/sda5-8]
-root       333  0.0  0.0      0     0 ?        S<   Jan25   0:00 [ext4-rsv-conver]
-root       423  0.0  0.6 115320 10832 ?        Ss   Jan25   0:03 /usr/lib/systemd/systemd-journald
-root       451  0.0  0.1  49084  2604 ?        Ss   Jan25   0:00 /usr/lib/systemd/systemd-udevd
-root       485  0.0  0.0      0     0 ?        S    Jan25   0:00 [irq/26-mei_me]
-root       488  0.0  0.0      0     0 ?        S<   Jan25   0:00 [edac-poller]
-root       555  0.0  0.0      0     0 ?        S    Jan25   0:00 [jbd2/sda1-8]
-root       556  0.0  0.0      0     0 ?        S<   Jan25   0:00 [ext4-rsv-conver]
-root       565  0.0  0.0      0     0 ?        S    Jan25   0:00 [jbd2/sda2-8]
-root       566  0.0  0.0      0     0 ?        S<   Jan25   0:00 [ext4-rsv-conver]
-root       594  0.0  0.0      0     0 ?        S<   Jan25   0:00 [rpciod]
-root       595  0.0  0.0      0     0 ?        S<   Jan25   0:00 [xprtiod]
-root       599  0.0  0.0  55584  1148 ?        S<sl Jan25   0:00 /sbin/auditd
-root       601  0.0  0.0  84548  1464 ?        S<sl Jan25   0:00 /sbin/audispd
-root       602  0.0  0.0  43664   740 ?        S<   Jan25   0:00 /usr/sbin/sedispatch
-root       623  0.0  0.2 261148  3700 ?        Ss   Jan25   0:00 /usr/sbin/sssd -i -f
-root       624  0.0  0.0  16880   408 ?        SNs  Jan25   0:00 /usr/sbin/alsactl -s -n 19 -c -E ALSA_CONFIG_PATH=/etc/alsa/alsactl.conf --initfile=/lib/alsa/init/00main rdaemon
-root       626  0.0  0.2 417736  4120 ?        Ssl  Jan25   0:00 /usr/sbin/ModemManager
-dbus       627  0.0  0.2  66260  4384 ?        Ssl  Jan25   0:01 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
-rtkit      634  0.0  0.1 186848  2460 ?        SNsl Jan25   0:00 /usr/libexec/rtkit-daemon
-root       635  0.0  0.0   7084  1636 ?        Ss   Jan25   0:00 /usr/sbin/mcelog --ignorenodev --daemon --foreground
-root       639  0.0  0.3 363460  5944 ?        Ssl  Jan25   0:00 /usr/bin/python3 -Es /usr/sbin/firewalld --nofork --nopid
-avahi      640  0.0  0.1  60488  2624 ?        Ss   Jan25   0:00 avahi-daemon: running [CR13065.local]
-root       648  0.0  0.2 444892  4104 ?        Ssl  Jan25   0:00 /usr/sbin/abrtd -d -s
-chrony     656  0.0  0.0  20456  1340 ?        S    Jan25   0:00 /usr/sbin/chronyd
-nscd       660  0.0  0.0 1022600 1304 ?        Ssl  Jan25   0:06 /usr/sbin/nscd
-root       661  0.0  0.4 279952  7940 ?        S    Jan25   0:00 /usr/libexec/sssd/sssd_be --domain default --uid 0 --gid 0 --debug-to-files
-avahi      663  0.0  0.0  60360    40 ?        S    Jan25   0:00 avahi-daemon: chroot helper
-root       697  0.0  0.1 204644  2136 ?        Ssl  Jan25   0:00 /usr/sbin/gssproxy -D
-root       703  0.0  0.2 266824  4624 ?        S    Jan25   0:00 /usr/libexec/sssd/sssd_nss --uid 0 --gid 0 --debug-to-files
-root       704  0.0  0.2 246496  4248 ?        S    Jan25   0:00 /usr/libexec/sssd/sssd_pam --uid 0 --gid 0 --debug-to-files
-root       705  0.0  0.1 239940  2472 ?        S    Jan25   0:00 /usr/libexec/sssd/sssd_autofs --uid 0 --gid 0 --debug-to-files
-root       706  0.0  0.1  48136  2160 ?        Ss   Jan25   0:00 /usr/lib/systemd/systemd-logind
-root       707  0.0  0.3 405976  5516 ?        Ssl  Jan25   0:00 /usr/libexec/accounts-daemon
-root       723  0.0  0.1 1065672 3464 ?        Ss   Jan25   0:00 /usr/bin/abrt-dump-journal-xorg -fxtD
-root       725  0.0  0.1 1061268 2748 ?        Ss   Jan25   0:00 /usr/bin/abrt-dump-journal-oops -fxtD
-polkitd    736  0.0  0.3 531500  5724 ?        Ssl  Jan25   0:00 /usr/lib/polkit-1/polkitd --no-debug
-root       744  0.0  0.3 555308  7068 ?        Ssl  Jan25   0:01 /usr/sbin/NetworkManager --no-daemon
-root       755  0.0  0.0  98344  1336 ?        Ss   Jan25   0:00 /usr/sbin/sshd -D
-root       758  0.0  0.2 906264  4204 ?        Ssl  Jan25   0:00 /usr/sbin/libvirtd
-nslcd      770  0.0  0.0 434020  1596 ?        Ssl  Jan25   0:00 /usr/sbin/nslcd
-root       776  0.0  0.0  24268   768 ?        Ss   Jan25   0:00 /usr/sbin/atd -f
-root       777  0.0  0.2 481344  5296 ?        Ssl  Jan25   0:00 /usr/sbin/gdm
-root       778  0.0  0.1 131052  2528 ?        Ss   Jan25   0:00 /usr/sbin/crond -n
-root       856  0.0  0.2 372148  4732 ?        Sl   Jan25   0:00 gdm-session-worker [pam/gdm-launch-environment]
-gdm        932  0.0  0.1  64180  2636 ?        Ss   Jan25   0:00 /usr/lib/systemd/systemd --user
-gdm        940  0.0  0.0 101600   492 ?        S    Jan25   0:00 (sd-pam)
-gdm        945  0.0  0.2 427528  4920 tty1     Ssl+ Jan25   0:00 /usr/libexec/gdm-wayland-session gnome-session --autostart /usr/share/gdm/greeter/autostart
-nobody     987  0.0  0.0  46984  1160 ?        S    Jan25   0:00 /sbin/dnsmasq --conf-file=/var/lib/libvirt/dnsmasq/default.conf --leasefile-ro --dhcp-script=/usr/libexec/libvirt_leaseshelper
-root       988  0.0  0.0  46956     4 ?        S    Jan25   0:00 /sbin/dnsmasq --conf-file=/var/lib/libvirt/dnsmasq/default.conf --leasefile-ro --dhcp-script=/usr/libexec/libvirt_leaseshelper
-gdm        996  0.0  0.1  52756  2900 ?        Ssl  Jan25   0:00 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
-gdm       1105  0.0  0.3 676988  5620 tty1     Sl+  Jan25   0:00 /usr/libexec/gnome-session-binary --autostart /usr/share/gdm/greeter/autostart
-gdm       1182  0.0  2.4 1887180 44228 tty1    Sl+  Jan25   0:03 /usr/bin/gnome-shell
-root      1206  0.0  0.3 426092  5864 ?        Ssl  Jan25   0:00 /usr/libexec/upowerd
-gdm       1225  0.0  0.2 235428  4372 tty1     Sl+  Jan25   0:00 /usr/bin/Xwayland :1024 -rootless -noreset -listen 4 -listen 5 -displayfd 6
-gdm       1229  0.0  0.2 357996  3932 ?        Ssl  Jan25   0:00 /usr/libexec/at-spi-bus-launcher
-gdm       1234  0.0  0.1  52532  2716 ?        Sl   Jan25   0:00 /bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 3
-gdm       1237  0.0  0.1 223376  3408 ?        Sl   Jan25   0:00 /usr/libexec/at-spi2-registryd --use-gnome-session
-gdm       1243  0.0  0.1 1247488 2128 ?        S<l  Jan25   0:00 /usr/bin/pulseaudio --start --log-target=syslog
-gdm       1259  0.0  0.3 473128  6896 tty1     Sl   Jan25   0:00 ibus-daemon --xim --panel disable
-gdm       1262  0.0  0.2 397796  4900 tty1     Sl   Jan25   0:00 /usr/libexec/ibus-dconf
-gdm       1265  0.0  0.7 515804 13200 tty1     Sl   Jan25   0:00 /usr/libexec/ibus-x11 --kill-daemon
-gdm       1272  0.0  0.2 441604  5188 ?        Ssl  Jan25   0:00 /usr/libexec/xdg-permission-store
-gdm       1282  0.0  0.8 1272712 15908 tty1    Sl+  Jan25   0:00 /usr/libexec/gnome-settings-daemon
-root      1286  0.0  0.1  66264  2852 ?        Ss   Jan25   0:00 /usr/sbin/wpa_supplicant -c /etc/wpa_supplicant/wpa_supplicant.conf -u -s
-root      1287  0.0  0.8 694884 14916 ?        Ssl  Jan25   0:00 /usr/libexec/packagekitd
-gdm       1304  0.0  0.2 323996  5000 tty1     Sl   Jan25   0:00 /usr/libexec/ibus-engine-simple
-colord    1346  0.0  0.4 423600  7316 ?        Ssl  Jan25   0:00 /usr/libexec/colord
-root      1378  0.0  0.3 397020  7180 ?        Sl   Jan25   0:00 gdm-session-worker [pam/gdm-password]
-phani.r+  1383  0.0  0.1  64192  3408 ?        Ss   Jan25   0:00 /usr/lib/systemd/systemd --user
-phani.r+  1387  0.0  0.0 101600  1188 ?        S    Jan25   0:00 (sd-pam)
-phani.r+  1397  0.0  0.3 471264  6072 ?        SLl  Jan25   0:51 /usr/bin/gnome-keyring-daemon --daemonize --login
-phani.r+  1400  0.0  0.3 427528  6324 tty2     Ssl+ Jan25   0:00 /usr/libexec/gdm-wayland-session gnome-session
-phani.r+  1402  0.0  0.2  53404  3900 ?        Ssl  Jan25   0:01 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
-phani.r+  1410  0.0  0.4 751236  7404 tty2     Sl+  Jan25   0:00 /usr/libexec/gnome-session-binary
-phani.r+  1466  0.0  0.2 394872  5308 ?        Ssl  Jan25   0:00 /usr/libexec/gvfsd
-phani.r+  1471  0.0  0.2 433020  4680 ?        Sl   Jan25   0:00 /usr/libexec/gvfsd-fuse /run/user/20171158/gvfs -f -o big_writes
-phani.r+  1488  0.1  6.6 2225880 120348 tty2   Sl+  Jan25   1:49 /usr/bin/gnome-shell
-phani.r+  1501  0.0  1.5 243676 28336 tty2     Sl+  Jan25   0:05 /usr/bin/Xwayland :0 -rootless -noreset -listen 4 -listen 5 -displayfd 6
-phani.r+  1505  0.0  0.2 358000  4536 ?        Ssl  Jan25   0:00 /usr/libexec/at-spi-bus-launcher
-phani.r+  1510  0.0  0.1  52660  3120 ?        Sl   Jan25   0:00 /bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 3
-phani.r+  1513  0.0  0.2 223376  3744 ?        Sl   Jan25   0:00 /usr/libexec/at-spi2-registryd --use-gnome-session
-phani.r+  1519  0.0  0.3 1280720 6104 ?        S<l  Jan25   0:00 /usr/bin/pulseaudio --start --log-target=syslog
-phani.r+  1532  0.0  0.5 954408 10500 ?        Sl   Jan25   0:00 /usr/libexec/gnome-shell-calendar-server
-phani.r+  1533  0.0  0.3 473284  7096 tty2     Sl   Jan25   0:00 ibus-daemon --xim --panel disable
-phani.r+  1537  0.0  0.2 397804  4820 tty2     Sl   Jan25   0:00 /usr/libexec/ibus-dconf
-phani.r+  1539  0.0  0.7 515820 12676 tty2     Sl   Jan25   0:00 /usr/libexec/ibus-x11 --kill-daemon
-phani.r+  1544  0.0  0.3 441604  5436 ?        Ssl  Jan25   0:00 /usr/libexec/xdg-permission-store
-phani.r+  1556  0.0  0.3 430276  5508 ?        Ssl  Jan25   0:00 /usr/libexec/gvfs-udisks2-volume-monitor
-root      1559  0.0  0.3 396168  5800 ?        Ssl  Jan25   0:07 /usr/libexec/udisks2/udisksd --no-debug
-phani.r+  1566  0.0  0.2 397788  5244 ?        Ssl  Jan25   0:00 /usr/libexec/gvfs-mtp-volume-monitor
-phani.r+  1570  0.0  0.3 483728  6480 ?        Ssl  Jan25   0:00 /usr/libexec/gvfs-afc-volume-monitor
-phani.r+  1575  0.0  0.2 378044  4136 ?        Ssl  Jan25   0:00 /usr/libexec/gvfs-goa-volume-monitor
-phani.r+  1579  0.0  0.5 857796 10452 ?        Sl   Jan25   0:00 /usr/libexec/goa-daemon
-phani.r+  1588  0.0  0.7 1590312 13116 ?       Ssl  Jan25   0:00 /usr/libexec/evolution-source-registry
-phani.r+  1592  0.0  0.3 525136  6552 ?        Sl   Jan25   0:01 /usr/libexec/goa-identity-service
-phani.r+  1595  0.0  0.2 394380  5128 ?        Ssl  Jan25   0:00 /usr/libexec/gvfs-gphoto2-volume-monitor
-phani.r+  1622  0.0  0.2 323996  4988 tty2     Sl   Jan25   0:00 /usr/libexec/ibus-engine-simple
-phani.r+  1625  0.0  1.0 1650184 18412 tty2    Sl+  Jan25   0:03 /usr/libexec/gnome-settings-daemon
-phani.r+  1670  0.0  0.8 1129092 15548 ?       Ssl  Jan25   0:00 /usr/libexec/evolution-calendar-factory
-root      1682  0.0  0.3 210604  5648 ?        Ss   Jan25   0:00 /usr/sbin/cupsd -l
-phani.r+  1690  0.0  0.4 622820  8124 tty2     Sl+  Jan25   0:00 /usr/libexec/gsd-printer
-phani.r+  1693  0.0  0.5 709560  9164 tty2     SNl+ Jan25   0:00 /usr/libexec/tracker-miner-apps
-phani.r+  1696  0.0  0.6 1224664 11848 ?       Sl   Jan25   0:00 /usr/libexec/evolution-calendar-factory-subprocess --factory contacts --bus-name org.gnome.evolution.dataserver.Subprocess.Backend.Calendarx1670x2 --own-path /org/gnome/evolution/dataserver/Subprocess/Backend/Calendar/1670/2
-phani.r+  1697  0.0  0.9 1080648 16596 tty2    Sl+  Jan25   0:00 /usr/libexec/evolution/evolution-alarm-notify
-phani.r+  1754  0.0  0.2 187532  4528 ?        Sl   Jan25   0:00 /usr/libexec/dconf-service
-phani.r+  1758  0.0  0.6 1216500 12228 ?       Sl   Jan25   0:00 /usr/libexec/evolution-calendar-factory-subprocess --factory local --bus-name org.gnome.evolution.dataserver.Subprocess.Backend.Calendarx1670x3 --own-path /org/gnome/evolution/dataserver/Subprocess/Backend/Calendar/1670/3
-phani.r+  1759  0.0  0.7 1117076 12804 ?       Ssl  Jan25   0:00 /usr/libexec/evolution-addressbook-factory
-phani.r+  1773  0.0  1.7 607284 31884 ?        Ssl  Jan25   0:19 /usr/libexec/tracker-store
-phani.r+  1780  0.1  1.2 1270824 22992 tty2    SNl+ Jan25   1:46 /usr/libexec/tracker-miner-fs
-phani.r+  1791  0.0  3.3 1037864 59912 tty2    Sl+  Jan25   0:02 /usr/bin/gnome-software --gapplication-service
-phani.r+  1796  0.4  2.3 1305740 43180 tty2    SNl+ Jan25   4:54 /usr/libexec/tracker-extract
-phani.r+  1797  0.0  0.4 565028  8260 tty2     SNl+ Jan25   0:00 /usr/libexec/tracker-miner-user-guides
-phani.r+  1799  0.0  0.6 650540 11996 tty2     Sl+  Jan25   0:00 abrt-applet
-phani.r+  1804  0.0  0.4 456108  8504 tty2     Sl+  Jan25   0:00 /usr/bin/seapplet
-root      1833  0.0  0.3 341468  5788 ?        Sl   Jan25   0:00 /usr/sbin/abrt-dbus -t133
-phani.r+  1852  0.0  0.7 1290772 13540 ?       Sl   Jan25   0:00 /usr/libexec/evolution-addressbook-factory-subprocess --factory local --bus-name org.gnome.evolution.dataserver.Subprocess.Backend.AddressBookx1759x2 --own-path /org/gnome/evolution/dataserver/Subprocess/Backend/AddressBook/1759/2
-root      1892  0.0  2.1 629700 38536 ?        Ssl  Jan25   0:01 /usr/libexec/fwupd/fwupd
-phani.r+  1908  0.1  1.4 719492 26520 ?        Ssl  Jan25   1:06 /usr/libexec/gnome-terminal-server
-phani.r+  1914  0.0  0.3 122320  5468 pts/0    Ss   Jan25   0:00 bash
-root      1970  0.0  0.2  74612  4308 ?        S    Jan25   0:00 /sbin/dhclient -d -q -sf /usr/libexec/nm-dhcp-helper -pf /var/run/dhclient-enp2s0.pid -lf /var/lib/NetworkManager/dhclient-f30f0a3a-e848-3557-9f78-c4a356a05a4b-enp2s0.lease -cf /var/lib/NetworkManager/dhclient-enp2s0.conf enp2s0
-phani.r+  2166  0.0  0.3 309940  5408 ?        Ssl  Jan25   0:00 /usr/libexec/gvfsd-metadata
-phani.r+  2631  0.0  0.4 488320  7696 ?        Sl   Jan25   0:00 /usr/libexec/gvfsd-trash --spawner :1.18 /org/gtk/gvfs/exec_spaw/0
-phani.r+  2907  0.0  0.2 121544  4696 pts/1    Ss   Jan25   0:00 bash
-phani.r+  2960  0.2  0.1 121544  3472 pts/1    S+   Jan25   2:30 bash
-root      3754  0.0  0.0      0     0 ?        S    11:36   0:00 [kworker/u4:0]
-root      7131  0.0  0.0      0     0 ?        S    11:42   0:00 [kworker/u4:2]
-root     10885  0.0  0.0      0     0 ?        S    11:47   0:00 [kworker/u4:1]
-phani.r+ 14960  0.0  0.3 560212  5516 ?        Sl   Jan25   0:00 /usr/libexec/gvfsd-network --spawner :1.18 /org/gtk/gvfs/exec_spaw/2
-phani.r+ 15105  0.0  0.3 489488  5924 ?        Sl   Jan25   0:00 /usr/libexec/gvfsd-dnssd --spawner :1.18 /org/gtk/gvfs/exec_spaw/4
-root     16372  0.0  0.0      0     0 ?        S    12:05   0:00 [kworker/0:2]
-root     20365  0.0  0.0      0     0 ?        S    11:04   0:00 [kworker/1:1]
-root     21402  0.0  0.0      0     0 ?        S    12:23   0:00 [kworker/1:0]
-root     24433  0.0  0.0      0     0 ?        S    12:33   0:00 [kworker/0:0]
-phani.r+ 25235  0.0  0.2 122320  4396 pts/0    S+   Jan25   0:00 bash
-phani.r+ 26375  2.4  0.6 285380 11788 pts/0    S+   12:39   0:05 curl -L -k -e auto; -b cookies.txt -c cookies.txt -A Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36 -o .//Hunter_x_Hunter_(2011)_(Sub)_Episode_100.mp4 {https://www2211.playercdn.net/87/3/BGvdcApCMVKq84GxlyvC1Q/1517063931/171029/611FKZG5NIOUMLURSPBQG.mp4}
-phani.r+ 28718  0.0  0.1 121544  3412 pts/1    S+   12:43   0:00 bash
-phani.r+ 28722  0.0  0.1 148136  1936 pts/1    R+   12:43   0:00 ps -aux
+35G	.
+Downloader.sh
+Hunter_x_Hunter_(2011)_(Sub)_Episode_012.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_013.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_015.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_016.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_017.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_018.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_019.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_020.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_021.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_022.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_023.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_024.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_025.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_026.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_027.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_028.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_029.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_030.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_031.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_032.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_033.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_034.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_035.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_036.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_037.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_038.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_039.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_040.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_041.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_042.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_043.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_044.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_045.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_046.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_047.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_048.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_049.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_050.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_051.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_052.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_053.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_054.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_055.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_056.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_057.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_058.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_059.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_060.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_061.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_062.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_063.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_064.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_065.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_066.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_067.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_068.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_069.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_070.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_071.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_072.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_073.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_074.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_075.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_076.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_077.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_078.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_079.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_080.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_081.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_082.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_083.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_084.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_085.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_086.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_087.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_088.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_089.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_090.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_091.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_092.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_093.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_094.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_095.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_096.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_097.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_098.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_099.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_100.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_101.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_102.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_103.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_104.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_105.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_106.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_107.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_108.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_109.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_110.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_111.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_112.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_113.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_114.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_115.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_116.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_117.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_118.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_119.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_120.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_121.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_122.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_123.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_124.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_125.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_126.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_127.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_128.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_129.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_130.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_131.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_132.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_133.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_134.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_135.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_136.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_137.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_138.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_139.mp4
+Hunter_x_Hunter_(2011)_(Sub)_Episode_140.mp4
+[joseole99][Tormaid] Angel Beats! - 01 (1280x720 h264 AC3 AC3) [F8774E1B]_00.mp4
+list.txt
+souleatersublist1.txt
+videoder_v14.1.apk
+Windows
 #Git sucessful
