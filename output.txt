@@ -1,277 +1,547 @@
 #start
 
  
-total 35G
--rwxrwxrwx. 1 phani.rithvij 201783  456 Jan  5 19:04 Downloader.sh
--rw-r--r--. 1 phani.rithvij 201783 234M Jan 25 20:21 Hunter_x_Hunter_(2011)_(Sub)_Episode_012.mp4
--rw-r--r--. 1 phani.rithvij 201783 285M Jan 25 20:31 Hunter_x_Hunter_(2011)_(Sub)_Episode_013.mp4
--rw-r--r--. 1 phani.rithvij 201783 293M Jan 25 20:42 Hunter_x_Hunter_(2011)_(Sub)_Episode_015.mp4
--rw-r--r--. 1 phani.rithvij 201783 299M Jan 25 21:26 Hunter_x_Hunter_(2011)_(Sub)_Episode_016.mp4
--rw-r--r--. 1 phani.rithvij 201783 224M Jan 25 21:33 Hunter_x_Hunter_(2011)_(Sub)_Episode_017.mp4
--rw-r--r--. 1 phani.rithvij 201783 221M Jan 25 21:40 Hunter_x_Hunter_(2011)_(Sub)_Episode_018.mp4
--rw-r--r--. 1 phani.rithvij 201783 223M Jan 25 21:53 Hunter_x_Hunter_(2011)_(Sub)_Episode_019.mp4
--rw-r--r--. 1 phani.rithvij 201783 303M Jan 25 22:04 Hunter_x_Hunter_(2011)_(Sub)_Episode_020.mp4
--rw-r--r--. 1 phani.rithvij 201783 223M Jan 25 22:12 Hunter_x_Hunter_(2011)_(Sub)_Episode_021.mp4
--rw-r--r--. 1 phani.rithvij 201783 223M Jan 25 22:44 Hunter_x_Hunter_(2011)_(Sub)_Episode_022.mp4
--rw-r--r--. 1 phani.rithvij 201783 311M Jan 25 22:54 Hunter_x_Hunter_(2011)_(Sub)_Episode_023.mp4
--rw-r--r--. 1 phani.rithvij 201783 223M Jan 25 23:02 Hunter_x_Hunter_(2011)_(Sub)_Episode_024.mp4
--rw-r--r--. 1 phani.rithvij 201783 224M Jan 25 23:09 Hunter_x_Hunter_(2011)_(Sub)_Episode_025.mp4
--rw-r--r--. 1 phani.rithvij 201783 301M Jan 25 23:19 Hunter_x_Hunter_(2011)_(Sub)_Episode_026.mp4
--rw-r--r--. 1 phani.rithvij 201783 242M Jan 25 23:28 Hunter_x_Hunter_(2011)_(Sub)_Episode_027.mp4
--rw-r--r--. 1 phani.rithvij 201783 314M Jan 25 23:38 Hunter_x_Hunter_(2011)_(Sub)_Episode_028.mp4
--rw-r--r--. 1 phani.rithvij 201783 313M Jan 25 23:51 Hunter_x_Hunter_(2011)_(Sub)_Episode_029.mp4
--rw-r--r--. 1 phani.rithvij 201783 306M Jan 26 00:02 Hunter_x_Hunter_(2011)_(Sub)_Episode_030.mp4
--rw-r--r--. 1 phani.rithvij 201783 317M Jan 26 00:15 Hunter_x_Hunter_(2011)_(Sub)_Episode_031.mp4
--rw-r--r--. 1 phani.rithvij 201783 305M Jan 26 00:24 Hunter_x_Hunter_(2011)_(Sub)_Episode_032.mp4
--rw-r--r--. 1 phani.rithvij 201783 318M Jan 26 00:49 Hunter_x_Hunter_(2011)_(Sub)_Episode_033.mp4
--rw-r--r--. 1 phani.rithvij 201783 314M Jan 26 00:59 Hunter_x_Hunter_(2011)_(Sub)_Episode_034.mp4
--rw-r--r--. 1 phani.rithvij 201783 328M Jan 26 01:10 Hunter_x_Hunter_(2011)_(Sub)_Episode_035.mp4
--rw-r--r--. 1 phani.rithvij 201783 306M Jan 26 01:19 Hunter_x_Hunter_(2011)_(Sub)_Episode_036.mp4
--rw-r--r--. 1 phani.rithvij 201783 315M Jan 26 01:29 Hunter_x_Hunter_(2011)_(Sub)_Episode_037.mp4
--rw-r--r--. 1 phani.rithvij 201783 239M Jan 26 01:36 Hunter_x_Hunter_(2011)_(Sub)_Episode_038.mp4
--rw-r--r--. 1 phani.rithvij 201783 323M Jan 26 01:47 Hunter_x_Hunter_(2011)_(Sub)_Episode_039.mp4
--rw-r--r--. 1 phani.rithvij 201783 235M Jan 26 01:53 Hunter_x_Hunter_(2011)_(Sub)_Episode_040.mp4
--rw-r--r--. 1 phani.rithvij 201783 240M Jan 26 02:00 Hunter_x_Hunter_(2011)_(Sub)_Episode_041.mp4
--rw-r--r--. 1 phani.rithvij 201783 239M Jan 26 02:07 Hunter_x_Hunter_(2011)_(Sub)_Episode_042.mp4
--rw-r--r--. 1 phani.rithvij 201783 314M Jan 26 02:15 Hunter_x_Hunter_(2011)_(Sub)_Episode_043.mp4
--rw-r--r--. 1 phani.rithvij 201783 309M Jan 26 02:24 Hunter_x_Hunter_(2011)_(Sub)_Episode_044.mp4
--rw-r--r--. 1 phani.rithvij 201783 223M Jan 26 02:31 Hunter_x_Hunter_(2011)_(Sub)_Episode_045.mp4
--rw-r--r--. 1 phani.rithvij 201783 224M Jan 26 02:39 Hunter_x_Hunter_(2011)_(Sub)_Episode_046.mp4
--rw-r--r--. 1 phani.rithvij 201783 304M Jan 26 02:49 Hunter_x_Hunter_(2011)_(Sub)_Episode_047.mp4
--rw-r--r--. 1 phani.rithvij 201783 321M Jan 26 02:59 Hunter_x_Hunter_(2011)_(Sub)_Episode_048.mp4
--rw-r--r--. 1 phani.rithvij 201783 245M Jan 26 03:05 Hunter_x_Hunter_(2011)_(Sub)_Episode_049.mp4
--rw-r--r--. 1 phani.rithvij 201783 223M Jan 26 03:11 Hunter_x_Hunter_(2011)_(Sub)_Episode_050.mp4
--rw-r--r--. 1 phani.rithvij 201783 328M Jan 26 04:20 Hunter_x_Hunter_(2011)_(Sub)_Episode_051.mp4
--rw-r--r--. 1 phani.rithvij 201783 334M Jan 26 04:28 Hunter_x_Hunter_(2011)_(Sub)_Episode_052.mp4
--rw-r--r--. 1 phani.rithvij 201783 234M Jan 26 04:36 Hunter_x_Hunter_(2011)_(Sub)_Episode_053.mp4
--rw-r--r--. 1 phani.rithvij 201783 319M Jan 26 05:34 Hunter_x_Hunter_(2011)_(Sub)_Episode_054.mp4
--rw-r--r--. 1 phani.rithvij 201783 328M Jan 26 05:45 Hunter_x_Hunter_(2011)_(Sub)_Episode_055.mp4
--rw-r--r--. 1 phani.rithvij 201783 324M Jan 26 05:53 Hunter_x_Hunter_(2011)_(Sub)_Episode_056.mp4
--rw-r--r--. 1 phani.rithvij 201783 313M Jan 26 06:01 Hunter_x_Hunter_(2011)_(Sub)_Episode_057.mp4
--rw-r--r--. 1 phani.rithvij 201783 223M Jan 26 06:08 Hunter_x_Hunter_(2011)_(Sub)_Episode_058.mp4
--rw-r--r--. 1 phani.rithvij 201783 299M Jan 26 06:17 Hunter_x_Hunter_(2011)_(Sub)_Episode_059.mp4
--rw-r--r--. 1 phani.rithvij 201783 303M Jan 26 06:27 Hunter_x_Hunter_(2011)_(Sub)_Episode_060.mp4
--rw-r--r--. 1 phani.rithvij 201783 295M Jan 26 06:36 Hunter_x_Hunter_(2011)_(Sub)_Episode_061.mp4
--rw-r--r--. 1 phani.rithvij 201783 304M Jan 26 06:44 Hunter_x_Hunter_(2011)_(Sub)_Episode_062.mp4
--rw-r--r--. 1 phani.rithvij 201783 308M Jan 26 06:54 Hunter_x_Hunter_(2011)_(Sub)_Episode_063.mp4
--rw-r--r--. 1 phani.rithvij 201783 217M Jan 26 07:01 Hunter_x_Hunter_(2011)_(Sub)_Episode_064.mp4
--rw-r--r--. 1 phani.rithvij 201783 302M Jan 26 07:11 Hunter_x_Hunter_(2011)_(Sub)_Episode_065.mp4
--rw-r--r--. 1 phani.rithvij 201783 297M Jan 26 07:20 Hunter_x_Hunter_(2011)_(Sub)_Episode_066.mp4
--rw-r--r--. 1 phani.rithvij 201783 289M Jan 26 07:28 Hunter_x_Hunter_(2011)_(Sub)_Episode_067.mp4
--rw-r--r--. 1 phani.rithvij 201783 227M Jan 26 07:35 Hunter_x_Hunter_(2011)_(Sub)_Episode_068.mp4
--rw-r--r--. 1 phani.rithvij 201783 230M Jan 26 07:41 Hunter_x_Hunter_(2011)_(Sub)_Episode_069.mp4
--rw-r--r--. 1 phani.rithvij 201783 288M Jan 26 08:36 Hunter_x_Hunter_(2011)_(Sub)_Episode_070.mp4
--rw-r--r--. 1 phani.rithvij 201783 287M Jan 26 08:44 Hunter_x_Hunter_(2011)_(Sub)_Episode_071.mp4
--rw-r--r--. 1 phani.rithvij 201783 225M Jan 26 08:52 Hunter_x_Hunter_(2011)_(Sub)_Episode_072.mp4
--rw-r--r--. 1 phani.rithvij 201783 311M Jan 26 09:02 Hunter_x_Hunter_(2011)_(Sub)_Episode_073.mp4
--rw-r--r--. 1 phani.rithvij 201783 288M Jan 26 09:11 Hunter_x_Hunter_(2011)_(Sub)_Episode_074.mp4
--rw-r--r--. 1 phani.rithvij 201783 223M Jan 26 09:18 Hunter_x_Hunter_(2011)_(Sub)_Episode_075.mp4
--rw-r--r--. 1 phani.rithvij 201783 220M Jan 26 09:24 Hunter_x_Hunter_(2011)_(Sub)_Episode_076.mp4
--rw-r--r--. 1 phani.rithvij 201783 298M Jan 26 09:32 Hunter_x_Hunter_(2011)_(Sub)_Episode_077.mp4
--rw-r--r--. 1 phani.rithvij 201783 290M Jan 26 09:41 Hunter_x_Hunter_(2011)_(Sub)_Episode_078.mp4
--rw-r--r--. 1 phani.rithvij 201783 292M Jan 26 09:49 Hunter_x_Hunter_(2011)_(Sub)_Episode_079.mp4
--rw-r--r--. 1 phani.rithvij 201783 213M Jan 26 09:54 Hunter_x_Hunter_(2011)_(Sub)_Episode_080.mp4
--rw-r--r--. 1 phani.rithvij 201783 292M Jan 26 10:03 Hunter_x_Hunter_(2011)_(Sub)_Episode_081.mp4
--rw-r--r--. 1 phani.rithvij 201783 296M Jan 26 10:12 Hunter_x_Hunter_(2011)_(Sub)_Episode_082.mp4
--rw-r--r--. 1 phani.rithvij 201783 294M Jan 26 10:21 Hunter_x_Hunter_(2011)_(Sub)_Episode_083.mp4
--rw-r--r--. 1 phani.rithvij 201783 282M Jan 26 10:29 Hunter_x_Hunter_(2011)_(Sub)_Episode_084.mp4
--rw-r--r--. 1 phani.rithvij 201783 291M Jan 26 10:37 Hunter_x_Hunter_(2011)_(Sub)_Episode_085.mp4
--rw-r--r--. 1 phani.rithvij 201783 295M Jan 26 10:47 Hunter_x_Hunter_(2011)_(Sub)_Episode_086.mp4
--rw-r--r--. 1 phani.rithvij 201783 222M Jan 26 10:53 Hunter_x_Hunter_(2011)_(Sub)_Episode_087.mp4
--rw-r--r--. 1 phani.rithvij 201783 289M Jan 26 11:01 Hunter_x_Hunter_(2011)_(Sub)_Episode_088.mp4
--rw-r--r--. 1 phani.rithvij 201783 223M Jan 26 11:08 Hunter_x_Hunter_(2011)_(Sub)_Episode_089.mp4
--rw-r--r--. 1 phani.rithvij 201783 294M Jan 26 11:18 Hunter_x_Hunter_(2011)_(Sub)_Episode_090.mp4
--rw-r--r--. 1 phani.rithvij 201783 290M Jan 26 11:27 Hunter_x_Hunter_(2011)_(Sub)_Episode_091.mp4
--rw-r--r--. 1 phani.rithvij 201783 305M Jan 26 11:37 Hunter_x_Hunter_(2011)_(Sub)_Episode_092.mp4
--rw-r--r--. 1 phani.rithvij 201783 298M Jan 26 11:47 Hunter_x_Hunter_(2011)_(Sub)_Episode_093.mp4
--rw-r--r--. 1 phani.rithvij 201783 292M Jan 26 11:57 Hunter_x_Hunter_(2011)_(Sub)_Episode_094.mp4
--rw-r--r--. 1 phani.rithvij 201783 223M Jan 26 12:04 Hunter_x_Hunter_(2011)_(Sub)_Episode_095.mp4
--rw-r--r--. 1 phani.rithvij 201783 303M Jan 26 12:14 Hunter_x_Hunter_(2011)_(Sub)_Episode_096.mp4
--rw-r--r--. 1 phani.rithvij 201783 285M Jan 26 12:23 Hunter_x_Hunter_(2011)_(Sub)_Episode_097.mp4
--rw-r--r--. 1 phani.rithvij 201783 225M Jan 26 12:30 Hunter_x_Hunter_(2011)_(Sub)_Episode_098.mp4
--rw-r--r--. 1 phani.rithvij 201783 287M Jan 26 12:39 Hunter_x_Hunter_(2011)_(Sub)_Episode_099.mp4
--rw-r--r--. 1 phani.rithvij 201783 299M Jan 26 12:49 Hunter_x_Hunter_(2011)_(Sub)_Episode_100.mp4
--rw-r--r--. 1 phani.rithvij 201783 299M Jan 26 12:59 Hunter_x_Hunter_(2011)_(Sub)_Episode_101.mp4
--rw-r--r--. 1 phani.rithvij 201783 309M Jan 26 13:10 Hunter_x_Hunter_(2011)_(Sub)_Episode_102.mp4
--rw-r--r--. 1 phani.rithvij 201783 232M Jan 26 13:17 Hunter_x_Hunter_(2011)_(Sub)_Episode_103.mp4
--rw-r--r--. 1 phani.rithvij 201783 316M Jan 26 13:28 Hunter_x_Hunter_(2011)_(Sub)_Episode_104.mp4
--rw-r--r--. 1 phani.rithvij 201783 314M Jan 26 13:38 Hunter_x_Hunter_(2011)_(Sub)_Episode_105.mp4
--rw-r--r--. 1 phani.rithvij 201783 295M Jan 26 13:47 Hunter_x_Hunter_(2011)_(Sub)_Episode_106.mp4
--rw-r--r--. 1 phani.rithvij 201783 211M Jan 26 13:54 Hunter_x_Hunter_(2011)_(Sub)_Episode_107.mp4
--rw-r--r--. 1 phani.rithvij 201783 302M Jan 26 14:04 Hunter_x_Hunter_(2011)_(Sub)_Episode_108.mp4
--rw-r--r--. 1 phani.rithvij 201783 234M Jan 26 14:12 Hunter_x_Hunter_(2011)_(Sub)_Episode_109.mp4
--rw-r--r--. 1 phani.rithvij 201783 307M Jan 26 14:22 Hunter_x_Hunter_(2011)_(Sub)_Episode_110.mp4
--rw-r--r--. 1 phani.rithvij 201783 306M Jan 26 14:32 Hunter_x_Hunter_(2011)_(Sub)_Episode_111.mp4
--rw-r--r--. 1 phani.rithvij 201783 290M Jan 26 14:41 Hunter_x_Hunter_(2011)_(Sub)_Episode_112.mp4
--rw-r--r--. 1 phani.rithvij 201783 286M Jan 26 14:50 Hunter_x_Hunter_(2011)_(Sub)_Episode_113.mp4
--rw-r--r--. 1 phani.rithvij 201783 306M Jan 26 15:00 Hunter_x_Hunter_(2011)_(Sub)_Episode_114.mp4
--rw-r--r--. 1 phani.rithvij 201783 304M Jan 26 15:10 Hunter_x_Hunter_(2011)_(Sub)_Episode_115.mp4
--rw-r--r--. 1 phani.rithvij 201783 299M Jan 26 15:20 Hunter_x_Hunter_(2011)_(Sub)_Episode_116.mp4
--rw-r--r--. 1 phani.rithvij 201783 311M Jan 26 15:32 Hunter_x_Hunter_(2011)_(Sub)_Episode_117.mp4
--rw-r--r--. 1 phani.rithvij 201783 320M Jan 26 15:43 Hunter_x_Hunter_(2011)_(Sub)_Episode_118.mp4
--rw-r--r--. 1 phani.rithvij 201783 285M Jan 26 15:52 Hunter_x_Hunter_(2011)_(Sub)_Episode_119.mp4
--rw-r--r--. 1 phani.rithvij 201783 306M Jan 26 16:02 Hunter_x_Hunter_(2011)_(Sub)_Episode_120.mp4
--rw-r--r--. 1 phani.rithvij 201783 293M Jan 26 16:12 Hunter_x_Hunter_(2011)_(Sub)_Episode_121.mp4
--rw-r--r--. 1 phani.rithvij 201783 303M Jan 26 16:21 Hunter_x_Hunter_(2011)_(Sub)_Episode_122.mp4
--rw-r--r--. 1 phani.rithvij 201783 303M Jan 26 16:31 Hunter_x_Hunter_(2011)_(Sub)_Episode_123.mp4
--rw-r--r--. 1 phani.rithvij 201783 306M Jan 26 16:42 Hunter_x_Hunter_(2011)_(Sub)_Episode_124.mp4
--rw-r--r--. 1 phani.rithvij 201783 242M Jan 26 16:50 Hunter_x_Hunter_(2011)_(Sub)_Episode_125.mp4
--rw-r--r--. 1 phani.rithvij 201783 298M Jan 26 17:00 Hunter_x_Hunter_(2011)_(Sub)_Episode_126.mp4
--rw-r--r--. 1 phani.rithvij 201783 285M Jan 26 17:10 Hunter_x_Hunter_(2011)_(Sub)_Episode_127.mp4
--rw-r--r--. 1 phani.rithvij 201783 294M Jan 26 17:20 Hunter_x_Hunter_(2011)_(Sub)_Episode_128.mp4
--rw-r--r--. 1 phani.rithvij 201783 297M Jan 26 17:30 Hunter_x_Hunter_(2011)_(Sub)_Episode_129.mp4
--rw-r--r--. 1 phani.rithvij 201783 303M Jan 26 17:40 Hunter_x_Hunter_(2011)_(Sub)_Episode_130.mp4
--rw-r--r--. 1 phani.rithvij 201783 312M Jan 26 17:50 Hunter_x_Hunter_(2011)_(Sub)_Episode_131.mp4
--rw-r--r--. 1 phani.rithvij 201783 301M Jan 26 18:00 Hunter_x_Hunter_(2011)_(Sub)_Episode_132.mp4
--rw-r--r--. 1 phani.rithvij 201783 289M Jan 26 18:10 Hunter_x_Hunter_(2011)_(Sub)_Episode_133.mp4
--rw-r--r--. 1 phani.rithvij 201783 291M Jan 26 18:19 Hunter_x_Hunter_(2011)_(Sub)_Episode_134.mp4
--rw-r--r--. 1 phani.rithvij 201783 299M Jan 26 18:30 Hunter_x_Hunter_(2011)_(Sub)_Episode_135.mp4
--rw-r--r--. 1 phani.rithvij 201783 227M Jan 26 18:37 Hunter_x_Hunter_(2011)_(Sub)_Episode_136.mp4
--rw-r--r--. 1 phani.rithvij 201783 296M Jan 26 18:47 Hunter_x_Hunter_(2011)_(Sub)_Episode_137.mp4
--rw-r--r--. 1 phani.rithvij 201783 223M Jan 26 18:54 Hunter_x_Hunter_(2011)_(Sub)_Episode_138.mp4
--rw-r--r--. 1 phani.rithvij 201783 300M Jan 26 19:05 Hunter_x_Hunter_(2011)_(Sub)_Episode_139.mp4
--rw-r--r--. 1 phani.rithvij 201783  94M Jan 26 19:08 Hunter_x_Hunter_(2011)_(Sub)_Episode_140.mp4
--rw-r--r--. 1 phani.rithvij 201783  52M Jan 26 16:35 [joseole99][Tormaid] Angel Beats! - 01 (1280x720 h264 AC3 AC3) [F8774E1B]_00.mp4
--rw-r--r--. 1 phani.rithvij 201783  20K Jan 25 20:13 list.txt
--rw-r--r--. 1 phani.rithvij 201783 6.4K Jan  5 20:26 souleatersublist1.txt
--rw-r--r--. 1 phani.rithvij 201783 9.0M Jan 26 16:42 videoder_v14.1.apk
-drwxr-xr-x. 2 phani.rithvij 201783 4.0K Jan  9 17:06 Windows
-1668	./Windows
-36640952	.
-1.7M	./Windows
-35G	.
-Downloader.sh
-Hunter_x_Hunter_(2011)_(Sub)_Episode_012.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_013.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_015.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_016.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_017.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_018.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_019.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_020.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_021.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_022.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_023.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_024.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_025.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_026.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_027.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_028.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_029.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_030.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_031.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_032.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_033.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_034.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_035.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_036.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_037.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_038.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_039.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_040.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_041.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_042.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_043.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_044.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_045.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_046.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_047.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_048.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_049.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_050.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_051.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_052.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_053.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_054.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_055.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_056.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_057.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_058.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_059.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_060.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_061.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_062.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_063.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_064.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_065.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_066.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_067.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_068.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_069.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_070.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_071.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_072.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_073.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_074.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_075.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_076.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_077.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_078.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_079.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_080.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_081.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_082.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_083.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_084.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_085.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_086.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_087.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_088.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_089.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_090.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_091.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_092.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_093.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_094.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_095.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_096.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_097.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_098.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_099.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_100.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_101.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_102.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_103.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_104.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_105.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_106.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_107.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_108.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_109.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_110.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_111.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_112.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_113.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_114.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_115.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_116.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_117.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_118.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_119.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_120.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_121.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_122.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_123.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_124.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_125.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_126.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_127.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_128.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_129.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_130.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_131.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_132.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_133.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_134.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_135.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_136.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_137.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_138.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_139.mp4
-Hunter_x_Hunter_(2011)_(Sub)_Episode_140.mp4
-[joseole99][Tormaid] Angel Beats! - 01 (1280x720 h264 AC3 AC3) [F8774E1B]_00.mp4
-list.txt
-souleatersublist1.txt
-videoder_v14.1.apk
-Windows
+total 24K
+drwxr-xr-x. 3 phani.rithvij 201783 4.0K Jan 27 22:17 Funmanga
+drwxr-xr-x. 3 phani.rithvij 201783 4.0K Jan 27 22:17 mangacruzers
+drwxr-xr-x. 3 phani.rithvij 201783 4.0K Jan 27 22:18 mangafreak
+drwxr-xr-x. 3 phani.rithvij 201783 4.0K Jan 27 22:16 manganelo
+drwxr-xr-x. 3 phani.rithvij 201783 4.0K Jan 27 22:12 OLD
+drwxr-xr-x. 4 phani.rithvij 201783 4.0K Jan 27 22:14 twist.moe
+8	./manganelo/.git/logs/refs/heads
+8	./manganelo/.git/logs/refs/remotes/origin
+12	./manganelo/.git/logs/refs/remotes
+24	./manganelo/.git/logs/refs
+32	./manganelo/.git/logs
+8	./manganelo/.git/info
+44	./manganelo/.git/hooks
+4	./manganelo/.git/refs/tags
+8	./manganelo/.git/refs/heads
+8	./manganelo/.git/refs/remotes/origin
+12	./manganelo/.git/refs/remotes
+28	./manganelo/.git/refs
+8	./manganelo/.git/objects/fa
+4	./manganelo/.git/objects/info
+8	./manganelo/.git/objects/75
+8	./manganelo/.git/objects/11
+8	./manganelo/.git/objects/b0
+8	./manganelo/.git/objects/9b
+4	./manganelo/.git/objects/pack
+8	./manganelo/.git/objects/23
+8	./manganelo/.git/objects/f5
+8	./manganelo/.git/objects/6a
+76	./manganelo/.git/objects
+4	./manganelo/.git/branches
+216	./manganelo/.git
+236	./manganelo
+8	./Funmanga/.git/logs/refs/heads
+8	./Funmanga/.git/logs/refs/remotes/origin
+12	./Funmanga/.git/logs/refs/remotes
+24	./Funmanga/.git/logs/refs
+32	./Funmanga/.git/logs
+8	./Funmanga/.git/info
+44	./Funmanga/.git/hooks
+4	./Funmanga/.git/refs/tags
+8	./Funmanga/.git/refs/heads
+8	./Funmanga/.git/refs/remotes/origin
+12	./Funmanga/.git/refs/remotes
+28	./Funmanga/.git/refs
+8	./Funmanga/.git/objects/d8
+8	./Funmanga/.git/objects/4b
+12	./Funmanga/.git/objects/7d
+8	./Funmanga/.git/objects/7b
+8	./Funmanga/.git/objects/03
+8	./Funmanga/.git/objects/fa
+8	./Funmanga/.git/objects/26
+8	./Funmanga/.git/objects/80
+12	./Funmanga/.git/objects/d2
+8	./Funmanga/.git/objects/51
+8	./Funmanga/.git/objects/a7
+8	./Funmanga/.git/objects/6b
+8	./Funmanga/.git/objects/f0
+4	./Funmanga/.git/objects/info
+8	./Funmanga/.git/objects/75
+12	./Funmanga/.git/objects/31
+8	./Funmanga/.git/objects/ef
+8	./Funmanga/.git/objects/c3
+8	./Funmanga/.git/objects/4a
+8	./Funmanga/.git/objects/f9
+12	./Funmanga/.git/objects/95
+8	./Funmanga/.git/objects/b6
+8	./Funmanga/.git/objects/b0
+8	./Funmanga/.git/objects/84
+8	./Funmanga/.git/objects/e1
+8	./Funmanga/.git/objects/01
+8	./Funmanga/.git/objects/97
+8	./Funmanga/.git/objects/37
+12	./Funmanga/.git/objects/63
+4	./Funmanga/.git/objects/pack
+8	./Funmanga/.git/objects/e9
+44	./Funmanga/.git/objects/e8
+8	./Funmanga/.git/objects/96
+8	./Funmanga/.git/objects/d9
+8	./Funmanga/.git/objects/22
+8	./Funmanga/.git/objects/b9
+8	./Funmanga/.git/objects/35
+8	./Funmanga/.git/objects/bf
+8	./Funmanga/.git/objects/91
+8	./Funmanga/.git/objects/65
+12	./Funmanga/.git/objects/38
+8	./Funmanga/.git/objects/f5
+8	./Funmanga/.git/objects/9e
+8	./Funmanga/.git/objects/32
+8	./Funmanga/.git/objects/2d
+8	./Funmanga/.git/objects/47
+12	./Funmanga/.git/objects/58
+8	./Funmanga/.git/objects/fe
+8	./Funmanga/.git/objects/a0
+8	./Funmanga/.git/objects/49
+8	./Funmanga/.git/objects/f3
+8	./Funmanga/.git/objects/69
+8	./Funmanga/.git/objects/99
+8	./Funmanga/.git/objects/14
+8	./Funmanga/.git/objects/0e
+8	./Funmanga/.git/objects/89
+8	./Funmanga/.git/objects/29
+8	./Funmanga/.git/objects/39
+8	./Funmanga/.git/objects/6d
+8	./Funmanga/.git/objects/0c
+540	./Funmanga/.git/objects
+4	./Funmanga/.git/branches
+680	./Funmanga/.git
+828	./Funmanga
+8	./mangafreak/.git/logs/refs/heads
+8	./mangafreak/.git/logs/refs/remotes/origin
+12	./mangafreak/.git/logs/refs/remotes
+24	./mangafreak/.git/logs/refs
+32	./mangafreak/.git/logs
+8	./mangafreak/.git/info
+44	./mangafreak/.git/hooks
+4	./mangafreak/.git/refs/tags
+8	./mangafreak/.git/refs/heads
+8	./mangafreak/.git/refs/remotes/origin
+12	./mangafreak/.git/refs/remotes
+28	./mangafreak/.git/refs
+8	./mangafreak/.git/objects/3a
+8	./mangafreak/.git/objects/80
+8	./mangafreak/.git/objects/ed
+4	./mangafreak/.git/objects/info
+8	./mangafreak/.git/objects/75
+8	./mangafreak/.git/objects/e3
+8	./mangafreak/.git/objects/60
+12	./mangafreak/.git/objects/e1
+4	./mangafreak/.git/objects/pack
+44	./mangafreak/.git/objects/e8
+8	./mangafreak/.git/objects/07
+8	./mangafreak/.git/objects/b4
+8	./mangafreak/.git/objects/ab
+8	./mangafreak/.git/objects/f3
+8	./mangafreak/.git/objects/14
+8	./mangafreak/.git/objects/af
+164	./mangafreak/.git/objects
+4	./mangafreak/.git/branches
+304	./mangafreak/.git
+432	./mangafreak
+8	./twist.moe/Temp2/.git/logs/refs/heads
+8	./twist.moe/Temp2/.git/logs/refs/remotes/origin
+12	./twist.moe/Temp2/.git/logs/refs/remotes
+24	./twist.moe/Temp2/.git/logs/refs
+32	./twist.moe/Temp2/.git/logs
+8	./twist.moe/Temp2/.git/info
+44	./twist.moe/Temp2/.git/hooks
+4	./twist.moe/Temp2/.git/refs/tags
+8	./twist.moe/Temp2/.git/refs/heads
+8	./twist.moe/Temp2/.git/refs/remotes/origin
+12	./twist.moe/Temp2/.git/refs/remotes
+28	./twist.moe/Temp2/.git/refs
+4	./twist.moe/Temp2/.git/objects/info
+192	./twist.moe/Temp2/.git/objects/pack
+200	./twist.moe/Temp2/.git/objects
+4	./twist.moe/Temp2/.git/branches
+340	./twist.moe/Temp2/.git
+440	./twist.moe/Temp2
+8	./twist.moe/.git/logs/refs/heads
+8	./twist.moe/.git/logs/refs/remotes/origin
+12	./twist.moe/.git/logs/refs/remotes
+24	./twist.moe/.git/logs/refs
+32	./twist.moe/.git/logs
+8	./twist.moe/.git/info
+44	./twist.moe/.git/hooks
+4	./twist.moe/.git/refs/tags
+8	./twist.moe/.git/refs/heads
+8	./twist.moe/.git/refs/remotes/origin
+12	./twist.moe/.git/refs/remotes
+28	./twist.moe/.git/refs
+8	./twist.moe/.git/objects/90
+8	./twist.moe/.git/objects/21
+8	./twist.moe/.git/objects/98
+8	./twist.moe/.git/objects/ac
+8	./twist.moe/.git/objects/8c
+8	./twist.moe/.git/objects/a5
+8	./twist.moe/.git/objects/3a
+8	./twist.moe/.git/objects/6f
+8	./twist.moe/.git/objects/50
+8	./twist.moe/.git/objects/67
+8	./twist.moe/.git/objects/cb
+8	./twist.moe/.git/objects/f4
+8	./twist.moe/.git/objects/fc
+8	./twist.moe/.git/objects/0f
+8	./twist.moe/.git/objects/51
+8	./twist.moe/.git/objects/15
+8	./twist.moe/.git/objects/83
+4	./twist.moe/.git/objects/info
+12	./twist.moe/.git/objects/ef
+8	./twist.moe/.git/objects/76
+8	./twist.moe/.git/objects/c4
+8	./twist.moe/.git/objects/77
+8	./twist.moe/.git/objects/ea
+8	./twist.moe/.git/objects/34
+8	./twist.moe/.git/objects/84
+8	./twist.moe/.git/objects/72
+8	./twist.moe/.git/objects/01
+8	./twist.moe/.git/objects/f1
+4	./twist.moe/.git/objects/pack
+8	./twist.moe/.git/objects/e9
+8	./twist.moe/.git/objects/23
+8	./twist.moe/.git/objects/19
+8	./twist.moe/.git/objects/ae
+8	./twist.moe/.git/objects/96
+8	./twist.moe/.git/objects/07
+8	./twist.moe/.git/objects/74
+8	./twist.moe/.git/objects/38
+8	./twist.moe/.git/objects/f5
+8	./twist.moe/.git/objects/6a
+8	./twist.moe/.git/objects/8e
+8	./twist.moe/.git/objects/bc
+16	./twist.moe/.git/objects/d5
+12	./twist.moe/.git/objects/e4
+8	./twist.moe/.git/objects/ab
+8	./twist.moe/.git/objects/3c
+8	./twist.moe/.git/objects/79
+8	./twist.moe/.git/objects/49
+8	./twist.moe/.git/objects/e0
+16	./twist.moe/.git/objects/69
+8	./twist.moe/.git/objects/7f
+8	./twist.moe/.git/objects/2e
+8	./twist.moe/.git/objects/36
+8	./twist.moe/.git/objects/71
+8	./twist.moe/.git/objects/89
+8	./twist.moe/.git/objects/d0
+12	./twist.moe/.git/objects/55
+8	./twist.moe/.git/objects/29
+8	./twist.moe/.git/objects/05
+8	./twist.moe/.git/objects/39
+12	./twist.moe/.git/objects/af
+8	./twist.moe/.git/objects/db
+8	./twist.moe/.git/objects/8f
+8	./twist.moe/.git/objects/c0
+8	./twist.moe/.git/objects/7a
+8	./twist.moe/.git/objects/46
+8	./twist.moe/.git/objects/cf
+556	./twist.moe/.git/objects
+4	./twist.moe/.git/branches
+696	./twist.moe/.git
+1160	./twist.moe
+8	./mangacruzers/.git/logs/refs/heads
+8	./mangacruzers/.git/logs/refs/remotes/origin
+12	./mangacruzers/.git/logs/refs/remotes
+24	./mangacruzers/.git/logs/refs
+32	./mangacruzers/.git/logs
+8	./mangacruzers/.git/info
+44	./mangacruzers/.git/hooks
+4	./mangacruzers/.git/refs/tags
+8	./mangacruzers/.git/refs/heads
+8	./mangacruzers/.git/refs/remotes/origin
+12	./mangacruzers/.git/refs/remotes
+28	./mangacruzers/.git/refs
+4	./mangacruzers/.git/objects/info
+4	./mangacruzers/.git/objects/pack
+8	./mangacruzers/.git/objects/96
+8	./mangacruzers/.git/objects/92
+8	./mangacruzers/.git/objects/dd
+8	./mangacruzers/.git/objects/bd
+8	./mangacruzers/.git/objects/ab
+8	./mangacruzers/.git/objects/fe
+8	./mangacruzers/.git/objects/be
+8	./mangacruzers/.git/objects/00
+8	./mangacruzers/.git/objects/c2
+8	./mangacruzers/.git/objects/e6
+92	./mangacruzers/.git/objects
+4	./mangacruzers/.git/branches
+232	./mangacruzers/.git
+260	./mangacruzers
+32	./OLD/user lists
+65476	./OLD
+68524	.
+8.0K	./manganelo/.git/logs/refs/heads
+8.0K	./manganelo/.git/logs/refs/remotes/origin
+12K	./manganelo/.git/logs/refs/remotes
+24K	./manganelo/.git/logs/refs
+32K	./manganelo/.git/logs
+8.0K	./manganelo/.git/info
+44K	./manganelo/.git/hooks
+4.0K	./manganelo/.git/refs/tags
+8.0K	./manganelo/.git/refs/heads
+8.0K	./manganelo/.git/refs/remotes/origin
+12K	./manganelo/.git/refs/remotes
+28K	./manganelo/.git/refs
+8.0K	./manganelo/.git/objects/fa
+4.0K	./manganelo/.git/objects/info
+8.0K	./manganelo/.git/objects/75
+8.0K	./manganelo/.git/objects/11
+8.0K	./manganelo/.git/objects/b0
+8.0K	./manganelo/.git/objects/9b
+4.0K	./manganelo/.git/objects/pack
+8.0K	./manganelo/.git/objects/23
+8.0K	./manganelo/.git/objects/f5
+8.0K	./manganelo/.git/objects/6a
+76K	./manganelo/.git/objects
+4.0K	./manganelo/.git/branches
+216K	./manganelo/.git
+236K	./manganelo
+8.0K	./Funmanga/.git/logs/refs/heads
+8.0K	./Funmanga/.git/logs/refs/remotes/origin
+12K	./Funmanga/.git/logs/refs/remotes
+24K	./Funmanga/.git/logs/refs
+32K	./Funmanga/.git/logs
+8.0K	./Funmanga/.git/info
+44K	./Funmanga/.git/hooks
+4.0K	./Funmanga/.git/refs/tags
+8.0K	./Funmanga/.git/refs/heads
+8.0K	./Funmanga/.git/refs/remotes/origin
+12K	./Funmanga/.git/refs/remotes
+28K	./Funmanga/.git/refs
+8.0K	./Funmanga/.git/objects/d8
+8.0K	./Funmanga/.git/objects/4b
+12K	./Funmanga/.git/objects/7d
+8.0K	./Funmanga/.git/objects/7b
+8.0K	./Funmanga/.git/objects/03
+8.0K	./Funmanga/.git/objects/fa
+8.0K	./Funmanga/.git/objects/26
+8.0K	./Funmanga/.git/objects/80
+12K	./Funmanga/.git/objects/d2
+8.0K	./Funmanga/.git/objects/51
+8.0K	./Funmanga/.git/objects/a7
+8.0K	./Funmanga/.git/objects/6b
+8.0K	./Funmanga/.git/objects/f0
+4.0K	./Funmanga/.git/objects/info
+8.0K	./Funmanga/.git/objects/75
+12K	./Funmanga/.git/objects/31
+8.0K	./Funmanga/.git/objects/ef
+8.0K	./Funmanga/.git/objects/c3
+8.0K	./Funmanga/.git/objects/4a
+8.0K	./Funmanga/.git/objects/f9
+12K	./Funmanga/.git/objects/95
+8.0K	./Funmanga/.git/objects/b6
+8.0K	./Funmanga/.git/objects/b0
+8.0K	./Funmanga/.git/objects/84
+8.0K	./Funmanga/.git/objects/e1
+8.0K	./Funmanga/.git/objects/01
+8.0K	./Funmanga/.git/objects/97
+8.0K	./Funmanga/.git/objects/37
+12K	./Funmanga/.git/objects/63
+4.0K	./Funmanga/.git/objects/pack
+8.0K	./Funmanga/.git/objects/e9
+44K	./Funmanga/.git/objects/e8
+8.0K	./Funmanga/.git/objects/96
+8.0K	./Funmanga/.git/objects/d9
+8.0K	./Funmanga/.git/objects/22
+8.0K	./Funmanga/.git/objects/b9
+8.0K	./Funmanga/.git/objects/35
+8.0K	./Funmanga/.git/objects/bf
+8.0K	./Funmanga/.git/objects/91
+8.0K	./Funmanga/.git/objects/65
+12K	./Funmanga/.git/objects/38
+8.0K	./Funmanga/.git/objects/f5
+8.0K	./Funmanga/.git/objects/9e
+8.0K	./Funmanga/.git/objects/32
+8.0K	./Funmanga/.git/objects/2d
+8.0K	./Funmanga/.git/objects/47
+12K	./Funmanga/.git/objects/58
+8.0K	./Funmanga/.git/objects/fe
+8.0K	./Funmanga/.git/objects/a0
+8.0K	./Funmanga/.git/objects/49
+8.0K	./Funmanga/.git/objects/f3
+8.0K	./Funmanga/.git/objects/69
+8.0K	./Funmanga/.git/objects/99
+8.0K	./Funmanga/.git/objects/14
+8.0K	./Funmanga/.git/objects/0e
+8.0K	./Funmanga/.git/objects/89
+8.0K	./Funmanga/.git/objects/29
+8.0K	./Funmanga/.git/objects/39
+8.0K	./Funmanga/.git/objects/6d
+8.0K	./Funmanga/.git/objects/0c
+540K	./Funmanga/.git/objects
+4.0K	./Funmanga/.git/branches
+680K	./Funmanga/.git
+828K	./Funmanga
+8.0K	./mangafreak/.git/logs/refs/heads
+8.0K	./mangafreak/.git/logs/refs/remotes/origin
+12K	./mangafreak/.git/logs/refs/remotes
+24K	./mangafreak/.git/logs/refs
+32K	./mangafreak/.git/logs
+8.0K	./mangafreak/.git/info
+44K	./mangafreak/.git/hooks
+4.0K	./mangafreak/.git/refs/tags
+8.0K	./mangafreak/.git/refs/heads
+8.0K	./mangafreak/.git/refs/remotes/origin
+12K	./mangafreak/.git/refs/remotes
+28K	./mangafreak/.git/refs
+8.0K	./mangafreak/.git/objects/3a
+8.0K	./mangafreak/.git/objects/80
+8.0K	./mangafreak/.git/objects/ed
+4.0K	./mangafreak/.git/objects/info
+8.0K	./mangafreak/.git/objects/75
+8.0K	./mangafreak/.git/objects/e3
+8.0K	./mangafreak/.git/objects/60
+12K	./mangafreak/.git/objects/e1
+4.0K	./mangafreak/.git/objects/pack
+44K	./mangafreak/.git/objects/e8
+8.0K	./mangafreak/.git/objects/07
+8.0K	./mangafreak/.git/objects/b4
+8.0K	./mangafreak/.git/objects/ab
+8.0K	./mangafreak/.git/objects/f3
+8.0K	./mangafreak/.git/objects/14
+8.0K	./mangafreak/.git/objects/af
+164K	./mangafreak/.git/objects
+4.0K	./mangafreak/.git/branches
+304K	./mangafreak/.git
+432K	./mangafreak
+8.0K	./twist.moe/Temp2/.git/logs/refs/heads
+8.0K	./twist.moe/Temp2/.git/logs/refs/remotes/origin
+12K	./twist.moe/Temp2/.git/logs/refs/remotes
+24K	./twist.moe/Temp2/.git/logs/refs
+32K	./twist.moe/Temp2/.git/logs
+8.0K	./twist.moe/Temp2/.git/info
+44K	./twist.moe/Temp2/.git/hooks
+4.0K	./twist.moe/Temp2/.git/refs/tags
+8.0K	./twist.moe/Temp2/.git/refs/heads
+8.0K	./twist.moe/Temp2/.git/refs/remotes/origin
+12K	./twist.moe/Temp2/.git/refs/remotes
+28K	./twist.moe/Temp2/.git/refs
+4.0K	./twist.moe/Temp2/.git/objects/info
+192K	./twist.moe/Temp2/.git/objects/pack
+200K	./twist.moe/Temp2/.git/objects
+4.0K	./twist.moe/Temp2/.git/branches
+340K	./twist.moe/Temp2/.git
+448K	./twist.moe/Temp2
+8.0K	./twist.moe/.git/logs/refs/heads
+8.0K	./twist.moe/.git/logs/refs/remotes/origin
+12K	./twist.moe/.git/logs/refs/remotes
+24K	./twist.moe/.git/logs/refs
+32K	./twist.moe/.git/logs
+8.0K	./twist.moe/.git/info
+44K	./twist.moe/.git/hooks
+4.0K	./twist.moe/.git/refs/tags
+8.0K	./twist.moe/.git/refs/heads
+8.0K	./twist.moe/.git/refs/remotes/origin
+12K	./twist.moe/.git/refs/remotes
+28K	./twist.moe/.git/refs
+8.0K	./twist.moe/.git/objects/90
+8.0K	./twist.moe/.git/objects/21
+8.0K	./twist.moe/.git/objects/98
+8.0K	./twist.moe/.git/objects/ac
+8.0K	./twist.moe/.git/objects/8c
+8.0K	./twist.moe/.git/objects/a5
+8.0K	./twist.moe/.git/objects/3a
+8.0K	./twist.moe/.git/objects/6f
+8.0K	./twist.moe/.git/objects/50
+8.0K	./twist.moe/.git/objects/67
+8.0K	./twist.moe/.git/objects/cb
+8.0K	./twist.moe/.git/objects/f4
+8.0K	./twist.moe/.git/objects/fc
+8.0K	./twist.moe/.git/objects/0f
+8.0K	./twist.moe/.git/objects/51
+8.0K	./twist.moe/.git/objects/15
+8.0K	./twist.moe/.git/objects/83
+4.0K	./twist.moe/.git/objects/info
+12K	./twist.moe/.git/objects/ef
+8.0K	./twist.moe/.git/objects/76
+8.0K	./twist.moe/.git/objects/c4
+8.0K	./twist.moe/.git/objects/77
+8.0K	./twist.moe/.git/objects/ea
+8.0K	./twist.moe/.git/objects/34
+8.0K	./twist.moe/.git/objects/84
+8.0K	./twist.moe/.git/objects/72
+8.0K	./twist.moe/.git/objects/01
+8.0K	./twist.moe/.git/objects/f1
+4.0K	./twist.moe/.git/objects/pack
+8.0K	./twist.moe/.git/objects/e9
+8.0K	./twist.moe/.git/objects/23
+8.0K	./twist.moe/.git/objects/19
+8.0K	./twist.moe/.git/objects/ae
+8.0K	./twist.moe/.git/objects/96
+8.0K	./twist.moe/.git/objects/07
+8.0K	./twist.moe/.git/objects/74
+8.0K	./twist.moe/.git/objects/38
+8.0K	./twist.moe/.git/objects/f5
+8.0K	./twist.moe/.git/objects/6a
+8.0K	./twist.moe/.git/objects/8e
+8.0K	./twist.moe/.git/objects/bc
+16K	./twist.moe/.git/objects/d5
+12K	./twist.moe/.git/objects/e4
+8.0K	./twist.moe/.git/objects/ab
+8.0K	./twist.moe/.git/objects/3c
+8.0K	./twist.moe/.git/objects/79
+8.0K	./twist.moe/.git/objects/49
+8.0K	./twist.moe/.git/objects/e0
+16K	./twist.moe/.git/objects/69
+8.0K	./twist.moe/.git/objects/7f
+8.0K	./twist.moe/.git/objects/2e
+8.0K	./twist.moe/.git/objects/36
+8.0K	./twist.moe/.git/objects/71
+8.0K	./twist.moe/.git/objects/89
+8.0K	./twist.moe/.git/objects/d0
+12K	./twist.moe/.git/objects/55
+8.0K	./twist.moe/.git/objects/29
+8.0K	./twist.moe/.git/objects/05
+8.0K	./twist.moe/.git/objects/39
+12K	./twist.moe/.git/objects/af
+8.0K	./twist.moe/.git/objects/db
+8.0K	./twist.moe/.git/objects/8f
+8.0K	./twist.moe/.git/objects/c0
+8.0K	./twist.moe/.git/objects/7a
+8.0K	./twist.moe/.git/objects/46
+8.0K	./twist.moe/.git/objects/cf
+556K	./twist.moe/.git/objects
+4.0K	./twist.moe/.git/branches
+696K	./twist.moe/.git
+1.2M	./twist.moe
+8.0K	./mangacruzers/.git/logs/refs/heads
+8.0K	./mangacruzers/.git/logs/refs/remotes/origin
+12K	./mangacruzers/.git/logs/refs/remotes
+24K	./mangacruzers/.git/logs/refs
+32K	./mangacruzers/.git/logs
+8.0K	./mangacruzers/.git/info
+44K	./mangacruzers/.git/hooks
+4.0K	./mangacruzers/.git/refs/tags
+8.0K	./mangacruzers/.git/refs/heads
+8.0K	./mangacruzers/.git/refs/remotes/origin
+12K	./mangacruzers/.git/refs/remotes
+28K	./mangacruzers/.git/refs
+4.0K	./mangacruzers/.git/objects/info
+4.0K	./mangacruzers/.git/objects/pack
+8.0K	./mangacruzers/.git/objects/96
+8.0K	./mangacruzers/.git/objects/92
+8.0K	./mangacruzers/.git/objects/dd
+8.0K	./mangacruzers/.git/objects/bd
+8.0K	./mangacruzers/.git/objects/ab
+8.0K	./mangacruzers/.git/objects/fe
+8.0K	./mangacruzers/.git/objects/be
+8.0K	./mangacruzers/.git/objects/00
+8.0K	./mangacruzers/.git/objects/c2
+8.0K	./mangacruzers/.git/objects/e6
+92K	./mangacruzers/.git/objects
+4.0K	./mangacruzers/.git/branches
+232K	./mangacruzers/.git
+260K	./mangacruzers
+32K	./OLD/user lists
+64M	./OLD
+67M	.
+Funmanga
+mangacruzers
+mangafreak
+manganelo
+OLD
+twist.moe
 #Git sucessful
