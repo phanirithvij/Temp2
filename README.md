@@ -5,8 +5,6 @@ cd Downloads
 cd Kissa*
 cd Kiss*
 ls -lh
-#do it again
-#SIZE
+df -h
 du
 du -h
-ls
