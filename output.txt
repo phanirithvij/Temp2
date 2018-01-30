@@ -1,10 +1,10 @@
 #start
 
-total 369M
+total 394M
 -rw-r--r--. 1 phani.rithvij 201783 8.4M Jan 26 20:17 01 - Just Awake.mp3
 -rwxrwxrwx. 1 phani.rithvij 201783  456 Jan  5 19:04 Downloader.sh
 -rw-r--r--. 1 phani.rithvij 201783 235M Jan 30 17:50 Gintama_Season_4_(Sub)_Episode_266.mp4
--rw-r--r--. 1 phani.rithvij 201783  64M Jan 30 17:52 Gintama_Season_4_(Sub)_Episode_267.mp4
+-rw-r--r--. 1 phani.rithvij 201783  88M Jan 30 17:53 Gintama_Season_4_(Sub)_Episode_267.mp4
 -rw-r--r--. 1 phani.rithvij 201783  52M Jan 26 16:35 [joseole99][Tormaid] Angel Beats! - 01 (1280x720 h264 AC3 AC3) [F8774E1B]_00.mp4
 -rw-r--r--. 1 phani.rithvij 201783 6.7K Jan 30 17:43 list.txt
 -rwxrwxrwx. 1 phani.rithvij 201783   95 Jan 30 17:42 ll.sh
