@@ -4,3 +4,4 @@ cd Kissa*
 cd Kiss*
 ls -lh
 df -h
+#chance
