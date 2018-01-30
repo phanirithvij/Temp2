@@ -1,4 +1,5 @@
-cd 
+cd .
+cd
 cd Downloads
 cd Kissa*
 cd Kiss*
