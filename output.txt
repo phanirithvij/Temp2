@@ -1,13 +1,8 @@
 #start
 
-total 36K
-drwxr-xr-x. 3 phani.rithvij 201783 4.0K Jan 31 19:07 Desktop
-drwxr-xr-x. 2 phani.rithvij 201783 4.0K Nov 30 14:34 Documents
-drwxr-xr-x. 6 phani.rithvij 201783 4.0K Jan 31 19:15 Downloads
-drwxr-xr-x. 2 phani.rithvij 201783 4.0K Nov 30 14:34 Music
-drwxr-xr-x. 2 phani.rithvij 201783 4.0K Nov 30 14:34 Pictures
-drwxr-xr-x. 2 phani.rithvij 201783 4.0K Nov 30 14:34 Public
-drwxr-xr-x. 3 phani.rithvij 201783 4.0K Jan 31 19:14 startsetup
-drwxr-xr-x. 2 phani.rithvij 201783 4.0K Nov 30 14:34 Templates
-drwxr-xr-x. 2 phani.rithvij 201783 4.0K Nov 30 14:34 Videos
+total 16K
+drwxr-xr-x. 3 phani.rithvij 201783 4.0K Jan 31 19:14 Funmanga
+drwxr-xr-x. 3 phani.rithvij 201783 4.0K Jan 31 19:14 mangacruzers
+drwxr-xr-x. 3 phani.rithvij 201783 4.0K Jan 31 19:14 manganelo
+drwxr-xr-x. 4 phani.rithvij 201783 4.0K Jan 31 19:14 twist.moe
 #Git sucessful
