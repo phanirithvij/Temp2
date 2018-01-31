@@ -7,11 +7,11 @@ drwxr-xr-x. 3 phani.rithvij 201783 4.0K Jan 31 19:14 manganelo
 drwxr-xr-x. 4 phani.rithvij 201783 4.0K Jan 31 19:14 twist.moe
 Filesystem      Size  Used Avail Use% Mounted on
 devtmpfs        869M     0  869M   0% /dev
-tmpfs           879M   91M  788M  11% /dev/shm
-tmpfs           879M  1.8M  877M   1% /run
+tmpfs           879M  6.7M  873M   1% /dev/shm
+tmpfs           879M  1.7M  877M   1% /run
 tmpfs           879M     0  879M   0% /sys/fs/cgroup
 /dev/sda5       363G   12G  333G   4% /
-tmpfs           879M  352K  879M   1% /tmp
+tmpfs           879M  364K  879M   1% /tmp
 /dev/sda1       477M  139M  309M  32% /boot
 /dev/sda2        92G  4.6G   83G   6% /home
 tmpfs           176M   16K  176M   1% /run/user/42
