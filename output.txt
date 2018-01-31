@@ -1,20 +1,13 @@
 #start
 
-total 16K
-drwxr-xr-x. 3 phani.rithvij 201783 4.0K Jan 31 19:14 Funmanga
-drwxr-xr-x. 3 phani.rithvij 201783 4.0K Jan 31 19:14 mangacruzers
-drwxr-xr-x. 3 phani.rithvij 201783 4.0K Jan 31 19:14 manganelo
-drwxr-xr-x. 4 phani.rithvij 201783 4.0K Jan 31 19:14 twist.moe
-Filesystem      Size  Used Avail Use% Mounted on
-devtmpfs        869M     0  869M   0% /dev
-tmpfs           879M  6.7M  873M   1% /dev/shm
-tmpfs           879M  1.7M  877M   1% /run
-tmpfs           879M     0  879M   0% /sys/fs/cgroup
-/dev/sda5       363G   12G  333G   4% /
-tmpfs           879M  364K  879M   1% /tmp
-/dev/sda1       477M  139M  309M  32% /boot
-/dev/sda2        92G  4.6G   83G   6% /home
-tmpfs           176M   16K  176M   1% /run/user/42
-tmpfs           176M  4.6M  172M   3% /run/user/1000
-tmpfs           176M  4.6M  172M   3% /run/user/20171158
+total 36K
+drwxr-xr-x. 3 phani.rithvij 201783 4.0K Jan 31 19:07 Desktop
+drwxr-xr-x. 2 phani.rithvij 201783 4.0K Nov 30 14:34 Documents
+drwxr-xr-x. 6 phani.rithvij 201783 4.0K Jan 31 19:15 Downloads
+drwxr-xr-x. 2 phani.rithvij 201783 4.0K Nov 30 14:34 Music
+drwxr-xr-x. 2 phani.rithvij 201783 4.0K Nov 30 14:34 Pictures
+drwxr-xr-x. 2 phani.rithvij 201783 4.0K Nov 30 14:34 Public
+drwxr-xr-x. 3 phani.rithvij 201783 4.0K Jan 31 19:14 startsetup
+drwxr-xr-x. 2 phani.rithvij 201783 4.0K Nov 30 14:34 Templates
+drwxr-xr-x. 2 phani.rithvij 201783 4.0K Nov 30 14:34 Videos
 #Git sucessful
