@@ -1,4 +1,4 @@
 #EDit
-cd
+cd ~/Download*
 ls -lh
 #edit
