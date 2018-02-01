@@ -1,151 +1,27 @@
 #start
 
-/ug/ug2k17/cse/phani.rithvij
-├── Desktop
-│   └── Old\ Firefox\ Data
-│       └── hgwf950o.default
-│           ├── addons.json
-│           ├── AlternateServices.txt
-│           ├── blocklist.xml
-│           ├── bookmarkbackups
-│           │   └── bookmarks-2017-11-30_28_gtbGgwtS5nFK3-OwxsrZsA==.jsonlz4
-│           ├── cert8.db
-│           ├── compatibility.ini
-│           ├── containers.json
-│           ├── content-prefs.sqlite
-│           ├── cookies.sqlite
-│           ├── crashes
-│           │   ├── events
-│           │   └── store.json.mozlz4
-│           ├── datareporting
-│           │   ├── archived
-│           │   │   └── 2018-01
-│           │   │       └── 1517405867787.6ec97506-7e15-42d5-b87e-2b668a709cd5.main.jsonlz4
-│           │   ├── session-state.json
-│           │   └── state.json
-│           ├── extensions.ini
-│           ├── extensions.json
-│           ├── formhistory.sqlite
-│           ├── gmp
-│           │   └── Linux_x86_64-gcc3
-│           ├── key3.db
-│           ├── kinto.sqlite
-│           ├── logins.json
-│           ├── mimeTypes.rdf
-│           ├── minidumps
-│           ├── permissions.sqlite
-│           ├── places.sqlite
-│           ├── places.sqlite-shm
-│           ├── places.sqlite-wal
-│           ├── pluginreg.dat
-│           ├── prefs.js
-│           ├── revocations.txt
-│           ├── saved-telemetry-pings
-│           │   ├── 0ac0019a-da13-4824-af84-9d07e2907bda
-│           │   ├── 12714f51-9359-403c-b078-4188caa0d12f
-│           │   └── 6ec97506-7e15-42d5-b87e-2b668a709cd5
-│           ├── search.json.mozlz4
-│           ├── secmod.db
-│           ├── SecurityPreloadState.txt
-│           ├── serviceworker.txt
-│           ├── sessionCheckpoints.json
-│           ├── sessionstore-backups
-│           │   ├── previous.js
-│           │   ├── recovery.bak
-│           │   ├── recovery.js
-│           │   └── upgrade.js-20170613080547
-│           ├── sessionstore.js
-│           ├── SiteSecurityServiceState.txt
-│           ├── storage
-│           │   ├── default
-│           │   │   ├── https+++openload.co
-│           │   │   │   ├── cache
-│           │   │   │   │   ├── caches.sqlite
-│           │   │   │   │   └── morgue
-│           │   │   │   │       └── 252
-│           │   │   │   │           └── {71b4aaed-e6d9-42f6-a8f2-580b6f4047fc}.final
-│           │   │   │   └── idb
-│           │   │   │       ├── 301792106ttes.files
-│           │   │   │       └── 301792106ttes.sqlite
-│           │   │   ├── https+++plus.google.com
-│           │   │   │   └── cache
-│           │   │   │       ├── caches.sqlite
-│           │   │   │       └── morgue
-│           │   │   │           ├── 216
-│           │   │   │           │   └── {dab9191f-6c9a-4c04-9376-1f19f33c80d8}.final
-│           │   │   │           └── 8
-│           │   │   │               └── {08be4472-9e68-429b-802c-a9f9de2b7608}.final
-│           │   │   └── https+++www.youtube.com
-│           │   │       ├── cache
-│           │   │       │   ├── caches.sqlite
-│           │   │       │   └── morgue
-│           │   │       │       └── 217
-│           │   │       │           └── {efa36459-8d29-48d8-9d04-935c6fe92bd9}.final
-│           │   │       └── idb
-│           │   │           ├── 3211250388sbwdpsunsohintoatciif.files
-│           │   │           └── 3211250388sbwdpsunsohintoatciif.sqlite
-│           │   ├── permanent
-│           │   │   └── chrome
-│           │   │       └── idb
-│           │   │           ├── 2918063365piupsah.files
-│           │   │           └── 2918063365piupsah.sqlite
-│           │   └── temporary
-│           ├── storage.sqlite
-│           ├── times.json
-│           ├── webappsstore.sqlite
-│           └── xulstore.json
-├── Documents
-├── Downloads
-│   ├── Funmanga
-│   │   ├── 1Procstart.sh
-│   │   ├── chapters.txt
-│   │   ├── content.txt
-│   │   ├── examples.txt
-│   │   ├── important.txt
-│   │   ├── indvtest.sh
-│   │   ├── jquery-1.12.4.min.js
-│   │   ├── linkget.sh
-│   │   ├── README.md
-│   │   ├── script.txt
-│   │   ├── style.txt
-│   │   ├── testforall.sh
-│   │   └── wget.sh
-│   ├── mangacruzers
-│   │   ├── chapters.sh
-│   │   ├── conv.sh
-│   │   ├── README.md
-│   │   ├── start.sh
-│   │   ├── typeconv.sh
-│   │   └── wget.sh
-│   ├── manganelo
-│   │   ├── adblock.js
-│   │   ├── cp.sh
-│   │   ├── get.sh
-│   │   ├── imgget.sh
-│   │   └── README.md
-│   └── twist.moe
-│       ├── animelist.txt
-│       ├── download.sh
-│       ├── list.sh
-│       ├── README.md
-│       ├── startp.sh
-│       └── Temp2
-│           ├── ex2.sh
-│           ├── ex.sh
-│           ├── f.sh
-│           ├── gitauto.sh
-│           ├── output.txt
-│           ├── procstart.sh
-│           ├── Rhtnew.md
-│           └── Rhtold.md
-├── Music
-├── Pictures
-├── Public
-├── startsetup
-│   ├── README.md
-│   └── start.sh
-├── Templates
-└── Videos
-
-51 directories, 94 files
+total 4.0G
+-rwxrwxrwx. 1 phani.rithvij 201783  640 Feb  1 10:03 Downloader.sh
+-rw-r--r--. 1 phani.rithvij 201783  18K Feb  1 10:03 KissAnime Multi Downloader.user.js
+-rw-r--r--. 1 phani.rithvij 201783 6.5K Feb  1 11:17 list.txt
+-rwxrwxrwx. 1 phani.rithvij 201783   70 Feb  1 10:56 ll.sh
+-rw-r--r--. 1 phani.rithvij 201783 220M Feb  1 11:24 Soul_Eater_(Sub)_Episode_001.mp4
+-rw-r--r--. 1 phani.rithvij 201783 225M Feb  1 11:31 Soul_Eater_(Sub)_Episode_002.mp4
+-rw-r--r--. 1 phani.rithvij 201783 220M Feb  1 11:38 Soul_Eater_(Sub)_Episode_003.mp4
+-rw-r--r--. 1 phani.rithvij 201783 231M Feb  1 11:46 Soul_Eater_(Sub)_Episode_004.mp4
+-rw-r--r--. 1 phani.rithvij 201783 232M Feb  1 11:53 Soul_Eater_(Sub)_Episode_005.mp4
+-rw-r--r--. 1 phani.rithvij 201783 234M Feb  1 12:01 Soul_Eater_(Sub)_Episode_006.mp4
+-rw-r--r--. 1 phani.rithvij 201783 220M Feb  1 12:08 Soul_Eater_(Sub)_Episode_007.mp4
+-rw-r--r--. 1 phani.rithvij 201783 219M Feb  1 12:15 Soul_Eater_(Sub)_Episode_008.mp4
+-rw-r--r--. 1 phani.rithvij 201783 228M Feb  1 12:22 Soul_Eater_(Sub)_Episode_009.mp4
+-rw-r--r--. 1 phani.rithvij 201783 233M Feb  1 12:30 Soul_Eater_(Sub)_Episode_010.mp4
+-rw-r--r--. 1 phani.rithvij 201783 220M Feb  1 12:37 Soul_Eater_(Sub)_Episode_011.mp4
+-rw-r--r--. 1 phani.rithvij 201783 225M Feb  1 12:44 Soul_Eater_(Sub)_Episode_012.mp4
+-rw-r--r--. 1 phani.rithvij 201783 224M Feb  1 12:51 Soul_Eater_(Sub)_Episode_013.mp4
+-rw-r--r--. 1 phani.rithvij 201783 217M Feb  1 12:58 Soul_Eater_(Sub)_Episode_014.mp4
+-rw-r--r--. 1 phani.rithvij 201783 226M Feb  1 13:06 Soul_Eater_(Sub)_Episode_015.mp4
+-rw-r--r--. 1 phani.rithvij 201783 212M Feb  1 13:13 Soul_Eater_(Sub)_Episode_016.mp4
+-rw-r--r--. 1 phani.rithvij 201783 214M Feb  1 13:19 Soul_Eater_(Sub)_Episode_017.mp4
+-rw-r--r--. 1 phani.rithvij 201783 225M Feb  1 13:27 Soul_Eater_(Sub)_Episode_018.mp4
+-rw-r--r--. 1 phani.rithvij 201783  19M Feb  1 13:28 Soul_Eater_(Sub)_Episode_019.mp4
 #Git sucessful
