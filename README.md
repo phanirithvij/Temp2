@@ -1,3 +1,1 @@
-#clear
-echo " "
-#Do iy
+ls
