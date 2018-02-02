@@ -1,6 +1,5 @@
-#Changeda
+#You know the we
 cd 
 cd Downloads
-cd Kissa*
 ls -lh
-du -h
+du -sh
