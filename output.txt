@@ -6,7 +6,6 @@ f.sh
 gitauto.sh
 output.txt
 procstart.sh
-README.md
 Rhtnew.md
 Rhtold.md
 #Git sucessful
