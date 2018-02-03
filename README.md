@@ -1,2 +1,3 @@
 cd
-cat styles.css
+ls -l
+ls
