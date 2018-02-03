@@ -1,3 +1,36 @@
 #start
 
+total 236
+-rw-r--r--.  1 phani.rithvij 201783   5237 Feb  4 00:12 blank.html
+-rw-r--r--.  1 phani.rithvij 201783   3224 Feb  2 19:29 custom-video.js
+drwxr-xr-x.  3 phani.rithvij 201783   4096 Feb  3 23:45 Desktop
+drwxr-xr-x.  3 phani.rithvij 201783   4096 Feb  1 10:54 Documents
+drwxr-xr-x. 11 phani.rithvij 201783   4096 Feb  3 23:46 Downloads
+-rw-r--r--.  1 phani.rithvij 201783 152126 Feb  3 23:19 img002.cur
+-rw-r--r--.  1 phani.rithvij 201783   9278 Feb  2 18:42 index.html
+drwxr-xr-x.  2 phani.rithvij 201783   4096 Nov 30 14:34 Music
+drwxr-xr-x.  2 phani.rithvij 201783   4096 Feb  2 20:59 Pictures
+drwxr-xr-x.  2 phani.rithvij 201783   4096 Nov 30 14:34 Public
+drwxr-xr-x.  5 phani.rithvij 201783   4096 Feb  3 22:01 rotating-heads
+drwxr-xr-x.  3 phani.rithvij 201783   4096 Feb  1 10:16 startsetup
+-rw-r--r--.  1 phani.rithvij 201783   5042 Feb  4 00:09 styles.css
+drwxr-xr-x.  2 phani.rithvij 201783   4096 Nov 30 14:34 Templates
+-rw-r--r--.  1 phani.rithvij 201783   4413 Feb  3 23:45 video-resize.min.js
+drwxr-xr-x.  2 phani.rithvij 201783   4096 Nov 30 14:34 Videos
+blank.html
+custom-video.js
+Desktop
+Documents
+Downloads
+img002.cur
+index.html
+Music
+Pictures
+Public
+rotating-heads
+startsetup
+styles.css
+Templates
+video-resize.min.js
+Videos
 #Git sucessful
