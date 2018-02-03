@@ -1,3 +1,3 @@
 cd
-ls -l
-ls
+cat styles.css
+cat custom-video.js
