@@ -1,2 +1,3 @@
-cd 
-cat blank.html
+#Hmm
+cd
+cat style.css
