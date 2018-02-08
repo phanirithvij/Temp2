@@ -1,11 +1,11 @@
 #start
 
-html {
+/*html {
     box-sizing: border-box;
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
 }
-
+*/
 *, *:before, *:after {
     box-sizing: inherit;
 }
@@ -22,7 +22,7 @@ body {
 }
 
 .player {
-    max-width: 1100px;
+    resize: both;
     border: 5px solid rgba(0, 0, 0, 0.2);
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
     position: relative;
@@ -30,6 +30,9 @@ body {
     overflow: hidden;
 }
 
+#pla{
+    resize: both;
+}
 .player__video {
     width: 100%;
 }
@@ -96,6 +99,7 @@ body {
     flex: 0;
     flex-basis: 50%;
 }
+/*my code fromt his point*/
 
 /* unholy css to style input type="range" */
 
@@ -268,7 +272,7 @@ const toggle = player.querySelector('.toggle');
 const ranges = player.querySelectorAll('.player__slider');
 const skipButtons = player.querySelectorAll('[data-skip]');
 const fullScreenButton = player.querySelector('.full__screen');
-
+const controls = player.querySelector('.player__controls');
 /* Build our functions */
 
 function togglePlay() {
@@ -287,7 +291,14 @@ function updateButton() {
     console.log(icon);
     toggle.textContent = icon;
 }
-
+function showControls(){
+    if (controls.style.display === "none") {
+        controls.style.display = "block";
+    } else {
+        controls.style.display = "none";
+    }
+    //controls.style.display = "block";
+}
 function skip() {
     // parseFloat because a string and we want to convert to a true number
     video.currentTime += parseFloat(this.dataset.skip);
@@ -312,18 +323,30 @@ function scrub(e) {
 
 // toggle between full-screen and normal-screen mode
 function toggleFullScreen() {
-
+  if (!document.fullscreenElement &&    // alternative standard method
+      !document.mozFullScreenElement && !document.webkitFullscreenElement && !document.msFullscreenElement ) { 
     if (video.requestFullscreen) {
-        video.requestFullscreen();
-    } else if (video.webkitRequestFullScreen) {
-        video.webkitRequestFullScreen();
-    } else if (player.mozRequestFullScreen) {
-        player.mozRequestFullScreen();
+      video.requestFullscreen();
     } else if (video.msRequestFullscreen) {
-        video.msRequestFullscreen();
+      video.msRequestFullscreen();
+    } else if (video.mozRequestFullScreen) {
+      video.mozRequestFullScreen();
+    } else if (video.webkitRequestFullscreen) {
+      video.webkitRequestFullscreen(Element.ALLOW_KEYBOARD_INPUT);
     }
+  } else {
+        
+    if (document.exitFullscreen) {
+      document.exitFullscreen();
+    } else if (document.msExitFullscreen) {
+      document.msExitFullscreen();
+    } else if (document.mozCancelFullScreen) {
+      document.mozCancelFullScreen();
+    } else if (document.webkitExitFullscreen) {
+      document.webkitExitFullscreen();
+    }
+  }
 }
-
 /* Hook up the event listeners */
 
 video.addEventListener('click', togglePlay);
@@ -345,7 +368,12 @@ progress.addEventListener('click', scrub);
 progress.addEventListener('mousemove', (e) => mousedown && scrub(e));
 progress.addEventListener('mousedown', () => mousedown = true);
 progress.addEventListener('mouseup', () => mousedown = false);
-
+//video.addEventListener('mousemove',() => showControls);
 fullScreenButton.addEventListener('click', toggleFullScreen);
 
-#Git sucessful
+
+
+// onmouseover="toggleRange();"onmouseout="toggleRange();"
+
+
+ #Git sucessful
