@@ -1,3 +1,4 @@
-cd
-cat styles.css
-cat custom-video.js
+ls
+cd 
+cd Downloads/lib*
+ls
