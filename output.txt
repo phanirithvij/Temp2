@@ -1,379 +1,216 @@
 #start
 
-/*html {
-    box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    -webkit-box-sizing: border-box;
-}
-*/
-*, *:before, *:after {
-    box-sizing: inherit;
-}
-
-body {
-    padding: 0;
-    display: flex;
-    background: #41829b;
-    min-height: 100vh;
-    background: linear-gradient(135def, #7c1599 0%, #921099 48%, #7e4ae8 100%);
-    background-size: cover;
-    align-items: center;
-    justify-content: center;
-}
-
-.player {
-    resize: both;
-    border: 5px solid rgba(0, 0, 0, 0.2);
-    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
-    position: relative;
-    font-size: 0;
-    overflow: hidden;
-}
-
-#pla{
-    resize: both;
-}
-.player__video {
-    width: 100%;
-}
-
-.player__button {
-    background: none;
-    border: 0;
-    line-height: 1;
-    color: white;
-    text-align: center;
-    outline: 0;
-    padding: 0;
-    cursor: pointer;
-    max-width: 50px;
-}
-
-.player__button:focus {
-    border-color: #f7e81f;
-}
-
-.player__slider {
-    width: 10px;
-    height: 10px;
-}
-
-.player__controls {
-    display: flex;
-    position: absolute;
-    bottom: 0;
-    width: 100%;
-    transform: translateY(100%) translateY(-5px);
-    transition: all 0.3s;
-    flex-wrap: wrap;
-    background: rgba(0, 0, 0, 0.1);
-    z-index: 2147483648;
-    left: 0;
-}
-
-.player:hover .player__controls {
-    transform: translateY(0);
-}
-
-.player:focus .progress {
-    height: 5px;
-}
-
-.player__controls > * {
-    flex: 1;
-}
-
-.progress {
-    flex: 10;
-    position: relative;
-    display: flex;
-    flex-basis: 100%;
-    height: 7px;
-    transition: height 0.3s;
-    background: rgba(0, 0, 0, 0.5);
-}
-
-.progress__filled {
-    width: 50%;
-    background: #f945014a;
-    flex: 0;
-    flex-basis: 50%;
-}
-/*my code fromt his point*/
-
-/* unholy css to style input type="range" */
-
-input[type=range] {
-    -webkit-appearance: none;
-    background: transparent;
-    width: 100%;
-    margin: 12px 3px;
-}
-
-input[type=range]:focus {
-    outline: none;
-}
-
-input[type=range]::-webkit-slider-runnable-track {
-    width: 100%;
-    height: 5px;
-    cursor: pointer;
-    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0), 0px 0px 1px rgba(13, 13, 13, 0);
-    background: rgba(255, 255, 255, 0.8);
-    border-radius: 1.3px;
-    border: 0.2px solid rgba(1, 1, 1, 0);
-}
-
-input[type=range]::-webkit-slider-thumb {
-    box-shadow: 0 0 0 rgba(0, 0, 0, 0), 0 0 0 rgba(13, 13, 13, 0);
-    height: 1em;
-    width: 1em;
-    border-radius: 30px;
-    background: #01aef1;
-    cursor: pointer;
-    -webkit-appearance: none;
-    margin-top: -4px;
-    box-shadow: 0 0 2px rgba(0, 0, 0, 0.2);
-
-}
-
-input[type=range]:focus::-webkit-slider-runnable-track {
-    background: #00d9fb61;
-}
-
-input[type=range]::-moz-range-track {
-    width: 100%;
-    height: 3px;
-    cursor: pointer;
-    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0), 0px 0px 1px rgba(13, 13, 13, 0);
-    background: #fff;
-    border-radius: 1.3px;
-    border: 0.2px solid rgba(1, 1, 1, 0);
-}
-
-input[type=range]::-moz-range-thumb {
-    box-shadow: 0px 0px 0px rgba(0, 0, 0, 0), 0px 0px 0px rgba(13, 13, 13, 0);
-    height: 1.75em;
-    width: 1.75em;
-    border: 0;
-    border-radius: 50px;
-    background: #f35900;
-    cursor: pointer;
-}
-/* full screen button styling */
-.full__screen {
-    margin-right: 7px;
-    background: none;
-    border: 1px solid white;
-    border: 0;
-    line-height: 1;
-    color: white;
-    text-align: center;
-    outline: 0;
-    padding: 0 0 5px 0;
-    cursor: pointer;
-    max-width: 30px;
-    font-size: 1.3rem;
-}
-
-/* Because video needed a defined hieght in order for object-fit: fill to work. */
-
-video {
-    height: 100%;
-    object-fit: fill;
-}
-
-/* hide the default Chrome video player styling */
-
-video::-webkit-media-controls-overlay-enclosure {
-    display:none !important;
-}
-
-video::-webkit-media-controls-enclosure {
-    display:none !important;
-}
-
-video::-webkit-media-controls {
-    display:none !important;
-}
-
-/*  Needed to hide player controls in Safari Only */
-
-video::-webkit-media-controls-panel {
-    display:none !important;
-}
-
-video::-webkit-media-controls-play-button {
-    display: none !important;
-}
-
-video::-webkit-media-controls-current-time-display {
-    display: none !important;
-}
-
-video::-webkit-media-controls-time-remaining-display {
-    display: none !important;
-}
-
-video::-webkit-media-controls-timeline {
-    display: none !important;
-}
-
-video::-webkit-media-controls-mute-button {
-    display: none !important;
-}
-
-video::-webkit-media-controls-volume-slider {
-    display: none !important;
-}
-
-video::-webkit-media-controls-fullscreen-button {
-    display: none !important;
-}
-
-video::-internal-media-controls-download-button {
-    display: none !important;
-}
-
-/* Firefox Shadow DOM Fix */
-
-*::-moz-list-bullet, *::-moz-list-number {
-    display:none !important;
-}
-
-*::-moz-meter-bar {
-    display:none !important;
-}
-
-:-moz-full-screen:not(:root)::backdrop {
-    display:none !important;
-}
-
-*::backdrop {
-    display:none !important;
-}
-
-:fullscreen:not(:root) {
-    display:none !important;
-}
-
-/* New addition to removal of User Agent StyleSheet for Firefox. Removed dotted border around range. */
-input[type="range"]::-moz-focus-outer {
-    border: 0;
-}
-
-/* Get our eelements */
-const player = document.querySelector('.player');
-const video = player.querySelector('.viewer');
-const progress = player.querySelector('.progress')
-const progressBar = player.querySelector('.progress__filled');
-
-const toggle = player.querySelector('.toggle');
-const ranges = player.querySelectorAll('.player__slider');
-const skipButtons = player.querySelectorAll('[data-skip]');
-const fullScreenButton = player.querySelector('.full__screen');
-const controls = player.querySelector('.player__controls');
-/* Build our functions */
-
-function togglePlay() {
-    // .paused is prop that lives on video. There is no playing prop
-    const playMethod = video.paused
-        ? 'play'
-        : 'pause';
-    video[playMethod]();
-}
-
-function updateButton() {
-    // this is bound to video itself
-    const icon = this.paused
-        ? '►'
-        : '▋▋';
-    console.log(icon);
-    toggle.textContent = icon;
-}
-function showControls(){
-    if (controls.style.display === "none") {
-        controls.style.display = "block";
-    } else {
-        controls.style.display = "none";
-    }
-    //controls.style.display = "block";
-}
-function skip() {
-    // parseFloat because a string and we want to convert to a true number
-    video.currentTime += parseFloat(this.dataset.skip);
-}
-
-function handleRangeUpdate() {
-    /* refers to volume and playbackRate properties that we need to update. Equal to this.value because that's the value that is already being piped in. */
-    video[this.name] = this.value;
-}
-
-function handleProgress() {
-    const percentage = (video.currentTime / video.duration) * 100;
-    progressBar.style.flexBasis = `${percentage}%`;
-}
-
-function scrub(e) {
-    /* progress is where the width of bar is stored and offsetWidth represents the total width of the progress Bar. e.offsetX is the difference between where user clicked to move the progress bar to and the left edge of the horizontal bar. */
-    const scrubTime = (e.offsetX / progress.offsetWidth) * video.duration;
-    // update video
-    video.currentTime = scrubTime;
-}
-
-// toggle between full-screen and normal-screen mode
-function toggleFullScreen() {
-  if (!document.fullscreenElement &&    // alternative standard method
-      !document.mozFullScreenElement && !document.webkitFullscreenElement && !document.msFullscreenElement ) { 
-    if (video.requestFullscreen) {
-      video.requestFullscreen();
-    } else if (video.msRequestFullscreen) {
-      video.msRequestFullscreen();
-    } else if (video.mozRequestFullScreen) {
-      video.mozRequestFullScreen();
-    } else if (video.webkitRequestFullscreen) {
-      video.webkitRequestFullscreen(Element.ALLOW_KEYBOARD_INPUT);
-    }
-  } else {
-        
-    if (document.exitFullscreen) {
-      document.exitFullscreen();
-    } else if (document.msExitFullscreen) {
-      document.msExitFullscreen();
-    } else if (document.mozCancelFullScreen) {
-      document.mozCancelFullScreen();
-    } else if (document.webkitExitFullscreen) {
-      document.webkitExitFullscreen();
-    }
-  }
-}
-/* Hook up the event listeners */
-
-video.addEventListener('click', togglePlay);
-
-// when this runs, make a function called updateButton()
-video.addEventListener('play', updateButton);
-video.addEventListener('pause', updateButton);
-// can also use progress event as well.
-video.addEventListener('timeupdate', handleProgress);
-
-toggle.addEventListener('click', togglePlay);
-skipButtons.forEach(button => button.addEventListener('click', skip));
-
-ranges.forEach(range => range.addEventListener('input', handleRangeUpdate));
-
-let mousedown = false;
-progress.addEventListener('click', scrub);
-/* callback first checks if mousedown is true and then if it is, it moves onto scrub(e). If mousedown is false, mousedown returns false, and nothing happens. */
-progress.addEventListener('mousemove', (e) => mousedown && scrub(e));
-progress.addEventListener('mousedown', () => mousedown = true);
-progress.addEventListener('mouseup', () => mousedown = false);
-//video.addEventListener('mousemove',() => showControls);
-fullScreenButton.addEventListener('click', toggleFullScreen);
-
-
-
-// onmouseover="toggleRange();"onmouseout="toggleRange();"
-
-
- #Git sucessful
+ex2.sh
+ex.sh
+f.sh
+gitauto.sh
+output.txt
+procstart.sh
+Rhtnew.md
+Rhtold.md
+arch.mak
+avconv
+avconv.c
+avconv.d
+avconv_dxva2.c
+avconv_filter.c
+avconv_filter.d
+avconv_filter.o
+avconv.h
+avconv.o
+avconv_opt.c
+avconv_opt.d
+avconv_opt.o
+avconv_qsv.c
+avconv_vaapi.c
+avconv_vda.c
+avconv_vdpau.c
+avplay.c
+avprobe
+avprobe.c
+avprobe.d
+avprobe.o
+avversion.h
+Changelog
+cmdutils.c
+cmdutils_common_opts.h
+cmdutils.d
+cmdutils.h
+cmdutils.o
+common.mak
+compat
+config.fate
+config.h
+config.log
+config.mak
+configure
+COPYING.GPLv2
+COPYING.GPLv3
+COPYING.LGPLv2.1
+COPYING.LGPLv3
+CREDITS
+doc
+imgs
+INSTALL
+libavcodec
+libavdevice
+libavfilter
+libavformat
+libavresample
+libavutil
+library.mak
+libswscale
+LICENSE
+Makefile
+mon001.jpg
+mon002.jpg
+mon003.jpg
+mon004.jpg
+mon005.jpg
+mon006.jpg
+mon007.jpg
+mon008.jpg
+mon009.jpg
+mon010.jpg
+mon011.jpg
+mon012.jpg
+mon013.jpg
+mon014.jpg
+mon015.jpg
+mon016.jpg
+mon017.jpg
+mon018.jpg
+mon019.jpg
+mon020.jpg
+mon021.jpg
+mon022.jpg
+mon023.jpg
+mon024.jpg
+mon025.jpg
+mon026.jpg
+mon027.jpg
+mon028.jpg
+mon029.jpg
+mon030.jpg
+mon031.jpg
+mon032.jpg
+mon033.jpg
+mon034.jpg
+mon035.jpg
+mon036.jpg
+mon037.jpg
+mon038.jpg
+mon039.jpg
+mon040.jpg
+mon041.jpg
+mon042.jpg
+mon043.jpg
+mon044.jpg
+mon045.jpg
+mon046.jpg
+mon047.jpg
+mon048.jpg
+mon049.jpg
+mon050.jpg
+mon051.jpg
+mon052.jpg
+mon053.jpg
+mon054.jpg
+mon055.jpg
+mon056.jpg
+mon057.jpg
+mon058.jpg
+mon059.jpg
+mon060.jpg
+mon061.jpg
+mon062.jpg
+mon063.jpg
+mon064.jpg
+mon065.jpg
+mon066.jpg
+mon067.jpg
+mon068.jpg
+mon069.jpg
+mon070.jpg
+mon071.jpg
+mon072.jpg
+mon073.jpg
+mon074.jpg
+mon075.jpg
+mon076.jpg
+mon077.jpg
+mon078.jpg
+mon079.jpg
+mon080.jpg
+mon081.jpg
+mon082.jpg
+mon083.jpg
+mon084.jpg
+mon085.jpg
+mon086.jpg
+mon087.jpg
+mon088.jpg
+mon089.jpg
+mon090.jpg
+mon091.jpg
+mon092.jpg
+mon093.jpg
+mon094.jpg
+mon095.jpg
+mon096.jpg
+mon097.jpg
+mon098.jpg
+mon099.jpg
+mon100.jpg
+mon101.jpg
+mon102.jpg
+mon103.jpg
+mon104.jpg
+mon105.jpg
+mon106.jpg
+mon107.jpg
+mon108.jpg
+mon109.jpg
+mon110.jpg
+mon111.jpg
+mon112.jpg
+mon113.jpg
+mon114.jpg
+mon115.jpg
+mon116.jpg
+mon117.jpg
+mon118.jpg
+mon119.jpg
+mon120.jpg
+mon121.jpg
+mon122.jpg
+mon123.jpg
+mon124.jpg
+mon125.jpg
+mon126.jpg
+mon127.jpg
+mon128.jpg
+mon129.jpg
+mon130.jpg
+mon131.jpg
+mon132.jpg
+mon133.jpg
+mon134.jpg
+mon135.jpg
+mon136.jpg
+mon137.jpg
+mon138.jpg
+mon139.jpg
+mon140.jpg
+mon141.jpg
+mon142.jpg
+opop.sh
+presets
+README.md
+RELEASE
+sound.wav
+tests
+tools
+VERSION
+version.sh
+#Git sucessful
