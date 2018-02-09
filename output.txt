@@ -27,4 +27,20 @@ fi
 fi
 done
 echo "}" >> tot.json
+mainjson.sh
+json.sh
+#IMPORTANT ONLY IMAGES 
+
+#SED will remove numbers so,mp4 wiil be outputed as mp(BE CAREFUL)
+
+
+#tot.json creator file
+#Which should contain total number of thumbnails in this directory
+#and extension
+#and name before numbers
+tot=$(ls -1 -v | grep -E 'jpg$|png$|jpeg$|$gif'| wc -l)
+name=$(ls -1 -v | grep -E 'jpg$|png$|jpeg$|$gif'| sed 's/[0-9]*//g' | sort -u | cut -d "." -f1)
+exten=$(ls -1 -v | grep -E 'jpg$|png$|jpeg$|$gif'| sed 's/[0-9]*//g' | sort -u | cut -d "." -f2)
+echo "{\"tot\":$tot ,\"name\":\"$name\" ,\"exten\":\"$exten\"}"
+echo "{\"tot\":$tot ,\"name\":\"$name\" ,\"exten\":\"$exten\"}" > tot.json
 #Git sucessful
