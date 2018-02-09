@@ -1,11 +1,18 @@
 #start
 
-ex2.sh
-ex.sh
-f.sh
-gitauto.sh
-output.txt
-procstart.sh
-Rhtnew.md
-Rhtold.md
+assets
+ffmpeg
+Funmanga
+index.html
+Kissanime-Downloader
+libav-12.2
+listmaker.sh
+mangacruzers
+manganelo
+Myanimewebsite
+n.py
+renamespaceto_.sh
+rythplayer
+Souleater
+twist.moe
 #Git sucessful
