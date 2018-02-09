@@ -1,4 +1,5 @@
+#EDIT
 cd ../../
-cd rythplayer
-cd thumbs
-ls
+cd rythplayer/thumbs
+echo main
+cat main*
