@@ -1,7 +1,7 @@
 #start
 
-total 56G
--rwxr-xr-x. 1 phani.rithvij 201783  452 Feb 13 22:15 download.sh
+total 68G
+-rwxr-xr-x. 1 phani.rithvij 201783  452 Feb 17 14:59 download.sh
 -rw-r--r--. 1 phani.rithvij 201783 111M Feb 13 22:53 [HorribleSubs] Bleach - 001 [480p].mp4
 -rw-r--r--. 1 phani.rithvij 201783 115M Feb 13 23:22 [HorribleSubs] Bleach - 002 [480p].mp4
 -rw-r--r--. 1 phani.rithvij 201783 109M Feb 13 23:51 [HorribleSubs] Bleach - 003 [480p].mp4
@@ -320,7 +320,33 @@ total 56G
 -rw-r--r--. 1 phani.rithvij 201783 393M Feb 16 18:05 [HorribleSubs] Bleach - 316 [1080p].mp4
 -rw-r--r--. 1 phani.rithvij 201783 425M Feb 16 19:24 [HorribleSubs] Bleach - 317 [1080p].mp4
 -rw-r--r--. 1 phani.rithvij 201783 376M Feb 16 21:07 [HorribleSubs] Bleach - 318 [1080p].mp4
--rw-r--r--. 1 phani.rithvij 201783  23M Feb 16 21:15 [HorribleSubs] Bleach - 319 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 453M Feb 17 16:06 [HorribleSubs] Bleach - 319 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 438M Feb 17 17:52 [HorribleSubs] Bleach - 320 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 409M Feb 17 19:34 [HorribleSubs] Bleach - 321 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 404M Feb 17 21:58 [HorribleSubs] Bleach - 322 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 385M Feb 18 00:07 [HorribleSubs] Bleach - 323 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 508M Feb 18 01:26 [HorribleSubs] Bleach - 324 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 405M Feb 18 01:53 [HorribleSubs] Bleach - 325 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 477M Feb 18 02:18 [HorribleSubs] Bleach - 326 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 511M Feb 18 02:38 [HorribleSubs] Bleach - 327 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 458M Feb 18 03:04 [HorribleSubs] Bleach - 328 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 400M Feb 18 03:30 [HorribleSubs] Bleach - 329 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 400M Feb 18 03:54 [HorribleSubs] Bleach - 330 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 505M Feb 18 04:24 [HorribleSubs] Bleach - 331 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 525M Feb 18 04:57 [HorribleSubs] Bleach - 332 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 596M Feb 18 05:39 [HorribleSubs] Bleach - 333 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 527M Feb 18 06:10 [HorribleSubs] Bleach - 334 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 428M Feb 18 06:42 [HorribleSubs] Bleach - 335 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 411M Feb 18 07:23 [HorribleSubs] Bleach - 336 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 424M Feb 18 08:12 [HorribleSubs] Bleach - 337 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 464M Feb 18 09:29 [HorribleSubs] Bleach - 338 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 499M Feb 18 11:14 [HorribleSubs] Bleach - 339 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 527M Feb 18 14:01 [HorribleSubs] Bleach - 340 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 562M Feb 18 17:07 [HorribleSubs] Bleach - 341 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 425M Feb 18 19:14 [HorribleSubs] Bleach - 342 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783 421M Feb 18 21:45 [HorribleSubs] Bleach - 343 [1080p].mp4
+-rw-r--r--. 1 phani.rithvij 201783  30M Feb 18 21:58 [HorribleSubs] Bleach - 344 [1080p].mp4
 -rw-r--r--. 1 phani.rithvij 201783  26K Feb 11 19:29 list.txt
 -rw-r--r--. 1 phani.rithvij 201783 1.5K Feb 14 19:24 player.html
+-rw-r--r--. 1 phani.rithvij 201783    0 Feb 16 21:57 wget-log
 #Git sucessful
