@@ -1,3 +1,12 @@
 #start
 
+total 88K
+-rwxr-xr-x. 1 phani.rithvij 201783   30 Apr  2 17:46 ex2.sh
+-rwxr-xr-x. 1 phani.rithvij 201783  221 Feb  2 17:05 ex.sh
+-rwxr-xr-x. 1 phani.rithvij 201783 1.8K Feb  2 17:05 f.sh
+-rwxrwxrwx. 1 phani.rithvij 201783  113 Feb  2 17:05 gitauto.sh
+-rw-r--r--. 1 phani.rithvij 201783    8 Apr  2 17:46 output.txt
+-rwxr-xr-x. 1 phani.rithvij 201783  282 Feb  2 17:05 procstart.sh
+-rw-r--r--. 1 phani.rithvij 201783  31K Apr  2 17:46 Rhtnew.md
+-rw-r--r--. 1 phani.rithvij 201783  31K Apr  2 17:46 Rhtold.md
 #Git sucessful
