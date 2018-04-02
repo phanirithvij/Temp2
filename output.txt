@@ -1,13 +1,10 @@
 #start
 
-total 96K
-4.0K -rwxr-xr-x. 1 phani.rithvij 201783   41 Apr  2 17:50 ex2.sh
-4.0K -rwxr-xr-x. 1 phani.rithvij 201783  221 Feb  2 17:05 ex.sh
-4.0K -rwxr-xr-x. 1 phani.rithvij 201783 1.8K Feb  2 17:05 f.sh
-4.0K -rwxrwxrwx. 1 phani.rithvij 201783  113 Feb  2 17:05 gitauto.sh
-4.0K -rw-r--r--. 1 phani.rithvij 201783    8 Apr  2 17:50 output.txt
-4.0K -rwxr-xr-x. 1 phani.rithvij 201783  282 Feb  2 17:05 procstart.sh
- 32K -rw-r--r--. 1 phani.rithvij 201783  31K Apr  2 17:50 Rhtnew.md
- 32K -rw-r--r--. 1 phani.rithvij 201783  31K Apr  2 17:50 Rhtold.md
-8.0K -rw-r--r--. 1 phani.rithvij 201783 7.3K Apr  2 17:48 tot.json
+total 513M
+4.0K -rwxr-xr-x. 1 phani.rithvij 201783  545 Jan 30 17:37 Downloader.sh
+332M -rw-r--r--. 1 phani.rithvij 201783 332M Apr  2 17:44 Gintama_Season_7_Episode_342.mp4
+157M -rw-r--r--. 1 phani.rithvij 201783 157M Apr  2 17:50 Gintama_Season_7_Episode_343.mp4
+ 25M -rw-r--r--. 1 phani.rithvij 201783  25M Apr  2 17:52 Gintama_Season_7_Episode_344.mp4
+4.0K -rw-r--r--. 1 phani.rithvij 201783 1.6K Apr  2 17:31 list.txt
+4.0K -rwxr-xr-x. 1 phani.rithvij 201783   75 Jan 30 17:37 start.sh
 #Git sucessful
