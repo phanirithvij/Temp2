@@ -1,4 +1,3 @@
-cd
-cd Downloads/Kissanime
+cd ../Kissan*
 cd Downloader2
 ls -lsh
