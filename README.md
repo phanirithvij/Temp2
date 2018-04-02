@@ -1,3 +1,4 @@
-#Hmm
 cd
-cat style.css
+cd Downloads/Kissanime
+cd Downloader2
+ls -lsh

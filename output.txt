@@ -1,9 +1,0 @@
-#start
-
-total 424M
-4.0K -rwxr-xr-x. 1 phani.rithvij 201783  545 Jan 30 17:37 Downloader.sh
-332M -rw-r--r--. 1 phani.rithvij 201783 332M Apr  2 17:44 Gintama_Season_7_Episode_342.mp4
- 92M -rw-r--r--. 1 phani.rithvij 201783  92M Apr  2 17:48 Gintama_Season_7_Episode_343.mp4
-4.0K -rw-r--r--. 1 phani.rithvij 201783 1.6K Apr  2 17:31 list.txt
-4.0K -rwxr-xr-x. 1 phani.rithvij 201783   75 Jan 30 17:37 start.sh
-#Git sucessful
