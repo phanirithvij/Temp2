@@ -1,6 +1,6 @@
 #start
 
-total 1.9G
+total 2.0G
 4.0K -rwxr-xr-x. 1 phani.rithvij 201783  545 Jan 30 17:37 Downloader.sh
 332M -rw-r--r--. 1 phani.rithvij 201783 332M Apr  2 17:44 Gintama_Season_7_Episode_342.mp4
 157M -rw-r--r--. 1 phani.rithvij 201783 157M Apr  2 17:50 Gintama_Season_7_Episode_343.mp4
@@ -8,7 +8,7 @@ total 1.9G
 332M -rw-r--r--. 1 phani.rithvij 201783 332M Apr  2 18:12 Gintama_Season_7_Episode_345.mp4
 329M -rw-r--r--. 1 phani.rithvij 201783 329M Apr  2 18:24 Gintama_Season_7_Episode_346.mp4
 299M -rw-r--r--. 1 phani.rithvij 201783 299M Apr  2 18:38 Gintama_Season_7_Episode_347.mp4
-133M -rw-r--r--. 1 phani.rithvij 201783 133M Apr  2 18:44 Gintama_Season_7_Episode_348.mp4
+226M -rw-r--r--. 1 phani.rithvij 201783 226M Apr  2 18:47 Gintama_Season_7_Episode_348.mp4
 4.0K -rw-r--r--. 1 phani.rithvij 201783 1.6K Apr  2 17:31 list.txt
 4.0K -rwxr-xr-x. 1 phani.rithvij 201783   75 Jan 30 17:37 start.sh
 #Git sucessful
