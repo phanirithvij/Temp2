@@ -1,8 +1,9 @@
 #start
 
-total 138M
+total 215M
 4.0K -rwxr-xr-x. 1 phani.rithvij 201783  452 Feb 13 22:15 download.sh
 104M -rw-r--r--. 1 phani.rithvij 201783 104M Apr  8 22:53 [HorribleSubs] Naruto Shippuuden - 001 [480p].mp4
- 34M -rw-r--r--. 1 phani.rithvij 201783  34M Apr  8 22:56 [HorribleSubs] Naruto Shippuuden - 002 [480p].mp4
+ 98M -rw-r--r--. 1 phani.rithvij 201783  98M Apr  8 23:03 [HorribleSubs] Naruto Shippuuden - 002 [480p].mp4
+ 13M -rw-r--r--. 1 phani.rithvij 201783  13M Apr  8 23:05 [HorribleSubs] Naruto Shippuuden - 003 [480p].mp4
  48K -rw-r--r--. 1 phani.rithvij 201783  45K Feb 11 19:43 list.txt
 #Git sucessful
