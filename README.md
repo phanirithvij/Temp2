@@ -1,4 +1,2 @@
-cd ../../Kissanime
-cd Downloader2
+cd ../
 ls -lsh
-#Aslightchange
