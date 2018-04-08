@@ -1,45 +1,8 @@
 #start
 
-total 5.2M
-4.0K -rw-r--r--.   1 phani.rithvij 201783    6 Feb 17 17:14 3.b
-4.0K -rw-r--r--.   1 phani.rithvij 201783    6 Feb 17 17:14 3.e
-4.0K -rwxrwxrwx.   1 phani.rithvij 201783  131 Feb 11 19:27 allanime.sh
- 40K drwxr-xr-x. 849 phani.rithvij 201783  36K Feb 17 17:09 Anime
- 24K -rw-r--r--.   1 phani.rithvij 201783  18K Feb 11 19:57 animelist.txt
-4.0K drwxr-xr-x.   3 phani.rithvij 201783 4.0K Mar  1 16:56 animepahe
-4.0K -rwxr-xr-x.   1 phani.rithvij 201783  853 Feb 17 17:10 ANothereditjson.sh
-1.6M -rw-r--r--.   1 phani.rithvij 201783 1.6M Feb 17 17:10 Atwistlinks.json
-4.0K -rw-r--r--.   1 phani.rithvij 201783 1.1K Feb  8 13:14 Back to top.user.js
-4.0K drwxr-xr-x.   3 phani.rithvij 201783 4.0K Mar  1 16:56 cloudinary
-4.0K -rwxrwxrwx.   1 phani.rithvij 201783   65 Feb 13 22:15 cpdownload.sh
-4.0K drwxr-xr-x.   2 phani.rithvij 201783 4.0K Feb 27 13:09 css
-4.0K -rwxr-xr-x.   1 phani.rithvij 201783  452 Feb 27 13:14 download2.sh
-4.0K -rwxr-xr-x.   1 phani.rithvij 201783  452 Feb 13 22:13 download.sh
-140K -rw-r--r--.   1 phani.rithvij 201783 137K Feb 11 18:58 index.html
-4.0K -rwxr-xr-x.   1 phani.rithvij 201783 1.4K Feb 18 00:01 jsondelaspipe.sh
-4.0K -rwxr-xr-x.   1 phani.rithvij 201783  844 Feb 17 17:08 json.sh
-4.0K -rwxrwxrwx.   1 phani.rithvij 201783  793 Feb 11 21:20 json.sh.bac
-4.0K -rw-r--r--.   1 phani.rithvij 201783 1.8K Feb 27 13:09 kitsu.js
-4.0K -rwxrwxrwx.   1 phani.rithvij 201783  477 Jan 31 19:14 list.sh
-4.0K drwxr-xr-x.   2 phani.rithvij 201783 4.0K Mar  1 16:56 MASTERANIME
-4.0K -rwxr-xr-x.   1 phani.rithvij 201783  525 Feb 18 00:01 newtwistnames.sh
-4.0K -rwxr-xr-x.   1 phani.rithvij 201783  953 Feb 18 00:01 noeditjson.sh
-8.0K -rw-r--r--.   1 phani.rithvij 201783 5.3K Feb 19 13:27 oldtwstanime.html
-4.0K -rw-r--r--.   1 phani.rithvij 201783 1.5K Feb 14 19:25 player.html
-4.0K -rw-r--r--.   1 phani.rithvij 201783   21 Mar  1 16:56 ReadINFOAPI.txt
-4.0K -rw-r--r--.   1 phani.rithvij 201783 1.4K Feb 17 15:05 README.md
-4.0K -rw-r--r--.   1 phani.rithvij 201783 2.5K Feb 27 13:09 search.js
-4.0K -rw-r--r--.   1 phani.rithvij 201783 3.2K Feb 20 15:33 settings.svg
-4.0K drwxr-xr-x.   3 phani.rithvij 201783 4.0K Mar  1 16:56 simkl
-4.0K -rw-r--r--.   1 phani.rithvij 201783  201 Feb 13 22:05 sizes.sh
-4.0K -rwxr-xr-x.   1 phani.rithvij 201783 1.6K Feb  8 19:31 startp.sh
-4.0K drwxr-xr-x.   3 phani.rithvij 201783 4.0K Apr  8 22:55 Temp2
-4.0K drwxr-xr-x.   2 phani.rithvij 201783 4.0K Mar  1 16:56 themoviedb
-4.0K drwxr-xr-x.   2 phani.rithvij 201783 4.0K Mar  1 16:56 thetvdb
-1.6M -rw-r--r--.   1 phani.rithvij 201783 1.6M Feb 18 00:01 twistlinks.json
-1.6M -rw-r--r--.   1 phani.rithvij 201783 1.6M Feb 19 13:15 twistlinks.json.bac
-4.0K -rwxrwxrwx.   1 phani.rithvij 201783  157 Feb 11 19:25 twistnames.sh
- 52K -rw-r--r--.   1 phani.rithvij 201783  51K Feb 18 00:01 twlist.txt
- 36K -rw-r--r--.   1 phani.rithvij 201783  36K Feb 18 00:01 twlist.txt.bac
- 16K -rw-r--r--.   1 phani.rithvij 201783  14K Mar  1 16:56 twstanime.html
+total 138M
+4.0K -rwxr-xr-x. 1 phani.rithvij 201783  452 Feb 13 22:15 download.sh
+104M -rw-r--r--. 1 phani.rithvij 201783 104M Apr  8 22:53 [HorribleSubs] Naruto Shippuuden - 001 [480p].mp4
+ 34M -rw-r--r--. 1 phani.rithvij 201783  34M Apr  8 22:56 [HorribleSubs] Naruto Shippuuden - 002 [480p].mp4
+ 48K -rw-r--r--. 1 phani.rithvij 201783  45K Feb 11 19:43 list.txt
 #Git sucessful
