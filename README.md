@@ -1,4 +1,2 @@
 cd ../Anime/naruto-shippuden
-ls -lsh
-du -h
-#nani
+./download.sh 91 92
