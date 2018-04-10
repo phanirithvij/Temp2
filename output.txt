@@ -1,96 +1,14 @@
 #start
 
-total 13G
-4.0K -rwxr-xr-x. 1 phani.rithvij 201783  452 Feb 13 22:15 download.sh
-104M -rw-r--r--. 1 phani.rithvij 201783 104M Apr  8 22:53 [HorribleSubs] Naruto Shippuuden - 001 [480p].mp4
- 98M -rw-r--r--. 1 phani.rithvij 201783  98M Apr  8 23:03 [HorribleSubs] Naruto Shippuuden - 002 [480p].mp4
-116M -rw-r--r--. 1 phani.rithvij 201783 116M Apr  8 23:14 [HorribleSubs] Naruto Shippuuden - 003 [480p].mp4
- 97M -rw-r--r--. 1 phani.rithvij 201783  97M Apr  8 23:18 [HorribleSubs] Naruto Shippuuden - 004 [480p].mp4
- 91M -rw-r--r--. 1 phani.rithvij 201783  91M Apr  8 23:22 [HorribleSubs] Naruto Shippuuden - 005 [480p].mp4
- 88M -rw-r--r--. 1 phani.rithvij 201783  88M Apr  8 23:26 [HorribleSubs] Naruto Shippuuden - 006 [480p].mp4
- 94M -rw-r--r--. 1 phani.rithvij 201783  94M Apr  8 23:30 [HorribleSubs] Naruto Shippuuden - 007 [480p].mp4
- 97M -rw-r--r--. 1 phani.rithvij 201783  97M Apr  8 23:36 [HorribleSubs] Naruto Shippuuden - 008 [480p].mp4
-120M -rw-r--r--. 1 phani.rithvij 201783 120M Apr  8 23:45 [HorribleSubs] Naruto Shippuuden - 009 [480p].mp4
- 85M -rw-r--r--. 1 phani.rithvij 201783  85M Apr  8 23:49 [HorribleSubs] Naruto Shippuuden - 010 [480p].mp4
- 96M -rw-r--r--. 1 phani.rithvij 201783  96M Apr  8 23:54 [HorribleSubs] Naruto Shippuuden - 011 [480p].mp4
-113M -rw-r--r--. 1 phani.rithvij 201783 113M Apr  9 00:04 [HorribleSubs] Naruto Shippuuden - 012 [480p].mp4
-128M -rw-r--r--. 1 phani.rithvij 201783 128M Apr  9 00:10 [HorribleSubs] Naruto Shippuuden - 013 [480p].mp4
-132M -rw-r--r--. 1 phani.rithvij 201783 132M Apr  9 00:20 [HorribleSubs] Naruto Shippuuden - 014 [480p].mp4
-115M -rw-r--r--. 1 phani.rithvij 201783 115M Apr  9 00:27 [HorribleSubs] Naruto Shippuuden - 015 [480p].mp4
- 96M -rw-r--r--. 1 phani.rithvij 201783  96M Apr  9 00:31 [HorribleSubs] Naruto Shippuuden - 016 [480p].mp4
-127M -rw-r--r--. 1 phani.rithvij 201783 127M Apr  9 00:37 [HorribleSubs] Naruto Shippuuden - 017 [480p].mp4
- 97M -rw-r--r--. 1 phani.rithvij 201783  97M Apr  9 00:43 [HorribleSubs] Naruto Shippuuden - 018 [480p].mp4
- 99M -rw-r--r--. 1 phani.rithvij 201783  99M Apr  9 00:52 [HorribleSubs] Naruto Shippuuden - 019 [480p].mp4
- 95M -rw-r--r--. 1 phani.rithvij 201783  95M Apr  9 01:02 [HorribleSubs] Naruto Shippuuden - 020 [480p].mp4
-100M -rw-r--r--. 1 phani.rithvij 201783 100M Apr  9 01:08 [HorribleSubs] Naruto Shippuuden - 021 [480p].mp4
-111M -rw-r--r--. 1 phani.rithvij 201783 111M Apr  9 01:17 [HorribleSubs] Naruto Shippuuden - 022 [480p].mp4
- 87M -rw-r--r--. 1 phani.rithvij 201783  87M Apr  9 01:22 [HorribleSubs] Naruto Shippuuden - 023 [480p].mp4
-124M -rw-r--r--. 1 phani.rithvij 201783 124M Apr  9 01:32 [HorribleSubs] Naruto Shippuuden - 024 [480p].mp4
-111M -rw-r--r--. 1 phani.rithvij 201783 111M Apr  9 01:39 [HorribleSubs] Naruto Shippuuden - 025 [480p].mp4
-138M -rw-r--r--. 1 phani.rithvij 201783 138M Apr  9 01:47 [HorribleSubs] Naruto Shippuuden - 026 [480p].mp4
- 91M -rw-r--r--. 1 phani.rithvij 201783  91M Apr  9 01:56 [HorribleSubs] Naruto Shippuuden - 027 [480p].mp4
-124M -rw-r--r--. 1 phani.rithvij 201783 124M Apr  9 02:07 [HorribleSubs] Naruto Shippuuden - 028 [480p].mp4
-149M -rw-r--r--. 1 phani.rithvij 201783 149M Apr  9 02:16 [HorribleSubs] Naruto Shippuuden - 029 [480p].mp4
-112M -rw-r--r--. 1 phani.rithvij 201783 112M Apr  9 02:23 [HorribleSubs] Naruto Shippuuden - 030 [480p].mp4
-102M -rw-r--r--. 1 phani.rithvij 201783 102M Apr  9 22:32 [HorribleSubs] Naruto Shippuuden - 031 [480p].mp4
- 97M -rw-r--r--. 1 phani.rithvij 201783  97M Apr  9 22:37 [HorribleSubs] Naruto Shippuuden - 032 [480p].mp4
-106M -rw-r--r--. 1 phani.rithvij 201783 106M Apr  9 22:41 [HorribleSubs] Naruto Shippuuden - 033 [480p].mp4
- 88M -rw-r--r--. 1 phani.rithvij 201783  88M Apr  9 22:44 [HorribleSubs] Naruto Shippuuden - 034 [480p].mp4
- 88M -rw-r--r--. 1 phani.rithvij 201783  88M Apr  9 22:47 [HorribleSubs] Naruto Shippuuden - 035 [480p].mp4
- 91M -rw-r--r--. 1 phani.rithvij 201783  91M Apr  9 22:51 [HorribleSubs] Naruto Shippuuden - 036 [480p].mp4
- 95M -rw-r--r--. 1 phani.rithvij 201783  95M Apr  9 22:55 [HorribleSubs] Naruto Shippuuden - 037 [480p].mp4
- 92M -rw-r--r--. 1 phani.rithvij 201783  92M Apr  9 22:58 [HorribleSubs] Naruto Shippuuden - 038 [480p].mp4
-107M -rw-r--r--. 1 phani.rithvij 201783 107M Apr  9 23:02 [HorribleSubs] Naruto Shippuuden - 039 [480p].mp4
-129M -rw-r--r--. 1 phani.rithvij 201783 129M Apr  9 23:07 [HorribleSubs] Naruto Shippuuden - 040 [480p].mp4
-133M -rw-r--r--. 1 phani.rithvij 201783 133M Apr  9 23:13 [HorribleSubs] Naruto Shippuuden - 041 [480p].mp4
-184M -rw-r--r--. 1 phani.rithvij 201783 184M Apr  9 23:19 [HorribleSubs] Naruto Shippuuden - 042 [480p].mp4
-165M -rw-r--r--. 1 phani.rithvij 201783 165M Apr  9 23:27 [HorribleSubs] Naruto Shippuuden - 043 [480p].mp4
-111M -rw-r--r--. 1 phani.rithvij 201783 111M Apr  9 23:31 [HorribleSubs] Naruto Shippuuden - 044 [480p].mp4
-130M -rw-r--r--. 1 phani.rithvij 201783 130M Apr  9 23:35 [HorribleSubs] Naruto Shippuuden - 045 [480p].mp4
-105M -rw-r--r--. 1 phani.rithvij 201783 105M Apr  9 23:39 [HorribleSubs] Naruto Shippuuden - 046 [480p].mp4
-101M -rw-r--r--. 1 phani.rithvij 201783 101M Apr  9 23:53 [HorribleSubs] Naruto Shippuuden - 047 [480p].mp4
- 87M -rw-r--r--. 1 phani.rithvij 201783  87M Apr  9 23:56 [HorribleSubs] Naruto Shippuuden - 048 [480p].mp4
-125M -rw-r--r--. 1 phani.rithvij 201783 125M Apr 10 00:01 [HorribleSubs] Naruto Shippuuden - 049 [480p].mp4
-108M -rw-r--r--. 1 phani.rithvij 201783 108M Apr 10 00:06 [HorribleSubs] Naruto Shippuuden - 050 [480p].mp4
-106M -rw-r--r--. 1 phani.rithvij 201783 106M Apr 10 00:12 [HorribleSubs] Naruto Shippuuden - 051 [480p].mp4
-121M -rw-r--r--. 1 phani.rithvij 201783 121M Apr 10 00:20 [HorribleSubs] Naruto Shippuuden - 052 [480p].mp4
-111M -rw-r--r--. 1 phani.rithvij 201783 111M Apr 10 00:24 [HorribleSubs] Naruto Shippuuden - 053 [480p].mp4
-104M -rw-r--r--. 1 phani.rithvij 201783 104M Apr 10 00:29 [HorribleSubs] Naruto Shippuuden - 054 [480p].mp4
- 94M -rw-r--r--. 1 phani.rithvij 201783  94M Apr 10 00:33 [HorribleSubs] Naruto Shippuuden - 055 [480p].mp4
-100M -rw-r--r--. 1 phani.rithvij 201783 100M Apr 10 00:39 [HorribleSubs] Naruto Shippuuden - 056 [480p].mp4
-115M -rw-r--r--. 1 phani.rithvij 201783 115M Apr 10 00:46 [HorribleSubs] Naruto Shippuuden - 057 [480p].mp4
- 98M -rw-r--r--. 1 phani.rithvij 201783  98M Apr 10 00:50 [HorribleSubs] Naruto Shippuuden - 058 [480p].mp4
-106M -rw-r--r--. 1 phani.rithvij 201783 106M Apr 10 00:53 [HorribleSubs] Naruto Shippuuden - 059 [480p].mp4
-100M -rw-r--r--. 1 phani.rithvij 201783 100M Apr 10 00:57 [HorribleSubs] Naruto Shippuuden - 060 [480p].mp4
-121M -rw-r--r--. 1 phani.rithvij 201783 121M Apr  9 23:39 [HorribleSubs] Naruto Shippuuden - 061 [480p].mp4
-113M -rw-r--r--. 1 phani.rithvij 201783 113M Apr  9 23:45 [HorribleSubs] Naruto Shippuuden - 062 [480p].mp4
-104M -rw-r--r--. 1 phani.rithvij 201783 104M Apr 10 00:03 [HorribleSubs] Naruto Shippuuden - 063 [480p].mp4
-107M -rw-r--r--. 1 phani.rithvij 201783 107M Apr 10 00:10 [HorribleSubs] Naruto Shippuuden - 064 [480p].mp4
-115M -rw-r--r--. 1 phani.rithvij 201783 115M Apr 10 00:17 [HorribleSubs] Naruto Shippuuden - 065 [480p].mp4
-103M -rw-r--r--. 1 phani.rithvij 201783 103M Apr 10 00:22 [HorribleSubs] Naruto Shippuuden - 066 [480p].mp4
-105M -rw-r--r--. 1 phani.rithvij 201783 105M Apr 10 00:27 [HorribleSubs] Naruto Shippuuden - 067 [480p].mp4
- 99M -rw-r--r--. 1 phani.rithvij 201783  99M Apr 10 00:31 [HorribleSubs] Naruto Shippuuden - 068 [480p].mp4
-121M -rw-r--r--. 1 phani.rithvij 201783 121M Apr 10 00:37 [HorribleSubs] Naruto Shippuuden - 069 [480p].mp4
-162M -rw-r--r--. 1 phani.rithvij 201783 162M Apr 10 00:46 [HorribleSubs] Naruto Shippuuden - 070 [480p].mp4
-148M -rw-r--r--. 1 phani.rithvij 201783 148M Apr 10 00:51 [HorribleSubs] Naruto Shippuuden - 071 [480p].mp4
-112M -rw-r--r--. 1 phani.rithvij 201783 112M Apr 10 00:54 [HorribleSubs] Naruto Shippuuden - 072 [480p].mp4
-132M -rw-r--r--. 1 phani.rithvij 201783 132M Apr 10 00:59 [HorribleSubs] Naruto Shippuuden - 073 [480p].mp4
-117M -rw-r--r--. 1 phani.rithvij 201783 117M Apr 10 01:03 [HorribleSubs] Naruto Shippuuden - 074 [480p].mp4
-109M -rw-r--r--. 1 phani.rithvij 201783 109M Apr 10 01:05 [HorribleSubs] Naruto Shippuuden - 075 [480p].mp4
-126M -rw-r--r--. 1 phani.rithvij 201783 126M Apr 10 01:08 [HorribleSubs] Naruto Shippuuden - 076 [480p].mp4
-118M -rw-r--r--. 1 phani.rithvij 201783 118M Apr 10 01:11 [HorribleSubs] Naruto Shippuuden - 077 [480p].mp4
-109M -rw-r--r--. 1 phani.rithvij 201783 109M Apr 10 01:15 [HorribleSubs] Naruto Shippuuden - 078 [480p].mp4
-124M -rw-r--r--. 1 phani.rithvij 201783 124M Apr 10 01:18 [HorribleSubs] Naruto Shippuuden - 079 [480p].mp4
-328M -rw-r--r--. 1 phani.rithvij 201783 328M Apr 10 01:27 [HorribleSubs] Naruto Shippuuden - 080 [1080p].mp4
-485M -rw-r--r--. 1 phani.rithvij 201783 485M Apr 10 01:40 [HorribleSubs] Naruto Shippuuden - 081 [1080p].mp4
-210M -rw-r--r--. 1 phani.rithvij 201783 210M Apr 10 01:46 [HorribleSubs] Naruto Shippuuden - 082 [1080p].mp4
-399M -rw-r--r--. 1 phani.rithvij 201783 399M Apr 10 01:56 [HorribleSubs] Naruto Shippuuden - 083 [1080p].mp4
-475M -rw-r--r--. 1 phani.rithvij 201783 475M Apr 10 02:10 [HorribleSubs] Naruto Shippuuden - 084 [1080p].mp4
-429M -rw-r--r--. 1 phani.rithvij 201783 429M Apr 10 02:23 [HorribleSubs] Naruto Shippuuden - 085 [1080p].mp4
-416M -rw-r--r--. 1 phani.rithvij 201783 416M Apr 10 02:36 [HorribleSubs] Naruto Shippuuden - 086 [1080p].mp4
-396M -rw-r--r--. 1 phani.rithvij 201783 396M Apr 10 02:48 [HorribleSubs] Naruto Shippuuden - 087 [1080p].mp4
-487M -rw-r--r--. 1 phani.rithvij 201783 487M Apr 10 02:57 [HorribleSubs] Naruto Shippuuden - 088 [1080p].mp4
-313M -rw-r--r--. 1 phani.rithvij 201783 313M Apr 10 03:04 [HorribleSubs] Naruto Shippuuden - 089 [1080p].mp4
-305M -rw-r--r--. 1 phani.rithvij 201783 305M Apr 10 03:14 [HorribleSubs] Naruto Shippuuden - 090 [1080p].mp4
- 48K -rw-r--r--. 1 phani.rithvij 201783  45K Feb 11 19:43 list.txt
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        869M     0  869M   0% /dev
+tmpfs           879M  2.9M  876M   1% /dev/shm
+tmpfs           879M  1.5M  878M   1% /run
+tmpfs           879M     0  879M   0% /sys/fs/cgroup
+/dev/sda5       363G  193G  152G  56% /
+tmpfs           879M  152K  879M   1% /tmp
+/dev/sda1       477M  139M  309M  32% /boot
+/dev/sda2        92G  7.5G   80G   9% /home
+tmpfs           176M   16K  176M   1% /run/user/42
+tmpfs           176M  4.9M  171M   3% /run/user/20171158
 #Git sucessful
