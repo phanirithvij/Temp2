@@ -1,3 +1,3 @@
 cd ../Anime/one-punch-man
-cat list.txt
+./download.sh 1 12
 ls -lsh
