@@ -1,3 +1,18 @@
 #start
 
+total 6.1G
+4.0K -rwxr-xr-x. 1 phani.rithvij 201783  452 Feb 13 22:15 download.sh
+515M -rw-r--r--. 1 phani.rithvij 201783 515M Apr 11 15:13 [HorribleSubs] One-Punch Man - 01 [1080p].mp4
+544M -rw-r--r--. 1 phani.rithvij 201783 544M Apr 11 15:42 [HorribleSubs] One-Punch Man - 02 [1080p].mp4
+489M -rw-r--r--. 1 phani.rithvij 201783 489M Apr 11 16:11 [HorribleSubs] One-Punch Man - 03 [1080p].mp4
+480M -rw-r--r--. 1 phani.rithvij 201783 480M Apr 11 16:44 [HorribleSubs] One-Punch Man - 04 [1080p].mp4
+467M -rw-r--r--. 1 phani.rithvij 201783 467M Apr 11 17:24 [HorribleSubs] One-Punch Man - 05 [1080p].mp4
+475M -rw-r--r--. 1 phani.rithvij 201783 475M Apr 11 18:02 [HorribleSubs] One-Punch Man - 06 [1080p].mp4
+518M -rw-r--r--. 1 phani.rithvij 201783 518M Apr 11 18:42 [HorribleSubs] One-Punch Man - 07 [1080p].mp4
+578M -rw-r--r--. 1 phani.rithvij 201783 578M Apr 11 19:32 [HorribleSubs] One-Punch Man - 08 [1080p].mp4
+562M -rw-r--r--. 1 phani.rithvij 201783 562M Apr 11 20:07 [HorribleSubs] One-Punch Man - 09 [1080p].mp4
+426M -rw-r--r--. 1 phani.rithvij 201783 426M Apr 11 20:30 [HorribleSubs] One-Punch Man - 10 [1080p].mp4
+515M -rw-r--r--. 1 phani.rithvij 201783 515M Apr 11 20:51 [HorribleSubs] One-Punch Man - 11 [1080p].mp4
+583M -rw-r--r--. 1 phani.rithvij 201783 583M Apr 11 21:26 [HorribleSubs] One-Punch Man - 12 [1080p].mp4
+4.0K -rw-r--r--. 1 phani.rithvij 201783  984 Feb 11 19:46 list.txt
 #Git sucessful
