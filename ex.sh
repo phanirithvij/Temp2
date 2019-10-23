@@ -6,7 +6,7 @@ echo $i >> output.txt
 ./ex2.sh >> output.txt
 if [ -f gitauto.sh  ]
 then
-echo "#Git sucessful" >> output.txt
+echo "# Git sucessful" >> output.txt
 chmod 777 gitauto.sh
 ./gitauto.sh
 fi
