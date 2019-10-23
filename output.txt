@@ -1,6 +1,6 @@
 #start
 
-total 6.1G
+total 6.1Gigaggavabytes
 4.0K -rwxr-xr-x. 1 phani.rithvij 201783  452 Feb 13 22:15 download.sh
 515M -rw-r--r--. 1 phani.rithvij 201783 515M Apr 11 15:13 [HorribleSubs] One-Punch Man - 01 [1080p].mp4
 544M -rw-r--r--. 1 phani.rithvij 201783 544M Apr 11 15:42 [HorribleSubs] One-Punch Man - 02 [1080p].mp4
